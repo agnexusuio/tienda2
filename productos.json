@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "ENV Book Pro Max",
+    "precio": 319,
+    "precio_original": 319,
+    "categoria": "Laptops",
+    "disponibilidad": "En stock",
+    "caracteristicas": ["Intel Celeron N4020", "8 GB RAM", "256 GB SSD", "14.1 pulgadas FHD IPS", "Windows 11"],
+    "imagen": "https://www.pinsoft.ec/getimage/510x510/products/1(155).png?r=y",
+    "url_origen": "https://www.pinsoft.ec/cod-1768-laptop-env-book-pro-max-intel-celeron-n4020-8gb-256gb-ssd-14-1-full-hd-ips-windows-11-preinstalado-wi-fi-5-ac-teclado-espanol-alfanumerico-gris-oscuro/p-9535.html"
+  },
+  {
+    "nombre": "ENV Book Elite",
+    "precio": 374,
+    "precio_original": 374,
+    "categoria": "Laptops",
+    "disponibilidad": "En stock",
+    "caracteristicas": ["AMD Ryzen 5 3500U", "8 GB RAM", "256 GB NVMe SSD", "15.6 pulgadas FHD", "Windows 11"],
+    "imagen": "https://www.pinsoft.ec/getimage/510x510/products/1(156).png?r=y",
+    "url_origen": "https://www.pinsoft.ec/cod-1780-laptop-env-book-elite-amd-ryzen-5-3500u-2-1ghzhasta-3-7ghz-8gb-256gb-nvme-ssd-15-6-full-hd-windows-11-teclado-espanol-alfanumerico-gris-oscuro/p-9623.html"
+  },
+  {
+    "nombre": "HP 14-dq3500la",
+    "precio": 379.5,
+    "precio_original": 379.5,
+    "categoria": "Laptops",
+    "disponibilidad": "En stock",
+    "caracteristicas": ["Intel Celeron N4500", "8 GB RAM", "256 GB NVMe SSD", "14 pulgadas HD", "FreeDOS"],
+    "imagen": "https://www.pinsoft.ec/getimage/510x510/products/thumbs_500_0bb2991cbc8280bc205e(1).png?r=y",
+    "url_origen": "https://www.pinsoft.ec/cod-h-1779-hp-14-dq3500la-intel-celeron-n4500-8gb-256gb-pcie-nvme-ssd-14-0-hd-wi-fi-6-bt-5-4-freedos-teclado-espanol-plateado-natural/p-9621.html"
+  }
+]

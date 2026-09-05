@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AGNEXUSUIO | Tecnología confiable</title>
+  <meta name="description" content="Equipos tecnológicos seleccionados con precios claros y asesoría directa.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="announcement"><span>Envíos a todo Ecuador</span><span>Atención personalizada</span><span>Cotiza por WhatsApp</span></div>
+  <header class="header">
+    <a class="brand" href="#"><span class="brand-mark">A</span><span>AGNEXUSUIO</span></a>
+    <nav class="nav" aria-label="Navegación principal">
+      <a href="#catalogo">Catálogo</a><a href="#beneficios">Beneficios</a><a href="#ayuda">Contacto</a>
+    </nav>
+    <div class="header-actions">
+      <button class="icon-btn" aria-label="Buscar" id="searchToggle">⌕</button>
+      <a class="whatsapp-btn" href="https://wa.me/593992217314" target="_blank" rel="noopener">WhatsApp</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <div class="eyebrow"><span class="pulse"></span> Tecnología para avanzar</div>
+        <h1>Equipos que<br><em>se adaptan</em><br>a tu ritmo.</h1>
+        <p>Computadoras, celulares y televisores seleccionados con precios claros y asesoría directa.</p>
+        <a class="primary-btn" href="#catalogo">Ver catálogo <span>↗</span></a>
+        <div class="hero-meta"><div><strong>100%</strong><small>Precios finales</small></div><div><strong>24h</strong><small>Respuesta rápida</small></div><div><strong>Ecuador</strong><small>Envíos nacionales</small></div></div>
+      </div>
+      <div class="hero-promo">
+        <div class="promo-card promo-main"><span class="promo-kicker">Compra inteligente</span><strong>Precios finales.</strong><p>Sin sorpresas, sin letras pequeñas.</p><span class="promo-arrow">↗</span></div>
+        <div class="promo-row"><div class="promo-card"><strong>+90</strong><span>Computadoras</span></div><div class="promo-card"><strong>+50</strong><span>Celulares</span></div><div class="promo-card"><strong>+80</strong><span>Televisores</span></div></div>
+        <div class="promo-note">Cotiza hoy · recibe atención personalizada</div>
+      </div>
+    </section>
+
+    <section class="catalog" id="catalogo">
+      <div class="section-heading"><div><div class="eyebrow">Catálogo destacado</div><h2 id="catalogTitle">Tecnología lista para ti</h2><p class="tax-note">Precios finales. Cotiza directamente por WhatsApp.</p></div></div>
+      <nav class="category-tabs" aria-label="Categorías de productos">
+        <button class="category-tab active" type="button" data-category="all">Todos</button>
+        <button class="category-tab" type="button" data-category="computers">Computadoras</button>
+        <button class="category-tab" type="button" data-category="phones">Celulares</button>
+        <button class="category-tab" type="button" data-category="tvs">Televisores</button>
+      </nav>
+      <div class="catalog-tools"><label class="search-box" id="searchBox"><span>⌕</span><input id="searchInput" type="search" placeholder="Buscar equipos..."></label><select id="priceFilter" aria-label="Filtrar por precio"><option value="all">Cualquier precio</option><option value="0-200">Hasta $200</option><option value="201-400">$201 a $400</option><option value="401-600">$401 a $600</option><option value="601-plus">Más de $600</option></select><select id="sortSelect" aria-label="Ordenar productos"><option value="price">Menor precio</option><option value="popular">Destacados</option></select></div>
+      <div class="product-grid catalog-grid" id="productGrid"></div>
+      <p class="empty-state" id="emptyState">No encontramos equipos con esos criterios.</p>
+    </section>
+
+    <section class="benefits" id="beneficios">
+      <div class="benefit"><span class="benefit-icon">◈</span><div><h3>Compra sin dudas</h3><p>Especificaciones claras y asesoría real antes de pagar.</p></div></div>
+      <div class="benefit"><span class="benefit-icon">↗</span><div><h3>Entrega a tu puerta</h3><p>Despachamos a todo Ecuador en 24 a 72 horas.</p></div></div>
+      <div class="benefit"><span class="benefit-icon">✓</span><div><h3>Respaldo AGNEXUSUIO</h3><p>Asesoría cercana antes y después de tu compra.</p></div></div>
+    </section>
+
+    <section class="banner" id="ayuda"><div><div class="eyebrow">¿Necesitas una mano?</div><h2>Hablemos de<br>tu próximo equipo.</h2></div><div class="banner-right"><p>Escríbenos y recibe una recomendación clara según tus necesidades.</p><a class="light-btn" href="https://wa.me/593992217314" target="_blank" rel="noopener">Cotizar por WhatsApp <span>↗</span></a></div></section>
+  </main>
+  <footer><a class="brand" href="#"><span class="brand-mark">A</span><span>AGNEXUSUIO</span></a><span>© 2026 AGNEXUSUIO</span><span>contacto@agnexusuio.com · +593 99 221 7314</span></footer>
+
+  <script src="catalogo_actualizado.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

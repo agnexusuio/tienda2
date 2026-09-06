@@ -17,8 +17,6 @@ from urllib.parse import urljoin
 
 import requests
 from bs4 import BeautifulSoup
-from playwright.sync_api import Error as PlaywrightError
-from playwright.sync_api import TimeoutError as PlaywrightTimeoutError
 from playwright.sync_api import sync_playwright
 
 OUTPUT_JSON = "productos.json"
@@ -126,11 +124,7 @@ def extraer_pinsoft_con_navegador(page, fuente):
     encontrados = {}
     for numero in range(1, 4):
         url = fuente["url"] if numero == 1 else f"{fuente['url'].rstrip('/')}/{numero}/"
-        try:
-            page.goto(url, wait_until="domcontentloaded", timeout=40000)
-        except (PlaywrightError, PlaywrightTimeoutError) as error:
-            print(f"No se pudo consultar Pinsoft ({url}): {error}")
-            continue
+        page.goto(url, wait_until="domcontentloaded", timeout=40000)
         page.wait_for_timeout(1500)
         for producto in extraer_pinsoft(page.content()):
             encontrados[producto["url_origen"]] = producto
@@ -149,11 +143,7 @@ def extraer_woocommerce_con_navegador(page, fuente):
         url = f"{fuente['url']}{separador}orderby=price&per_page=24"
         if numero > 1:
             url = f"{fuente['url'].rstrip('/')}/page/{numero}/{separador}orderby=price&per_page=24"
-        try:
-            page.goto(url, wait_until="domcontentloaded", timeout=40000)
-        except (PlaywrightError, PlaywrightTimeoutError) as error:
-            print(f"No se pudo consultar WooCommerce ({url}): {error}")
-            continue
+        page.goto(url, wait_until="domcontentloaded", timeout=40000)
         page.wait_for_timeout(1500)
         soup = BeautifulSoup(page.content(), "html.parser")
         for tarjeta in soup.select("li.product, article.product, div.product-small, .product"):
@@ -234,15 +224,12 @@ def main():
             for producto in seleccionados:
                 producto["fuente"] = fuente["nombre"]
                 if fuente["nombre"] == "Pinsoft":
-                    try:
-                        page.goto(producto["url_origen"], wait_until="domcontentloaded", timeout=40000)
-                        page.wait_for_timeout(1000)
-                        ficha = BeautifulSoup(page.content(), "html.parser")
-                        producto["imagen_candidata"] = extraer_imagen_desde_tag(ficha.select_one(
-                            ".product-info .image img, #default-image img, .main-image img, img"
-                        ))
-                    except (PlaywrightError, PlaywrightTimeoutError) as error:
-                        print(f"No se pudo consultar la ficha de {producto['nombre']}: {error}")
+                    page.goto(producto["url_origen"], wait_until="domcontentloaded", timeout=40000)
+                    page.wait_for_timeout(1000)
+                    ficha = BeautifulSoup(page.content(), "html.parser")
+                    producto["imagen_candidata"] = extraer_imagen_desde_tag(ficha.select_one(
+                        ".product-info .image img, #default-image img, .main-image img, img"
+                    ))
                 try:
                     producto["imagen"] = descargar_imagen(producto, indice)
                 except requests.RequestException as error:

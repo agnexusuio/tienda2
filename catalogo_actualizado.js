@@ -1,177 +1,12 @@
 window.catalogProducts = [
   {
-    "id": "p1",
-    "source": "pinsoft",
-    "name": "ENV Book Pro Max",
-    "specs": "Intel® Celeron® N4020 · 256GB SSD · 14.1\" Full HD, IPS · Windows 11 (Preinstalado) · Wi-Fi 5 AC · Teclado Español alfanumérico",
-    "price": 319.0,
-    "image": "https://www.pinsoft.ec/getimage/products/1%28155%29.png",
-    "image_remote": "https://www.pinsoft.ec/getimage/products/1%28155%29.png",
-    "url": "https://www.pinsoft.ec/cod-1768-laptop-env-book-pro-max-intel-celeron-n4020-8gb-256gb-ssd-14-1-full-hd-ips-windows-11-preinstalado-wi-fi-5-ac-teclado-espanol-alfanumerico-gris-oscuro/p-9535.html",
-    "badge": "#1 más económico"
-  },
-  {
-    "id": "p2",
-    "source": "pinsoft",
-    "name": "ENV BOOK ELITE",
-    "specs": "AMD Ryzen™ 5 3500U ( 2.1GHz hasta 3.7GHz) · 256GB NVMe™ SSD · 15.6\" Full HD · Windows 11 (Preinstalado) · Teclado Español alfanumérico · 8GB",
-    "price": 374.0,
-    "image": "https://www.pinsoft.ec/getimage/products/1%28156%29.png",
-    "image_remote": "https://www.pinsoft.ec/getimage/products/1%28156%29.png",
-    "url": "https://www.pinsoft.ec/cod-1780-laptop-env-book-elite-amd-ryzen-5-3500u-2-1ghzhasta-3-7ghz-8gb-256gb-nvme-ssd-15-6-full-hd-windows-11-teclado-espanol-alfanumerico-gris-oscuro/p-9623.html",
-    "badge": "Precio bajo"
-  },
-  {
-    "id": "p3",
-    "source": "pinsoft",
-    "name": "HP 14-dq3500la",
-    "specs": "Intel® Celeron® N4500 · 256GB PCIe® NVMe™ SSD · 14.0\" HD · FreeDOS · Wi-Fi 6 & BT 5.4 · Teclado Español",
-    "price": 379.5,
-    "image": "https://www.pinsoft.ec/getimage/products/thumbs_500_0bb2991cbc8280bc205e%281%29.png",
-    "image_remote": "https://www.pinsoft.ec/getimage/products/thumbs_500_0bb2991cbc8280bc205e%281%29.png",
-    "url": "https://www.pinsoft.ec/cod-h-1779-hp-14-dq3500la-intel-celeron-n4500-8gb-256gb-pcie-nvme-ssd-14-0-hd-wi-fi-6-bt-5-4-freedos-teclado-espanol-plateado-natural/p-9621.html",
-    "badge": "Precio bajo"
-  },
-  {
-    "id": "p4",
-    "source": "pinsoft",
-    "name": "LENOVO IdeaPad Slim 3 15AMN8",
-    "specs": "AMD Ryzen™ 3 7320U · 512GB NVMe SSD M.2 · 15.6\" FHD · Wi-Fi®6 2x2 & BT5.2 · Teclado Español alfanumérico · 8GB LPDDR5",
-    "price": 462.0,
-    "image": "https://www.pinsoft.ec/getimage/products/laptop-ideapad-slim-3-amd-r3-732.png",
-    "image_remote": "https://www.pinsoft.ec/getimage/products/laptop-ideapad-slim-3-amd-r3-732.png",
-    "url": "https://www.pinsoft.ec/cod-1791-lenovo-ideapad-slim-3-15amn8-amd-ryzen-3-7320u-8gb-lpddr5-512gb-nvme-ssd-m-2-15-6-fhd-sin-sistema-os-wi-fi6-2x2-bt5-2-teclado-espanol-alfanumerico-artic-grey/p-9675.html",
-    "badge": "Precio bajo"
-  },
-  {
-    "id": "p5",
-    "source": "pinsoft",
-    "name": "ASUS VivoBook Go 15 (E1504F)",
-    "specs": "AMD® Ryzen™ 3 7320U · 512GB NVMe™ SSD · 15.6\" FHD · Wi-Fi 6E& BT 5.3 · Teclado Español alfanumérico · 8 GB LPDDR5",
-    "price": 473.0,
-    "image": "https://www.pinsoft.ec/getimage/products/17951111.jpg",
-    "image_remote": "https://www.pinsoft.ec/getimage/products/17951111.jpg",
-    "url": "https://www.pinsoft.ec/cod-1795-asus-vivobook-go-15-e1504f-amd-ryzen-37320u-8-gb-lpddr5-512gb-nvme-ssd-15-6-fhd-sin-sistema-os-wi-fi-6e-bt-5-3-lector-de-huellas-teclado-espanol-alfanumerico-mixed-black-incl-mouseasus/p-9701.html",
-    "badge": "Precio bajo"
-  },
-  {
-    "id": "p6",
-    "source": "pinsoft",
-    "name": "ENV 3500u",
-    "specs": "AMD Ryzen™ 5 3500U ( 2.1GHz hasta 3.7GHz) · 512GB NVMe™ SSD · 15.6\" Full HD · Windows 11 (Preinstalado) · Teclado Español alfanumérico · 16GB",
-    "price": 484.0,
-    "image": "https://www.pinsoft.ec/getimage/products/pinsoft-env12%288%29.jpg",
-    "image_remote": "https://www.pinsoft.ec/getimage/products/pinsoft-env12%288%29.jpg",
-    "url": "https://www.pinsoft.ec/cod-e-1776-laptop-env-amd-ryzen-5-3500u-2-1ghzhasta-3-7ghz-16gb-512gb-nvme-ssd-15-6-full-hd-windows-11-teclado-espanol-alfanumerico-gris/p-9592.html",
-    "badge": "Precio bajo"
-  },
-  {
-    "id": "p7",
-    "source": "pinsoft",
-    "name": "ENV 3500u",
-    "specs": "AMD Ryzen™ 5 3500U ( 2.1GHz hasta 3.7GHz) · 512GB NVMe™ SSD · 14.1\" Full HD · Windows 11 (Preinstalado) · Teclado Español · 16GB",
-    "price": 484.0,
-    "image": "https://www.pinsoft.ec/getimage/products/11%2875%29.jpg",
-    "image_remote": "https://www.pinsoft.ec/getimage/products/11%2875%29.jpg",
-    "url": "https://www.pinsoft.ec/cod-1775-laptop-env-amd-ryzen-5-3500u-2-1ghzhasta-3-7ghz-16gb-512gb-nvme-ssd-14-1-full-hd-windows-11-teclado-espanol-gris/p-9593.html",
-    "badge": "Precio bajo"
-  },
-  {
-    "id": "p8",
-    "source": "pinsoft",
-    "name": "LENOVO IdeaPad Slim 3 15IAN8",
-    "specs": "Intel® Core™ i3-N305 (8 núcleos, hasta 3.8 GHz) · 512GB SSD PCIe® 4.0 · 15.6\" Full HD · Wi-Fi 6 & BT5.2 · Teclado Español (LA) alfanumérico · 8GB LPDDR5",
-    "price": 493.9,
-    "image": "https://www.pinsoft.ec/getimage/products/windows10home-64bits%283%29.png",
-    "image_remote": "https://www.pinsoft.ec/getimage/products/windows10home-64bits%283%29.png",
-    "url": "https://www.pinsoft.ec/cod-1787-lenovo-ideapad-slim-3-15ian8-intel-core-i3-n305-8-nucleos-hasta-3-8-ghz-8gb-lpddr5-512gb-ssd-pcie-4-0-15-6-full-hd-sin-sistema-os-wi-fi-6-bt5-2-teclado-espanol-la-alfanumerico-arctic-grey/p-9649.html",
-    "badge": "Precio bajo"
-  },
-  {
-    "id": "p9",
-    "source": "pinsoft",
-    "name": "ASUS VivoBook 15 X1504V",
-    "specs": "Intel® Core™ i3-1315U 13va. Gen (10MB caché, hasta 4,4 GHz) · 512GB NVMe™ SSD · 15.6\" FHD · Wi-Fi 6E& BT 5.3 · Teclado Español alfanumérico · 8GB",
-    "price": 517.0,
-    "image": "https://www.pinsoft.ec/getimage/products/pinsoft-1698%283%29.jpg",
-    "image_remote": "https://www.pinsoft.ec/getimage/products/pinsoft-1698%283%29.jpg",
-    "url": "https://www.pinsoft.ec/cod-1766-kit-asus-vivobook-15-x1504v-intel-corei3-1315u-13va-gen-10mb-cache-hasta-4-4-ghz-8gb-512gb-nvme-ssd-15-6-fhd/p-9534.html",
-    "badge": "Precio bajo"
-  },
-  {
-    "id": "p10",
-    "source": "pinsoft",
-    "name": "ASUS VivoBook 15 X1504V",
-    "specs": "Intel® Core™ i3-1315U 13va. Gen (10MB caché, hasta 4,4 GHz) · 512GB NVMe™ SSD · 15.6\" FHD · Wi-Fi 6E& BT 5.3 · Teclado Español alfanumérico · 16GB",
-    "price": 566.5,
-    "image": "https://www.pinsoft.ec/getimage/products/pinsoft-1698%284%29.jpg",
-    "image_remote": "https://www.pinsoft.ec/getimage/products/pinsoft-1698%284%29.jpg",
-    "url": "https://www.pinsoft.ec/cod-1774-kit-asus-vivobook-15-x1504v-intel-corei3-1315u-13va-gen-10mb-cache-hasta-4-4-ghz-16gb-512gb-nvme/p-9588.html",
-    "badge": "Precio bajo"
-  },
-  {
-    "id": "p11",
-    "source": "pinsoft",
-    "name": "LENOVO V15 G5 IRL",
-    "specs": "Intel® Core™ i5-13420H 13va.Gen · 512GB SSD PCIe 4.0 · 15.6\" Full HD · Wi-Fi 6 AX · Teclado alfanumérico Español (LA) · 8GB DDR5",
-    "price": 605.0,
-    "image": "https://www.pinsoft.ec/getimage/products/lenovo_v15_g5_irl_ct1_06%281%29.png",
-    "image_remote": "https://www.pinsoft.ec/getimage/products/lenovo_v15_g5_irl_ct1_06%281%29.png",
-    "url": "https://www.pinsoft.ec/cod-1793-lenovo-v15-g5-irl-intel-core-i5-13420h-13va-gen-8gb-ddr5-512gb-ssd-pcie-4-0-15-6-full-hd-sin-sistema-os-wi-fi-6-ax-teclado-alfanumerico-espanol-la-luna-grey/p-9681.html",
-    "badge": "Precio bajo"
-  },
-  {
-    "id": "p12",
-    "source": "pinsoft",
-    "name": "ASUS VivoBook 15 X1504V",
-    "specs": "Intel® Core™ 5 120U (Serie 1) Última Generación, 12MB caché, 10 núcleos, hasta 5,0GHz · 512GB NVMe™ SSD · 15.6\" FHD · Wi-Fi 6 & BT 5.3 · Teclado Español alfanumérico · 8GB",
-    "price": 605.0,
-    "image": "https://www.pinsoft.ec/getimage/products/1797-pinsoft-asus.jpg",
-    "image_remote": "https://www.pinsoft.ec/getimage/products/1797-pinsoft-asus.jpg",
-    "url": "https://www.pinsoft.ec/cod-1797-asus-vivobook-15-x1504v-intel-core-5-120u-10-nucleos-hasta-5-0ghz-8gb-512gb-nvme-ssd-15-6-fhd-sin-sistema-os-wi-fi-6-bt-5-3-sensor-de-huella-teclado-espanol-alfanumerico-quiet-blue-mouseasus/p-9729.html",
-    "badge": "Precio bajo"
-  },
-  {
-    "id": "p13",
-    "source": "pinsoft",
-    "name": "HP 250R G10",
-    "specs": "Intel® Core™ 5 120U (Serie 1) Nueva Generación, 12MB caché, 10 núcleos, hasta 5,0GHz · 512 GB SSD PCle M.2 · 15.6\" HD · FreeDOS 3.0 · Teclado Español numérico · 16GB",
-    "price": 632.5,
-    "image": "https://www.pinsoft.ec/getimage/products/hp_250r_15.6_inch_g10_notebook_pc_df_ffplusplus_turbosilver_nonodd_fpr_nt_nonircam_catalog_win_11_whitebg_front_m2826686%281%29.png",
-    "image_remote": "https://www.pinsoft.ec/getimage/products/hp_250r_15.6_inch_g10_notebook_pc_df_ffplusplus_turbosilver_nonodd_fpr_nt_nonircam_catalog_win_11_whitebg_front_m2826686%281%29.png",
-    "url": "https://www.pinsoft.ec/cod-1796-laptop-hp-250r-g10-intel-core-5-120u-12mb-cache-10-nucleos-hasta-5-0ghz-16gb-512-gb-ssd-pcle-m-2-15-6-hd-freedos-3-0-teclado-espanol-numerico-plata-turbo/p-9715.html",
-    "badge": "Precio bajo"
-  },
-  {
-    "id": "p14",
-    "source": "pinsoft",
-    "name": "DELL 15 DC15250",
-    "specs": "Intel® Core™ i5-1334U 13.ª Gen · 512GB NVMe™ SSD · 15.6\" Full HD, 120Hz · Wi-Fi 6 AX · Teclado Español alfanumérico · 8GB",
-    "price": 638.0,
-    "image": "https://www.pinsoft.ec/getimage/products/comdelkd9xk-1-lg.png",
-    "image_remote": "https://www.pinsoft.ec/getimage/products/comdelkd9xk-1-lg.png",
-    "url": "https://www.pinsoft.ec/cod-1802-dell-15-dc15250-intel-core-i5-1334u-13-gen-8gb-512gb-nvme-ssd-15-6-full-hd-120hz-ubuntu-wi-fi-6-ax-teclado-espanol-alfanumerico-platinum-silver/p-9766.html",
-    "badge": "Precio bajo"
-  },
-  {
-    "id": "p15",
-    "source": "pinsoft",
-    "name": "HP 255 G10",
-    "specs": "AMD Ryzen™ 7 7730U (UP 4,5 GHz, 16 MB caché L3, 8 núcleos) · 512GB NVMe™ SSD · 15.6\" FHD · FreeDOS 3.0 · Wi-Fi® 6 2x2, BT5.3 · Teclado Español Alfanumérico",
-    "price": 682.0,
-    "image": "https://www.pinsoft.ec/getimage/products/hp-255-g10-amd-ryzen-7-7730u1-gra.png",
-    "image_remote": "https://www.pinsoft.ec/getimage/products/hp-255-g10-amd-ryzen-7-7730u1-gra.png",
-    "url": "https://www.pinsoft.ec/cod-1792-hp-255-g10-amd-ryzen-7-7730u-up-4-5-ghz-16-mb-cache-l3-8-nucleos-16gb-512gb-nvme-ssd-15-6-fhd-wi-fi-6-2x2-bt5-3-freedos-3-0-teclado-espanol-alfanumerico-plata-turbo/p-9680.html",
-    "badge": "Precio bajo"
-  },
-  {
     "id": "d1",
     "source": "digitalpc",
     "name": "ASUS VIVOBOOK GO 14 E410KA-CL4128",
     "specs": "Intel Celeron N4500 8gb RAM 128gb SSD 14″ FHD W11",
     "price": 355.0,
-    "image": "imagenes/16-asus-vivobook-go-14-e410ka-cl4128.png",
-    "image_remote": "https://digitalpcecuador.com/wp-content/uploads/2026/09/PORTADA-1024x1024.png",
+    "image": "imagenes/01-asus-vivobook-go-14-e410ka-cl4128.png",
+    "image_remote": "https://digitalpcecuador.com/wp-content/uploads/2026/09/PORTADA.png",
     "url": "https://digitalpcecuador.com/producto/asus-vivobook-go-14-e410ka-cl4128-intel-celeron-n4500-8gb-ram-128gb-ssd-14-fhd-w11/",
     "badge": "#1 más económico"
   },
@@ -181,8 +16,8 @@ window.catalogProducts = [
     "name": "ASUS VIVOBOOK 14 X1404VA",
     "specs": "Intel Core I3-1315U 8gb RAM 128gb SSD 14″ W11 $ 45 · intel-core-i3-1315u-8gb-ram-128gb-ssd-14-w11-2",
     "price": 455.0,
-    "image": "imagenes/17-asus-vivobook-14-x1404va.png",
-    "image_remote": "https://digitalpcecuador.com/wp-content/uploads/2025/07/descarga-7-1024x1024.png",
+    "image": "imagenes/02-asus-vivobook-14-x1404va.png",
+    "image_remote": "https://digitalpcecuador.com/wp-content/uploads/2025/07/descarga-7.png",
     "url": "https://digitalpcecuador.com/producto/asus-vivobook-14-x1404va-intel-core-i3-1315u-8gb-ram-128gb-ssd-14-w11-2/",
     "badge": "Precio bajo"
   },
@@ -192,8 +27,8 @@ window.catalogProducts = [
     "name": "HP 15-FD0130WM",
     "specs": "Intel Core I3-N305 8gb RAM 256gb SSD 15.6″ W11 $ 4 · intel-core-i3-n305-8gb-ram-256gb-ssd-15-6-w11",
     "price": 499.0,
-    "image": "imagenes/18-hp-15-fd0130wm.png",
-    "image_remote": "https://digitalpcecuador.com/wp-content/uploads/2026/09/HP1-3-1024x1024.png",
+    "image": "imagenes/03-hp-15-fd0130wm.png",
+    "image_remote": "https://digitalpcecuador.com/wp-content/uploads/2026/09/HP1-3.png",
     "url": "https://digitalpcecuador.com/producto/hp-15-fd0130wm-intel-core-i3-n305-8gb-ram-256gb-ssd-15-6-w11/",
     "badge": "Precio bajo"
   },
@@ -203,8 +38,8 @@ window.catalogProducts = [
     "name": "HP 15-FD0133WM",
     "specs": "Intel Core I3-N305 8gb RAM 256gb SSD 15.6″ W11 $ 4 · intel-core-i3-n305-8gb-ram-256gb-ssd-15-6-w11",
     "price": 499.0,
-    "image": "imagenes/19-hp-15-fd0133wm.png",
-    "image_remote": "https://digitalpcecuador.com/wp-content/uploads/2026/09/HP1-3-1024x1024.png",
+    "image": "imagenes/04-hp-15-fd0133wm.png",
+    "image_remote": "https://digitalpcecuador.com/wp-content/uploads/2026/09/HP1-3.png",
     "url": "https://digitalpcecuador.com/producto/hp-15-fd0133wm-intel-core-i3-n305-8gb-ram-256gb-ssd-15-6-w11/",
     "badge": "Precio bajo"
   },
@@ -214,8 +49,8 @@ window.catalogProducts = [
     "name": "ASUS VIVIBOOK GO 15 E1504GA",
     "specs": "Intel Core I3-N305 8gb RAM 256gb SSD 15.6″ W11 $ 5 · intel-core-i3-n305-8gb-ram-256gb-ssd-15-6-w11",
     "price": 545.0,
-    "image": "imagenes/20-asus-vivibook-go-15-e1504ga.png",
-    "image_remote": "https://digitalpcecuador.com/wp-content/uploads/2025/07/descarga-8-1024x1024.png",
+    "image": "imagenes/05-asus-vivibook-go-15-e1504ga.png",
+    "image_remote": "https://digitalpcecuador.com/wp-content/uploads/2025/07/descarga-8.png",
     "url": "https://digitalpcecuador.com/producto/asus-vivibook-go-15-e1504ga-intel-core-i3-n305-8gb-ram-256gb-ssd-15-6-w11/",
     "badge": "Precio bajo"
   },
@@ -225,8 +60,8 @@ window.catalogProducts = [
     "name": "ASUS VIVOBOOK GO 15 E1504FA",
     "specs": "AMD Ryzen 5-7520U 8gb RAM 512gb SSD 15.6″ W11 $ · amd-ryzen-5-7520u-8gb-ram-512gb-ssd-15-6-w11-3",
     "price": 545.0,
-    "image": "imagenes/21-asus-vivobook-go-15-e1504fa.png",
-    "image_remote": "https://digitalpcecuador.com/wp-content/uploads/2024/12/descarga-8-1024x1024.png",
+    "image": "imagenes/06-asus-vivobook-go-15-e1504fa.png",
+    "image_remote": "https://digitalpcecuador.com/wp-content/uploads/2024/12/descarga-8.png",
     "url": "https://digitalpcecuador.com/producto/asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-15-6-w11-3/",
     "badge": "Precio bajo"
   },
@@ -236,8 +71,8 @@ window.catalogProducts = [
     "name": "ASUS VIVOBOOK 14 X1404VAP",
     "specs": "Intel Core 5-120U 8gb RAM 256gb SSD 14″ W11 $ 575 · intel-core-5-120u-8gb-ram-256gb-ssd-14-w11",
     "price": 575.0,
-    "image": "imagenes/22-asus-vivobook-14-x1404vap.png",
-    "image_remote": "https://digitalpcecuador.com/wp-content/uploads/2025/08/descarga-4-2-1024x1024.png",
+    "image": "imagenes/07-asus-vivobook-14-x1404vap.png",
+    "image_remote": "https://digitalpcecuador.com/wp-content/uploads/2025/08/descarga-4-2.png",
     "url": "https://digitalpcecuador.com/producto/asus-vivobook-14-x1404vap-intel-core-5-120u-8gb-ram-256gb-ssd-14-w11/",
     "badge": "Precio bajo"
   },
@@ -247,8 +82,8 @@ window.catalogProducts = [
     "name": "HP 15-fc0256la",
     "specs": "AMD Ryzen 5-7520U 16gb RAM 512gb SSD 15.6″ $ 655 · amd-ryzen-5-7520u-16gb-ram-512gb-ssd-15-6",
     "price": 655.0,
-    "image": "imagenes/23-hp-15-fc0256la.jpg",
-    "image_remote": "https://digitalpcecuador.com/wp-content/uploads/2025/09/FOTOS-WEB-1024x1024.jpg",
+    "image": "imagenes/08-hp-15-fc0256la.jpg",
+    "image_remote": "https://digitalpcecuador.com/wp-content/uploads/2025/09/FOTOS-WEB.jpg",
     "url": "https://digitalpcecuador.com/producto/hp-15-fc0256la-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-15-6/",
     "badge": "Precio bajo"
   },
@@ -258,8 +93,8 @@ window.catalogProducts = [
     "name": "LENOVO IDEAPAD 1",
     "specs": "Intel Core I5-1335U 16gb RAM 256gb SSD 15.6” W11 $",
     "price": 675.0,
-    "image": "imagenes/24-lenovo-ideapad-1.jpg",
-    "image_remote": "https://digitalpcecuador.com/wp-content/uploads/2026/06/FOTOS-WEB-27-1024x1024.jpg",
+    "image": "imagenes/09-lenovo-ideapad-1.jpg",
+    "image_remote": "https://digitalpcecuador.com/wp-content/uploads/2026/06/FOTOS-WEB-27.jpg",
     "url": "https://digitalpcecuador.com/producto/lenovo-ideapad-1-intel-core-i5-1335u-16gb-ram-256gb-ssd-15-6-w11/",
     "badge": "Precio bajo"
   },
@@ -269,42 +104,9 @@ window.catalogProducts = [
     "name": "ASUS VIVOBOOK GO 15 E1504FA",
     "specs": "ASUS VIVOBOOK GO 15 E1504FA RYZEN 5-40 16GB 512SSD 15,6´´ FHD $ 675.00 · RYZEN 5-40 16GB 512SSD 15 · ryzen-5-4016gb512ssd156fhd",
     "price": 675.0,
-    "image": "imagenes/25-asus-vivobook-go-15-e1504fa.png",
-    "image_remote": "https://digitalpcecuador.com/wp-content/uploads/2026/07/PORTADA-2-1024x1024.png",
+    "image": "imagenes/10-asus-vivobook-go-15-e1504fa.png",
+    "image_remote": "https://digitalpcecuador.com/wp-content/uploads/2026/07/PORTADA-2.png",
     "url": "https://digitalpcecuador.com/producto/asus-vivobook-go-15-e1504fa-ryzen-5-4016gb512ssd156fhd/",
-    "badge": "Precio bajo"
-  },
-  {
-    "id": "d11",
-    "source": "digitalpc",
-    "name": "HP 250R G10",
-    "specs": "Intel Core 5-120U 16gb RAM 512gb SSD 15.6″ $ 675.0 · intel-core-i5-120u-16gb-ram-512gb-ssd-15-6",
-    "price": 675.0,
-    "image": "imagenes/26-hp-250r-g10.jpg",
-    "image_remote": "https://digitalpcecuador.com/wp-content/uploads/2025/07/FOTOS-WEB-13-1024x1024.jpg",
-    "url": "https://digitalpcecuador.com/producto/hp-250r-g10-intel-core-i5-120u-16gb-ram-512gb-ssd-15-6/",
-    "badge": "Precio bajo"
-  },
-  {
-    "id": "d12",
-    "source": "digitalpc",
-    "name": "Hp omnibook 3 16",
-    "specs": "AMD Ryzen 5 40 APU 16gb RAM 256g SSD 16” 2K IPS · amd-ryzen-5-40-apu-16gb-ram-256g-ssd-16-2k-ips-t",
-    "price": 695.0,
-    "image": "imagenes/27-hp-omnibook-3-16.jpg",
-    "image_remote": "https://digitalpcecuador.com/wp-content/uploads/2026/06/735362.jpg",
-    "url": "https://digitalpcecuador.com/producto/hp-omnibook-3-16-amd-ryzen-5-40-apu-16gb-ram-256g-ssd-16-2k-ips-touch-w11/",
-    "badge": "Precio bajo"
-  },
-  {
-    "id": "d13",
-    "source": "digitalpc",
-    "name": "ASUS VIVOBOOK 15 F1504VA",
-    "specs": "CORE I5-1334U 8gb RAM 512gb SSD 15.6″ FHD W11 $ 695 · 8gb · 512gb",
-    "price": 695.0,
-    "image": "imagenes/28-asus-vivobook-15-f1504va.png",
-    "image_remote": "https://digitalpcecuador.com/wp-content/uploads/2026/09/PORTADA-1-1024x1024.png",
-    "url": "https://digitalpcecuador.com/producto/asus-vivobook-go-15-e1504va-core-i5-1334u-8gb-ram-512gb-ssd-15-6-fhd-w11/",
     "badge": "Precio bajo"
   },
   {
@@ -313,7 +115,7 @@ window.catalogProducts = [
     "name": "Infinix SMART 6 HD",
     "specs": "2GB · 32GB",
     "price": 69.0,
-    "image": "imagenes/29-infinix-smart-6-hd.webp",
+    "image": "imagenes/11-infinix-smart-6-hd.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/08/infinix-smart-6-hd-azul.webp",
     "url": "https://mundotek.com.ec/producto/infinix-smart-6-hd-ram-2gb-32gb/",
     "badge": "#1 más económico"
@@ -324,7 +126,7 @@ window.catalogProducts = [
     "name": "ZTE Blade A35e",
     "specs": "2GB · 64GB · 42gb",
     "price": 89.0,
-    "image": "imagenes/30-zte-blade-a35e.webp",
+    "image": "imagenes/12-zte-blade-a35e.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/05/zte_blade_a35e.webp",
     "url": "https://mundotek.com.ec/producto/zte-blade-a35e-ram-42gb-64gb/",
     "badge": "Precio bajo"
@@ -335,7 +137,7 @@ window.catalogProducts = [
     "name": "Xiaomi 15 Ultra",
     "specs": "Kit fotográfico",
     "price": 99.0,
-    "image": "imagenes/31-xiaomi-15-ultra.webp",
+    "image": "imagenes/13-xiaomi-15-ultra.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/04/kit15.webp",
     "url": "https://mundotek.com.ec/producto/kit-fotografico-del-xiaomi-15-ultra/",
     "badge": "Precio bajo"
@@ -346,7 +148,7 @@ window.catalogProducts = [
     "name": "Realme C21Y Ram4GB/64GB",
     "specs": "4GB · 64GB",
     "price": 99.0,
-    "image": "imagenes/32-realme-c21y-ram4gb-64gb.jpg",
+    "image": "imagenes/14-realme-c21y-ram4gb-64gb.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/09/rmc21y-464gb-blu-9-1000x1000-1.jpg",
     "url": "https://mundotek.com.ec/producto/realme-c21y-ram4gb-64gb/",
     "badge": "Precio bajo"
@@ -357,7 +159,7 @@ window.catalogProducts = [
     "name": "Realme C11 (2021)",
     "specs": "Peso: 0.19 kg · 2GB · 32GB",
     "price": 102.0,
-    "image": "imagenes/33-realme-c11-2021.jpg",
+    "image": "imagenes/15-realme-c11-2021.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2021/07/Realme-C11.jpg",
     "url": "https://mundotek.com.ec/producto/realme-c11/",
     "badge": "Precio bajo"
@@ -368,7 +170,7 @@ window.catalogProducts = [
     "name": "Infinix Hot 20i",
     "specs": "3 GB · 128GB",
     "price": 129.0,
-    "image": "imagenes/34-infinix-hot-20i.webp",
+    "image": "imagenes/16-infinix-hot-20i.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/08/hot-20i.webp",
     "url": "https://mundotek.com.ec/producto/infinix-hot-20i-ram-43-gb-128gb/",
     "badge": "Precio bajo"
@@ -379,7 +181,7 @@ window.catalogProducts = [
     "name": "Samsung A07",
     "specs": "4GB · 128GB",
     "price": 135.0,
-    "image": "imagenes/35-samsung-a07.webp",
+    "image": "imagenes/17-samsung-a07.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/02/a07.webp",
     "url": "https://mundotek.com.ec/producto/samsung-a07-ram-4gb-128gb/",
     "badge": "Precio bajo"
@@ -390,7 +192,7 @@ window.catalogProducts = [
     "name": "Tecno Spark Go 3 Ram4+4GB-128GB",
     "specs": "Almacenamiento: 128GB , 64GB · 4GB · 128GB · 44gb · 64gb",
     "price": 135.0,
-    "image": "imagenes/36-tecno-spark-go-3-ram4-4gb-128gb.webp",
+    "image": "imagenes/18-tecno-spark-go-3-ram4-4gb-128gb.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/03/tecno-spark-go-3.webp",
     "url": "https://mundotek.com.ec/producto/tecno-spark-go-3-ram44gb-64gb-128gb/",
     "badge": "Precio bajo"
@@ -401,7 +203,7 @@ window.catalogProducts = [
     "name": "Honor Play 10 ram4+4 GB-128GB",
     "specs": "4 GB · 128GB",
     "price": 135.0,
-    "image": "imagenes/37-honor-play-10-ram4-4-gb-128gb.jpg",
+    "image": "imagenes/19-honor-play-10-ram4-4-gb-128gb.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/07/honor-play-10.jpg",
     "url": "https://mundotek.com.ec/producto/honor-play-10-ram44-gb-128gb/",
     "badge": "Precio bajo"
@@ -412,7 +214,7 @@ window.catalogProducts = [
     "name": "Xiaomi Redmi A7 Pro",
     "specs": "4GB · 128GB",
     "price": 135.0,
-    "image": "imagenes/38-xiaomi-redmi-a7-pro.webp",
+    "image": "imagenes/20-xiaomi-redmi-a7-pro.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/08/xiaomi-redmi-a7-pro.webp",
     "url": "https://mundotek.com.ec/producto/xiaomi-redmi-a7-pro-ram-4gb-128gb/",
     "badge": "Precio bajo"
@@ -423,7 +225,7 @@ window.catalogProducts = [
     "name": "LOGIC G1L GAMING PHONE+GAME PAD+BUDS",
     "specs": "128GB · 10GB · 410gb",
     "price": 139.0,
-    "image": "imagenes/39-logic-g1l-gaming-phone-game-pad-buds.png",
+    "image": "imagenes/21-logic-g1l-gaming-phone-game-pad-buds.png",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/08/logi.png",
     "url": "https://mundotek.com.ec/producto/logic-g1l-gaming-phonegame-padbuds-ram-410gb-128gb/",
     "badge": "Precio bajo"
@@ -434,7 +236,7 @@ window.catalogProducts = [
     "name": "Infinix smart 20",
     "specs": "Procesador: MediaTek Helio G81 Ultra · Memoria RAM: 4+4 GB · Capacidad de almacenamiento: 128GB , 64GB · Almacenamiento: 128GB , 256GB , 64GB · Pantalla: 6.78¨ · Resolución de pantalla: 720 x 1600 píxeles",
     "price": 139.0,
-    "image": "imagenes/40-infinix-smart-20.jpg",
+    "image": "imagenes/22-infinix-smart-20.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/04/infinix-smart-20.jpg",
     "url": "https://mundotek.com.ec/producto/infinix-smart-20-ram-4-4-gb-64gb/",
     "badge": "Precio bajo"
@@ -445,7 +247,7 @@ window.catalogProducts = [
     "name": "MOTOROLA G06",
     "specs": "4GB · 256GB",
     "price": 149.0,
-    "image": "imagenes/41-motorola-g06.jpg",
+    "image": "imagenes/23-motorola-g06.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/03/g06.jpeg",
     "url": "https://mundotek.com.ec/producto/motorola-g06-ram-4gb4gb-256gb/",
     "badge": "Precio bajo"
@@ -456,7 +258,7 @@ window.catalogProducts = [
     "name": "TCL L10+",
     "specs": "Peso: 0.17 kg",
     "price": 150.0,
-    "image": "imagenes/42-tcl-l10.jpg",
+    "image": "imagenes/24-tcl-l10.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2021/04/1062.jpg",
     "url": "https://mundotek.com.ec/producto/l10/",
     "badge": "Precio bajo"
@@ -467,7 +269,7 @@ window.catalogProducts = [
     "name": "Honor X5c Plus",
     "specs": "4GB · 256GB",
     "price": 155.0,
-    "image": "imagenes/43-honor-x5c-plus.jpg",
+    "image": "imagenes/25-honor-x5c-plus.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/05/x5plus.jpg",
     "url": "https://mundotek.com.ec/producto/honor-x5c-plus-ram-4gb-256gb/",
     "badge": "Precio bajo"
@@ -478,7 +280,7 @@ window.catalogProducts = [
     "name": "Telefono Tecno Spark 30C",
     "specs": "Memoria Ram: 4GB , 8GB · 4GB · 256GB",
     "price": 159.0,
-    "image": "imagenes/44-telefono-tecno-spark-30c.webp",
+    "image": "imagenes/26-telefono-tecno-spark-30c.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2024/11/spark30c.webp",
     "url": "https://mundotek.com.ec/producto/telefono-tecno-spark-30c-ram-4gb-256gb/",
     "badge": "Precio bajo"
@@ -489,7 +291,7 @@ window.catalogProducts = [
     "name": "OPPO A5 4G",
     "specs": "4GB · 256GB",
     "price": 165.0,
-    "image": "imagenes/45-oppo-a5-4g.png",
+    "image": "imagenes/27-oppo-a5-4g.png",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/05/a5-4g.png",
     "url": "https://mundotek.com.ec/producto/oppo-a5-4g-ram-4gb-256gb/",
     "badge": "Precio bajo"
@@ -500,7 +302,7 @@ window.catalogProducts = [
     "name": "Motorola moto g15 4G",
     "specs": "Almacenamiento: 256GB , 512GB · 512GB-256GB · 512GB · 256GB · 48gb",
     "price": 169.0,
-    "image": "imagenes/46-motorola-moto-g15-4g.png",
+    "image": "imagenes/28-motorola-moto-g15-4g.png",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/01/g15.png",
     "url": "https://mundotek.com.ec/producto/motorola-moto-g15-ram-48gb-256gb/",
     "badge": "Precio bajo"
@@ -511,7 +313,7 @@ window.catalogProducts = [
     "name": "Tecno Spark 9 Pro",
     "specs": "Tecno Spark 9 Pro",
     "price": 175.0,
-    "image": "imagenes/47-tecno-spark-9-pro.jpg",
+    "image": "imagenes/29-tecno-spark-9-pro.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2022/11/Tecno-Spark-9-Pro-4.jpg",
     "url": "https://mundotek.com.ec/producto/tecno-spark-9-pro/",
     "badge": "Precio bajo"
@@ -522,7 +324,7 @@ window.catalogProducts = [
     "name": "Xiaomi Redmi 15c",
     "specs": "256gb · 8gb",
     "price": 179.0,
-    "image": "imagenes/48-xiaomi-redmi-15c.webp",
+    "image": "imagenes/30-xiaomi-redmi-15c.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/09/redmi15c.webp",
     "url": "https://mundotek.com.ec/producto/xiaomi-redmi-15c-ram-8gb-256gb/",
     "badge": "Precio bajo"
@@ -533,7 +335,7 @@ window.catalogProducts = [
     "name": "Honor X6c",
     "specs": "Memoria Ram: 6GB , 8GB · 256GB · 6GB · 8GB",
     "price": 185.0,
-    "image": "imagenes/49-honor-x6c.webp",
+    "image": "imagenes/31-honor-x6c.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/06/x6c.webp",
     "url": "https://mundotek.com.ec/producto/honor-x6c-ram-6gb-256gb/",
     "badge": "Precio bajo"
@@ -544,7 +346,7 @@ window.catalogProducts = [
     "name": "Motorola G17",
     "specs": "4GB · 256GB",
     "price": 185.0,
-    "image": "imagenes/50-motorola-g17.jpg",
+    "image": "imagenes/32-motorola-g17.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/05/moto-g17.jpg",
     "url": "https://mundotek.com.ec/producto/motorola-g17-ram-4gb-256gb/",
     "badge": "Precio bajo"
@@ -555,7 +357,7 @@ window.catalogProducts = [
     "name": "Realme Narzo 30 (5G)",
     "specs": "5G · Peso: 0.18 kg",
     "price": 195.0,
-    "image": "imagenes/51-realme-narzo-30-5g.jpg",
+    "image": "imagenes/33-realme-narzo-30-5g.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2021/11/719tm7l723L._SL1500_.jpg",
     "url": "https://mundotek.com.ec/producto/realme-narzo-30-5g/",
     "badge": "Precio bajo"
@@ -566,7 +368,7 @@ window.catalogProducts = [
     "name": "Celular Oukitel G1 24 (6+18) Gb",
     "specs": "256 Gb",
     "price": 225.0,
-    "image": "imagenes/52-celular-oukitel-g1-24-6-18-gb.jpg",
+    "image": "imagenes/34-celular-oukitel-g1-24-6-18-gb.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/01/g1.jpg",
     "url": "https://mundotek.com.ec/producto/celular-oukitel-g1-24-618-gb-ram-256-gb-color-negro/",
     "badge": "Precio bajo"
@@ -577,7 +379,7 @@ window.catalogProducts = [
     "name": "Honor X7d",
     "specs": "Memoria Ram: 6GB , 8GB · 256GB · 6GB · 88gb",
     "price": 229.0,
-    "image": "imagenes/53-honor-x7d.jpg",
+    "image": "imagenes/35-honor-x7d.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/10/honor-x7d.jpg",
     "url": "https://mundotek.com.ec/producto/honor-x7d-ram-88gb-256gb/",
     "badge": "Precio bajo"
@@ -588,7 +390,7 @@ window.catalogProducts = [
     "name": "Celular Zte Nubia Air 5G –",
     "specs": "5G · 256GB",
     "price": 235.0,
-    "image": "imagenes/54-celular-zte-nubia-air-5g.png",
+    "image": "imagenes/36-celular-zte-nubia-air-5g.png",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/11/celular-zte-nubia-air-5g.png",
     "url": "https://mundotek.com.ec/producto/celular-zte-nubia-air-5g-ram-812-256gb/",
     "badge": "Precio bajo"
@@ -599,7 +401,7 @@ window.catalogProducts = [
     "name": "Honor 90 lite",
     "specs": "8GB · 256GB",
     "price": 239.0,
-    "image": "imagenes/55-honor-90-lite.jpg",
+    "image": "imagenes/37-honor-90-lite.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/05/honor-90-lite-.jpg",
     "url": "https://mundotek.com.ec/producto/honor-90-lite-ram-8gb-256gb/",
     "badge": "Precio bajo"
@@ -610,7 +412,7 @@ window.catalogProducts = [
     "name": "Infinix Hot 60 pro plus 8+8GB",
     "specs": "Infinix Hot 60 pro plus 8+8GB 256GB · 8GB · 256GB · 88gb",
     "price": 255.0,
-    "image": "imagenes/56-infinix-hot-60-pro-plus-8-8gb.png",
+    "image": "imagenes/38-infinix-hot-60-pro-plus-8-8gb.png",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/07/hot60pro.png",
     "url": "https://mundotek.com.ec/producto/infinix-hot-60-pro-plus-88gb-256gb/",
     "badge": "Precio bajo"
@@ -621,7 +423,7 @@ window.catalogProducts = [
     "name": "SAMSUNG GALAXY A17",
     "specs": "Almacenamiento: 128GB , 256GB · SAMSUNG GALAXY A17 8GB -256GB Androir · 8GB · 256GB · 4gb · 128gb",
     "price": 259.0,
-    "image": "imagenes/57-samsung-galaxy-a17.webp",
+    "image": "imagenes/39-samsung-galaxy-a17.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/05/sam-a17-4g.webp",
     "url": "https://mundotek.com.ec/producto/samsung-galaxy-a17-4gb-128gb/",
     "badge": "Precio bajo"
@@ -632,7 +434,7 @@ window.catalogProducts = [
     "name": "Xiaomi Mi 10 lite",
     "specs": "6gb Ram · 5G · Peso: 0.19 kg · 128gb · 6gb",
     "price": 269.0,
-    "image": "imagenes/58-xiaomi-mi-10-lite.png",
+    "image": "imagenes/40-xiaomi-mi-10-lite.png",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2023/08/logo-sin-fondo-1024x1024.png",
     "url": "https://mundotek.com.ec/producto/xiaomi-mi-10-lite-128gb-6gb-ram-5g/",
     "badge": "Precio bajo"
@@ -643,7 +445,7 @@ window.catalogProducts = [
     "name": "OPPO A5 5G",
     "specs": "5G · 256GB · 8GB",
     "price": 269.0,
-    "image": "imagenes/59-oppo-a5-5g.png",
+    "image": "imagenes/41-oppo-a5-5g.png",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/11/oppoa5.png",
     "url": "https://mundotek.com.ec/producto/oppo-a5-ram-8gb-256gb/",
     "badge": "Precio bajo"
@@ -654,7 +456,7 @@ window.catalogProducts = [
     "name": "Redmi Note 15 Pro 4G",
     "specs": "8Gb · 256Gb",
     "price": 299.0,
-    "image": "imagenes/60-redmi-note-15-pro-4g.webp",
+    "image": "imagenes/42-redmi-note-15-pro-4g.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/02/xiaomi-redmi-note-15-pro-4g.webp",
     "url": "https://mundotek.com.ec/producto/redmi-note-15-4g-ram-8gb-256gb/",
     "badge": "Precio bajo"
@@ -665,7 +467,7 @@ window.catalogProducts = [
     "name": "Tecno camon 18 premier",
     "specs": "Peso: 0.2 kg",
     "price": 315.0,
-    "image": "imagenes/61-tecno-camon-18-premier.jpg",
+    "image": "imagenes/43-tecno-camon-18-premier.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2022/04/camon-.jpg",
     "url": "https://mundotek.com.ec/producto/tecno-camon-18-premier/",
     "badge": "Precio bajo"
@@ -676,7 +478,7 @@ window.catalogProducts = [
     "name": "Oppo A5 PRO (5G) Ram8GB/256GB IP69 SUMERGIBLE",
     "specs": "5G · 8GB · 256GB",
     "price": 319.0,
-    "image": "imagenes/62-oppo-a5-pro-5g-ram8gb-256gb-ip69-sumergible.webp",
+    "image": "imagenes/44-oppo-a5-pro-5g-ram8gb-256gb-ip69-sumergible.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/11/oppo-a5pro.webp",
     "url": "https://mundotek.com.ec/producto/oppo-a5-pro-5g-ram8gb-256gb-ip69-sumergible/",
     "badge": "Precio bajo"
@@ -687,7 +489,7 @@ window.catalogProducts = [
     "name": "HONOR X8d",
     "specs": "Almacenamiento: 256GB , 512GB · 8GB · 256GB · 512GB",
     "price": 319.0,
-    "image": "imagenes/63-honor-x8d.webp",
+    "image": "imagenes/45-honor-x8d.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/03/honor-x8d.webp",
     "url": "https://mundotek.com.ec/producto/honor-x8d-ram-8gb-256gb-512gb/",
     "badge": "Precio bajo"
@@ -698,7 +500,7 @@ window.catalogProducts = [
     "name": "Tecno Camón 50 pro",
     "specs": "8 GB · 256GB",
     "price": 339.0,
-    "image": "imagenes/64-tecno-cam-n-50-pro.png",
+    "image": "imagenes/46-tecno-cam-n-50-pro.png",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/03/camon-con-audifonos.png",
     "url": "https://mundotek.com.ec/producto/tecno-camon-50-pro-ram-88-gb-256gb/",
     "badge": "Precio bajo"
@@ -709,7 +511,7 @@ window.catalogProducts = [
     "name": "Samsung Galaxy A36 5G",
     "specs": "5G · 256GB · 8GB",
     "price": 349.0,
-    "image": "imagenes/65-samsung-galaxy-a36-5g.jpg",
+    "image": "imagenes/47-samsung-galaxy-a36-5g.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/04/a36-black-mtk.jpg",
     "url": "https://mundotek.com.ec/producto/samsung-galaxy-a36-5g-ram-8gb-256gb/",
     "badge": "Precio bajo"
@@ -720,7 +522,7 @@ window.catalogProducts = [
     "name": "XIAOMI POCO F4",
     "specs": "Memoria Ram: 6GB , 8GB · Peso: 0.19 kg · 256GB · 8GB",
     "price": 399.0,
-    "image": "imagenes/66-xiaomi-poco-f4.png",
+    "image": "imagenes/48-xiaomi-poco-f4.png",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2022/08/Nuevo-proyecto-11-1.png",
     "url": "https://mundotek.com.ec/producto/xiaomi-poco-f4-ram-8gb-256gb/",
     "badge": "Precio bajo"
@@ -731,7 +533,7 @@ window.catalogProducts = [
     "name": "Honor Magic8 Lite",
     "specs": "Almacenamiento: 256GB , 512GB · 8GB · 256GB · 512GB",
     "price": 409.0,
-    "image": "imagenes/67-honor-magic8-lite.webp",
+    "image": "imagenes/49-honor-magic8-lite.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/01/magi-8lite.webp",
     "url": "https://mundotek.com.ec/producto/honor-magic8-lite-ram-8gb-256gb/",
     "badge": "Precio bajo"
@@ -742,7 +544,7 @@ window.catalogProducts = [
     "name": "Infinix Note 60 Pro 5G",
     "specs": "5G · 8 GB · 256GB",
     "price": 419.0,
-    "image": "imagenes/68-infinix-note-60-pro-5g.webp",
+    "image": "imagenes/50-infinix-note-60-pro-5g.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/02/note60pro.webp",
     "url": "https://mundotek.com.ec/producto/infinix-note-60-pro-5g-ram-88-gb-256gb/",
     "badge": "Precio bajo"
@@ -753,7 +555,7 @@ window.catalogProducts = [
     "name": "Motorola Edge 70 Fusion",
     "specs": "8GB · 256GB",
     "price": 419.0,
-    "image": "imagenes/69-motorola-edge-70-fusion.png",
+    "image": "imagenes/51-motorola-edge-70-fusion.png",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/04/70-fushion.png",
     "url": "https://mundotek.com.ec/producto/motorola-edge-70-fusion-ram-8gb-256gb-buds-motorola/",
     "badge": "Precio bajo"
@@ -764,7 +566,7 @@ window.catalogProducts = [
     "name": "Samsung Galaxy A37 5G",
     "specs": "5G · 8GB · 256GB",
     "price": 419.0,
-    "image": "imagenes/70-samsung-galaxy-a37-5g.webp",
+    "image": "imagenes/52-samsung-galaxy-a37-5g.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/08/a37.webp",
     "url": "https://mundotek.com.ec/producto/samsung-galaxy-a37-5g-ram-8gb-256gb/",
     "badge": "Precio bajo"
@@ -775,7 +577,7 @@ window.catalogProducts = [
     "name": "Samsung Galaxy A56 5G",
     "specs": "Almacenamiento: 128GB , 256GB · 5G · 256GB · 12GB",
     "price": 439.0,
-    "image": "imagenes/71-samsung-galaxy-a56-5g.jpg",
+    "image": "imagenes/53-samsung-galaxy-a56-5g.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/04/a56.jpg",
     "url": "https://mundotek.com.ec/producto/samsung-galaxy-a56-5g-ram-12gb-256gb-2/",
     "badge": "Precio bajo"
@@ -786,7 +588,7 @@ window.catalogProducts = [
     "name": "Honor 600E",
     "specs": "8GB · 256GB",
     "price": 449.0,
-    "image": "imagenes/72-honor-600e.webp",
+    "image": "imagenes/54-honor-600e.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/06/honor-e.webp",
     "url": "https://mundotek.com.ec/producto/honor-600e-ram-8gb-256gb/",
     "badge": "Precio bajo"
@@ -797,7 +599,7 @@ window.catalogProducts = [
     "name": "Redmi Note 15 Pro Plus 5G",
     "specs": "5G · 12GB · 512GB",
     "price": 489.0,
-    "image": "imagenes/73-redmi-note-15-pro-plus-5g.png",
+    "image": "imagenes/55-redmi-note-15-pro-plus-5g.png",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/02/xiaomi-redmi-note15-pro-plus.png",
     "url": "https://mundotek.com.ec/producto/redmi-note-15-pro-plus-5g-ram-12gb-512gb/",
     "badge": "Precio bajo"
@@ -808,7 +610,7 @@ window.catalogProducts = [
     "name": "Oppo Reno13F 5G",
     "specs": "5G · 512GB IP69 · 12GB · 512GB",
     "price": 499.0,
-    "image": "imagenes/74-oppo-reno13f-5g.jpg",
+    "image": "imagenes/56-oppo-reno13f-5g.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/11/reno-13f.jpg",
     "url": "https://mundotek.com.ec/producto/reno13-f-5g-ram-12gb-512gb/",
     "badge": "Precio bajo"
@@ -819,7 +621,7 @@ window.catalogProducts = [
     "name": "Oppo Reno14F",
     "specs": "12GB · 512GB",
     "price": 535.0,
-    "image": "imagenes/75-oppo-reno14f.webp",
+    "image": "imagenes/57-oppo-reno14f.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/01/reno.webp",
     "url": "https://mundotek.com.ec/producto/oppo-reno14f-ram-12gb-512gb-audifonos/",
     "badge": "Precio bajo"
@@ -830,7 +632,7 @@ window.catalogProducts = [
     "name": "Samsung Galaxy A57",
     "specs": "Memoria Ram: 12GB , 8GB · 8GB · 12GB · 256GB",
     "price": 549.0,
-    "image": "imagenes/76-samsung-galaxy-a57.png",
+    "image": "imagenes/58-samsung-galaxy-a57.png",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/05/a57.png",
     "url": "https://mundotek.com.ec/producto/samsung-galaxy-a57-ram-8gb-256gb/",
     "badge": "Precio bajo"
@@ -841,7 +643,7 @@ window.catalogProducts = [
     "name": "Xiaomi Poco x8 Pro",
     "specs": "512GB · 12GB",
     "price": 569.0,
-    "image": "imagenes/77-xiaomi-poco-x8-pro.jpg",
+    "image": "imagenes/59-xiaomi-poco-x8-pro.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/05/x8-pro.jpg",
     "url": "https://mundotek.com.ec/producto/xiaomi-poco-x8-pro-ram-12gb-512gb/",
     "badge": "Precio bajo"
@@ -852,7 +654,7 @@ window.catalogProducts = [
     "name": "IPHONE 11 PRO MAX OPEN BOX A",
     "specs": "Peso: 0.22 kg · IPHONE 11 PRO MAX OPEN BOX A 256GB · 256GB",
     "price": 579.0,
-    "image": "imagenes/78-iphone-11-pro-max-open-box-a.jpg",
+    "image": "imagenes/60-iphone-11-pro-max-open-box-a.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2022/09/11-pro-max-p.jpg",
     "url": "https://mundotek.com.ec/producto/iphone-11-pro-max-open-box/",
     "badge": "Precio bajo"
@@ -863,7 +665,7 @@ window.catalogProducts = [
     "name": "Samsung Galaxy S25 FE",
     "specs": "256GB 5G · 5G · 8GB · 256GB",
     "price": 579.0,
-    "image": "imagenes/79-samsung-galaxy-s25-fe.png",
+    "image": "imagenes/61-samsung-galaxy-s25-fe.png",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/12/samsung_galaxy_s25_fe.png",
     "url": "https://mundotek.com.ec/producto/samsung-galaxy-s25-fe-ram-8gb-256gb-5g/",
     "badge": "Precio bajo"
@@ -874,7 +676,7 @@ window.catalogProducts = [
     "name": "Infinix GT 50 Pro HydroFlow y gatillos laterales",
     "specs": "12 GB · 256GB",
     "price": 599.0,
-    "image": "imagenes/80-infinix-gt-50-pro-hydroflow-y-gatillos-laterales.jpg",
+    "image": "imagenes/62-infinix-gt-50-pro-hydroflow-y-gatillos-laterales.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/07/infinix-gt-50-pro-launched-in-ph-c.jpg",
     "url": "https://mundotek.com.ec/producto/infinix-gt-50-pro-hydroflow-y-gatillos-laterales-ram-1212-gb-256gb/",
     "badge": "Precio bajo"
@@ -885,7 +687,7 @@ window.catalogProducts = [
     "name": "Box Xiaomi Mi Box S 3era Generacion 4K",
     "specs": "TV Box Xiaomi Mi Box S 3era Generacion 4K · Peso: 0.14 kg",
     "price": 89.0,
-    "image": "imagenes/81-box-xiaomi-mi-box-s-3era-generacion-4k.webp",
+    "image": "imagenes/63-box-xiaomi-mi-box-s-3era-generacion-4k.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2021/06/tvbox2.webp",
     "url": "https://mundotek.com.ec/producto/tv-box-xiaomi-mi-box-s/",
     "badge": "#1 más económico"
@@ -896,7 +698,7 @@ window.catalogProducts = [
     "name": "House Tv HT-32 32 » hd led",
     "specs": "Pulgadas: 32″ · android · Smart tv",
     "price": 135.0,
-    "image": "imagenes/82-house-tv-ht-32-32-hd-led.jpg",
+    "image": "imagenes/64-house-tv-ht-32-32-hd-led.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/07/hausetv.jpg",
     "url": "https://mundotek.com.ec/producto/smart-tv-house-tv-ht-32-32-fhd-led-android-14-definicion-full-hd/",
     "badge": "Precio bajo"
@@ -907,7 +709,7 @@ window.catalogProducts = [
     "name": "Philips ph 32gfs fisdb 32",
     "specs": "Pulgadas: 32″ · android · google tv · Smart tv",
     "price": 155.0,
-    "image": "imagenes/83-philips-ph-32gfs-fisdb-32.jpg",
+    "image": "imagenes/65-philips-ph-32gfs-fisdb-32.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/11/tv-philips32.jpg",
     "url": "https://mundotek.com.ec/producto/smart-tv-philips-ph-32gfs-fisdb-32-hd-led-android-14-google-tv-mando-de-voz-sin-bordes/",
     "badge": "Precio bajo"
@@ -918,7 +720,7 @@ window.catalogProducts = [
     "name": "RCA 32 HDRC",
     "specs": "Pulgadas: 32″ · Televisor RCA 32 HDRC",
     "price": 155.0,
-    "image": "imagenes/84-rca-32-hdrc.webp",
+    "image": "imagenes/66-rca-32-hdrc.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/08/tvrca.webp",
     "url": "https://mundotek.com.ec/producto/televisor-rca-32-hdrc/",
     "badge": "Precio bajo"
@@ -929,7 +731,7 @@ window.catalogProducts = [
     "name": "Riviera RI-RLED – GLT32TPXM 32 » hd (1366×768) led hdr",
     "specs": "android · google tv · Smart tv",
     "price": 159.0,
-    "image": "imagenes/85-riviera-ri-rled-glt32tpxm-32-hd-1366-768-led-hdr.jpg",
+    "image": "imagenes/67-riviera-ri-rled-glt32tpxm-32-hd-1366-768-led-hdr.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2024/10/ri-rled-glt32tpxm.jpg",
     "url": "https://mundotek.com.ec/producto/smart-tv-riviera-ri-rled-glt32tpxm-32-hd-1366x768-led-hdr-android-google-tv-mando-de-voz/",
     "badge": "Precio bajo"
@@ -940,7 +742,7 @@ window.catalogProducts = [
     "name": "Innova IN-LED-32HD-GTV-MP 32 » hd led",
     "specs": "Pulgadas: 32″ · android · google tv · Smart tv",
     "price": 159.0,
-    "image": "imagenes/86-innova-in-led-32hd-gtv-mp-32-hd-led.jpg",
+    "image": "imagenes/68-innova-in-led-32hd-gtv-mp-32-hd-led.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/01/in-led32hd-gtv-mp.jpg",
     "url": "https://mundotek.com.ec/producto/13477/",
     "badge": "Precio bajo"
@@ -951,7 +753,7 @@ window.catalogProducts = [
     "name": "Hisense 32Q4Q Qled sistema operativo Vida",
     "specs": "Pulgadas: 32″ · Tv Hisense 32Q4Q Qled sistema operativo Vida",
     "price": 169.0,
-    "image": "imagenes/87-hisense-32q4q-qled-sistema-operativo-vida.png",
+    "image": "imagenes/69-hisense-32q4q-qled-sistema-operativo-vida.png",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/06/hisense-serie-a4-smart-tv-a4q.png",
     "url": "https://mundotek.com.ec/producto/tv-hisense-32q4q-qled-sistema-operativo-vida/",
     "badge": "Precio bajo"
@@ -962,7 +764,7 @@ window.catalogProducts = [
     "name": "Motorola 32Tmkfhd",
     "specs": "Pulgadas: 32″ · Tv Motorola 32Tmkfhd GOOGLE TV 32PULGADAS · GOOGLE TV · android · 32PULGADAS",
     "price": 170.0,
-    "image": "imagenes/88-motorola-32tmkfhd.jpg",
+    "image": "imagenes/70-motorola-32tmkfhd.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2024/03/32tmkgfhd.jpg",
     "url": "https://mundotek.com.ec/producto/tv-motorola-32tmkgfhd-android-11-32pulgadas/",
     "badge": "Precio bajo"
@@ -973,7 +775,7 @@ window.catalogProducts = [
     "name": "Google QLED Riviera",
     "specs": "Pulgadas: 32″ · Televisor Google QLED Riviera 32″ GLT32TPQ10 · 32″",
     "price": 175.0,
-    "image": "imagenes/89-google-qled-riviera.jpg",
+    "image": "imagenes/71-google-qled-riviera.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/11/ri-rled-glt32tpq10.jpeg",
     "url": "https://mundotek.com.ec/producto/televisor-google-qled-riviera-32-glt32tpq10/",
     "badge": "Precio bajo"
@@ -984,7 +786,7 @@ window.catalogProducts = [
     "name": "Tcl 32S5K 32 » fhd qled",
     "specs": "Pulgadas: 32″ · android · google tv · Smart tv",
     "price": 185.0,
-    "image": "imagenes/90-tcl-32s5k-32-fhd-qled.jpg",
+    "image": "imagenes/72-tcl-32s5k-32-fhd-qled.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/09/s5k32.jpg",
     "url": "https://mundotek.com.ec/producto/smart-tv-tcl-32s5k-32-fhd-qled-android-14-google-tv/",
     "badge": "Precio bajo"
@@ -995,7 +797,7 @@ window.catalogProducts = [
     "name": "Google LED HD Indurama",
     "specs": "Pulgadas: 32″ · Televisor Google LED HD Indurama 32″ 32TIKGF5HD · 32″",
     "price": 185.0,
-    "image": "imagenes/91-google-led-hd-indurama.jpg",
+    "image": "imagenes/73-google-led-hd-indurama.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/03/32tikgf5hd.jpeg",
     "url": "https://mundotek.com.ec/producto/televisor-google-led-hd-indurama-32-32tikgf5hd/",
     "badge": "Precio bajo"
@@ -1006,7 +808,7 @@ window.catalogProducts = [
     "name": "HouseTV Televisor HouseTV",
     "specs": "HouseTV Televisor HouseTV 40″ Android 14 · Pulgadas: 40″ · 40″ · Android",
     "price": 185.0,
-    "image": "imagenes/92-housetv-televisor-housetv.png",
+    "image": "imagenes/74-housetv-televisor-housetv.png",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/05/tv40.png",
     "url": "https://mundotek.com.ec/producto/housetv-televisor-housetv-40-android-14/",
     "badge": "Precio bajo"
@@ -1028,7 +830,7 @@ window.catalogProducts = [
     "name": "House Tv HT-43 43 » fhd led",
     "specs": "Pulgadas: 43″ · android · Smart tv",
     "price": 209.0,
-    "image": "imagenes/94-house-tv-ht-43-43-fhd-led.jpg",
+    "image": "imagenes/76-house-tv-ht-43-43-fhd-led.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/07/hausetv.jpg",
     "url": "https://mundotek.com.ec/producto/smart-tv-house-tv-ht-43-43-fhd-led-android-14-definicion-full-hd/",
     "badge": "Precio bajo"
@@ -1039,7 +841,7 @@ window.catalogProducts = [
     "name": "Rca 40fhdrc 40",
     "specs": "Tv Rca 40FHDRC 40 » fhd led google tv dolby audio bluetooth · Pulgadas: 40″ · google tv · android",
     "price": 215.0,
-    "image": "imagenes/95-rca-40fhdrc-40.jpg",
+    "image": "imagenes/77-rca-40fhdrc-40.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/11/40fhdrc-full-hd.jpg",
     "url": "https://mundotek.com.ec/producto/tv-rca-40fhdrc-40-fhd-led-android-11-google-tv-dolby-audio-bluetooth/",
     "badge": "Precio bajo"
@@ -1050,7 +852,7 @@ window.catalogProducts = [
     "name": "Innova in tvled 40gfhd mp",
     "specs": "mart tv Innova IN-TVLED-40GFHD-MP 40 » fhd led android 11 google · Pulgadas: 40″ · android",
     "price": 219.0,
-    "image": "imagenes/96-innova-in-tvled-40gfhd-mp.jpg",
+    "image": "imagenes/78-innova-in-tvled-40gfhd-mp.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/07/40gfhd-mp-google-tv.jpg",
     "url": "https://mundotek.com.ec/producto/mart-tv-innova-in-tvled-40gfhd-mp-40-fhd-led-android-11-google/",
     "badge": "Precio bajo"
@@ -1061,7 +863,7 @@ window.catalogProducts = [
     "name": "RCA 43 FHDRC",
     "specs": "Pulgadas: 43″ · Televisor RCA 43 FHDRC",
     "price": 239.0,
-    "image": "imagenes/97-rca-43-fhdrc.webp",
+    "image": "imagenes/79-rca-43-fhdrc.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/08/43fhdrc.webp",
     "url": "https://mundotek.com.ec/producto/televisor-rca-43-fhdrc/",
     "badge": "Precio bajo"
@@ -1072,7 +874,7 @@ window.catalogProducts = [
     "name": "Motorola 43mknfhd/",
     "specs": "Televisor LED 43″ GOOGLE TV MOTOROLA 43MKNFHD · Pulgadas: 43″ · 43″ · GOOGLE TV",
     "price": 240.0,
-    "image": "imagenes/98-motorola-43mknfhd.jpg",
+    "image": "imagenes/80-motorola-43mknfhd.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/05/43mknfhd.jpg",
     "url": "https://mundotek.com.ec/producto/televisor-led-43-google-tv-motorola-43mknfhd/",
     "badge": "Precio bajo"
@@ -1083,7 +885,7 @@ window.catalogProducts = [
     "name": "Philips ph 43gfs fisdb 43",
     "specs": "Pulgadas: 43″ · android · Smart tv",
     "price": 245.0,
-    "image": "imagenes/99-philips-ph-43gfs-fisdb-43.jpg",
+    "image": "imagenes/81-philips-ph-43gfs-fisdb-43.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/11/philips-43-gfs-fisdb-1.jpg",
     "url": "https://mundotek.com.ec/producto/smart-tv-philips-ph-43gfs-fisdb-43-fhd-led-android-14-mando-2/",
     "badge": "Precio bajo"
@@ -1094,7 +896,7 @@ window.catalogProducts = [
     "name": "43 Pulgadas TCL (43S5400)",
     "specs": "Pulgadas: 43″ · Tv 43 Pulgadas TCL (43S5400) · 43 Pulgadas",
     "price": 249.0,
-    "image": "imagenes/100-43-pulgadas-tcl-43s5400.jpg",
+    "image": "imagenes/82-43-pulgadas-tcl-43s5400.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2023/08/s5400-front-.jpg",
     "url": "https://mundotek.com.ec/producto/tv-32-pulgadas-tcl-43s5400/",
     "badge": "Precio bajo"
@@ -1105,7 +907,7 @@ window.catalogProducts = [
     "name": "Innova in",
     "specs": "Pulgadas: 43″ · android · google tv · Smart tv",
     "price": 249.0,
-    "image": "imagenes/101-innova-in.jpg",
+    "image": "imagenes/83-innova-in.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/12/tvled-43gfhd.jpg",
     "url": "https://mundotek.com.ec/producto/smart-tv-innova-in-led-43fhd-gtv-mp-43-fhd-led-android-14-google-tv/",
     "badge": "Precio bajo"
@@ -1116,7 +918,7 @@ window.catalogProducts = [
     "name": "Hyundai FHD",
     "specs": "TV Hyundai FHD 43 pulgadas HYLED4326G Google TV · Pulgadas: 43″ · 43 pulgadas · Google TV",
     "price": 275.0,
-    "image": "imagenes/102-hyundai-fhd.jpg",
+    "image": "imagenes/84-hyundai-fhd.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/06/hyled4326g.jpg",
     "url": "https://mundotek.com.ec/producto/tv-hyundai-fhd-43-pulgadas-hyled4326g-google-tv/",
     "badge": "Precio bajo"
@@ -1127,7 +929,7 @@ window.catalogProducts = [
     "name": "Tcl 43S5K 43 » Qled",
     "specs": "TV Tcl 43S5K 43 » Qled android 14 google tv · Pulgadas: 43″ · android · google tv",
     "price": 275.0,
-    "image": "imagenes/103-tcl-43s5k-43-qled.jpg",
+    "image": "imagenes/85-tcl-43s5k-43-qled.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/11/43s5k.jpg",
     "url": "https://mundotek.com.ec/producto/tv-tcl-43s5k-43-fhd-qled-android-14-google-tv/",
     "badge": "Precio bajo"
@@ -1138,7 +940,7 @@ window.catalogProducts = [
     "name": "Riviera ri rled glt43tpxm 43",
     "specs": "Pulgadas: 43″ · android · Smart tv",
     "price": 289.0,
-    "image": "imagenes/104-riviera-ri-rled-glt43tpxm-43.webp",
+    "image": "imagenes/86-riviera-ri-rled-glt43tpxm-43.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2024/10/riviera-43.webp",
     "url": "https://mundotek.com.ec/producto/smart-tv-riviera-ri-rled-glt43tpxm-43-fhd-1920x1080-led-hdr-android-google-tv-mando-de-voz/",
     "badge": "Precio bajo"
@@ -1149,7 +951,7 @@ window.catalogProducts = [
     "name": "Tcl 43%e2%80%b3",
     "specs": "TV TCL 43″ 4K HDR GOOGLE TV (P635) · Pulgadas: 43″ · 43″ 4K · GOOGLE TV",
     "price": 299.0,
-    "image": "imagenes/105-tcl-43-e2-80-b3.png",
+    "image": "imagenes/87-tcl-43-e2-80-b3.png",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2022/11/Captura-de-pantalla_20221130_173941.png",
     "url": "https://mundotek.com.ec/producto/tv-tcl-43%e2%80%b3-4k-hdr-google-tv-p635/",
     "badge": "Precio bajo"
@@ -1160,7 +962,7 @@ window.catalogProducts = [
     "name": "INDURAMA TV 43TIKJ5UHD",
     "specs": "Pulgadas: 43″ · SMART TV · 43Pulgadas",
     "price": 309.0,
-    "image": "imagenes/106-indurama-tv-43tikj5uhd.webp",
+    "image": "imagenes/88-indurama-tv-43tikj5uhd.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2024/02/tikhudhd.webp",
     "url": "https://mundotek.com.ec/producto/smart-tv-indurama-tv-43tikjuhd-43pulgadas/",
     "badge": "Precio bajo"
@@ -1171,7 +973,7 @@ window.catalogProducts = [
     "name": "Lg 43pulgadas",
     "specs": "Pulgadas: 43″ · Televisor LG 43pulgadas UHD AI 43UA75 4K Smart TV 2025 · 43pulgadas UHD · Smart TV · 43pulgadas",
     "price": 325.0,
-    "image": "imagenes/107-lg-43pulgadas.webp",
+    "image": "imagenes/89-lg-43pulgadas.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/10/43ua75.webp",
     "url": "https://mundotek.com.ec/producto/televisor-lg-43pulgadas-uhd-ai-43ua75-4k-smart-tv-2025/",
     "badge": "Precio bajo"
@@ -1182,7 +984,7 @@ window.catalogProducts = [
     "name": "Samsung 50u8000",
     "specs": "Pulgadas: 50″ · Televisor Samsung LED 50″ Pulgadas Crystal UHD 4K 50U8000 · 50″",
     "price": 339.0,
-    "image": "imagenes/108-samsung-50u8000.webp",
+    "image": "imagenes/90-samsung-50u8000.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/04/televisor-samsung-led-50-pulgadas-mtk.webp",
     "url": "https://mundotek.com.ec/producto/televisor-samsung-led-50%e2%80%b3-pulgadas-crystal-uhd-4k-50u8000/",
     "badge": "Precio bajo"
@@ -1193,7 +995,7 @@ window.catalogProducts = [
     "name": "Rca uhdrc",
     "specs": "Pulgadas: 50″ · Televisor RCA 50 Pulgadas UHDRC · 50 Pulgadas UHD",
     "price": 340.0,
-    "image": "imagenes/109-rca-uhdrc.webp",
+    "image": "imagenes/91-rca-uhdrc.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/08/50uhdrc.webp",
     "url": "https://mundotek.com.ec/producto/televisor-rca-50-pulgadas-uhdrc/",
     "badge": "Precio bajo"
@@ -1204,7 +1006,7 @@ window.catalogProducts = [
     "name": "Innova IN LED 50UHD GTV",
     "specs": "Sistema Operativo: : Google TV – Ultra High Definition 4K · TV Innova IN LED 50UHD GTV 50″ GOOGLE TV · Pulgadas: : Smart TV de 50» · Resolución: : 3840 x 2160 Ultra High Definition 4K · Pulgadas: 50″ · Contraste: : 5000: 1",
     "price": 345.0,
-    "image": "imagenes/110-innova-in-led-50uhd-gtv.png",
+    "image": "imagenes/92-innova-in-led-50uhd-gtv.png",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2024/10/50uhd.png",
     "url": "https://mundotek.com.ec/producto/tv-innova-in-led-50uhd-gtv-50-google-tv/",
     "badge": "Precio bajo"
@@ -1215,7 +1017,7 @@ window.catalogProducts = [
     "name": "Tcl 50S5K 50 » fhd qled",
     "specs": "Pulgadas: 50″ · android · google tv · Smart tv",
     "price": 349.0,
-    "image": "imagenes/111-tcl-50s5k-50-fhd-qled.jpg",
+    "image": "imagenes/93-tcl-50s5k-50-fhd-qled.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/09/s5k.jpg",
     "url": "https://mundotek.com.ec/producto/smart-tv-tcl-50s5k-50-fhd-qled-android-14-google-tv-panel-hva-qled/",
     "badge": "Precio bajo"
@@ -1226,7 +1028,7 @@ window.catalogProducts = [
     "name": "RIVIERA QLED 4K -GLT50TPQ10",
     "specs": "TV RIVIERA QLED 4K -GLT50TPQ10 50″ GOOGLE TV · Pulgadas: 50″ · 50″ · GOOGLE TV",
     "price": 369.0,
-    "image": "imagenes/112-riviera-qled-4k--glt50tpq10.png",
+    "image": "imagenes/94-riviera-qled-4k--glt50tpq10.png",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/11/rled-glt50tpq10.png",
     "url": "https://mundotek.com.ec/producto/tv-riviera-qled-4k-glt50tpq10-50%e2%80%b3-google-tv/",
     "badge": "Precio bajo"
@@ -1237,7 +1039,7 @@ window.catalogProducts = [
     "name": "Crystal UHD DU7000 4K de 50” con sistema operativo Tizen",
     "specs": "Televisor inteligente Crystal UHD DU7000 4K de 50” con sistema operativo Tizen · Pulgadas: 50″ · inteligente Crystal UHD DU7000 4K de 50” con siste · inteligente-crystal-uhd-du7000-4k-de-50-con-sistem",
     "price": 369.0,
-    "image": "imagenes/113-crystal-uhd-du7000-4k-de-50-con-sistema-operativo-tizen.webp",
+    "image": "imagenes/95-crystal-uhd-du7000-4k-de-50-con-sistema-operativo-tizen.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/01/du7000-mtk.webp",
     "url": "https://mundotek.com.ec/producto/televisor-inteligente-crystal-uhd-du7000-4k-de-50-con-sistema-operativo-tizen-oferta-de-verano/",
     "badge": "Precio bajo"
@@ -1248,7 +1050,7 @@ window.catalogProducts = [
     "name": "Indurama LED 4K50 Pulgadas (50TIKGF2GUHD",
     "specs": "Tv Indurama LED 4K50 Pulgadas (50TIKGF2GUHD Google Tv) · Pulgadas: 50″ · 50 Pulgadas · Google Tv",
     "price": 379.0,
-    "image": "imagenes/114-indurama-led-4k50-pulgadas-50tikgf2guhd.webp",
+    "image": "imagenes/96-indurama-led-4k50-pulgadas-50tikgf2guhd.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2023/10/d_nq_np_783527-mec53271187298_012023-o.webp",
     "url": "https://mundotek.com.ec/producto/tv-indurama-qled-50-pulgadas-50tikgf2guhd-google-tv/",
     "badge": "Precio bajo"
@@ -1259,7 +1061,7 @@ window.catalogProducts = [
     "name": "Innova in",
     "specs": "Pulgadas: 55″ · 4k uhd · Smart tv",
     "price": 379.0,
-    "image": "imagenes/115-innova-in.jpg",
+    "image": "imagenes/97-innova-in.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2024/12/in-led55mtk.jpg",
     "url": "https://mundotek.com.ec/producto/smart-tv-innova-in-led-55uhd-gtv-mp-55-4k-uhd-led/",
     "badge": "Precio bajo"
@@ -1270,7 +1072,7 @@ window.catalogProducts = [
     "name": "Rca led55rca684gt 55",
     "specs": "Pulgadas: 55″ · 4k uhd · android · google tv · Smart tv",
     "price": 399.0,
-    "image": "imagenes/116-rca-led55rca684gt-55.jpg",
+    "image": "imagenes/98-rca-led55rca684gt-55.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2024/07/rca684gt.jpg",
     "url": "https://mundotek.com.ec/producto/smart-tv-rca-led55rca684gt-55-4k-uhd-led-android-google-tv/",
     "badge": "Precio bajo"
@@ -1281,7 +1083,7 @@ window.catalogProducts = [
     "name": "Riviera rled glt55tpx9 55",
     "specs": "Pulgadas: 55″ · 4k uhd · android · google tv · Smart tv",
     "price": 399.0,
-    "image": "imagenes/117-riviera-rled-glt55tpx9-55.jpg",
+    "image": "imagenes/99-riviera-rled-glt55tpx9-55.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/05/google-tv-glt55px9.jpg",
     "url": "https://mundotek.com.ec/producto/smart-tv-riviera-rled-glt55tpx9-55-4k-uhd-led-android-google-tv-color-negro/",
     "badge": "Precio bajo"
@@ -1292,7 +1094,7 @@ window.catalogProducts = [
     "name": "LG UHD AI 50UA7500 4K",
     "specs": "Pulgadas: 50″ · Televisor LG UHD AI 50UA7500 4K Smart TV · Smart TV",
     "price": 409.0,
-    "image": "imagenes/118-lg-uhd-ai-50ua7500-4k.jpg",
+    "image": "imagenes/100-lg-uhd-ai-50ua7500-4k.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/03/50ua7500.jpeg",
     "url": "https://mundotek.com.ec/producto/televisor-lg-uhd-ai-50ua7500-4k-smart-tv/",
     "badge": "Precio bajo"
@@ -1303,7 +1105,7 @@ window.catalogProducts = [
     "name": "LG UHD 50» UR7300 4K",
     "specs": "LG UHD 50» UR7300 4K Smart TV con ThinQ AI , 4K Procesador Inteligente · Pulgadas: 50″ · Smart TV · Inteligente https · inteligente",
     "price": 419.0,
-    "image": "imagenes/119-lg-uhd-50-ur7300-4k.jpg",
+    "image": "imagenes/101-lg-uhd-50-ur7300-4k.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2023/07/image-1.jpg",
     "url": "https://mundotek.com.ec/producto/lg-uhd-50-ur7300-4k-smart-tv-con-thinq-ai-4k-procesador-inteligente/",
     "badge": "Precio bajo"
@@ -1314,7 +1116,7 @@ window.catalogProducts = [
     "name": "Hisense 55%e2%80%b3",
     "specs": "Tv Hisense 55″ LED 4K Smart VIDAA 55A6H · Pulgadas: 55″ · 55″ · Peso: 16910 g · Dimensiones: 13 × 86 × 86 cm",
     "price": 419.0,
-    "image": "imagenes/120-hisense-55-e2-80-b3.jpg",
+    "image": "imagenes/102-hisense-55-e2-80-b3.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2024/05/tv-hisense-55-55a6h.jpg",
     "url": "https://mundotek.com.ec/producto/televisor-tv-hisense-55%e2%80%b3-led-4k-smart-vidaa/",
     "badge": "Precio bajo"
@@ -1325,7 +1127,7 @@ window.catalogProducts = [
     "name": "Hisense 55Q6QV 55 » 4k uhd QLED Vidaa",
     "specs": "Televisor Hisense 55Q6QV 55 » 4k uhd QLED Vidaa · Pulgadas: 55″ · 4k uhd",
     "price": 419.0,
-    "image": "imagenes/121-hisense-55q6qv-55-4k-uhd-qled-vidaa.jpg",
+    "image": "imagenes/103-hisense-55q6qv-55-4k-uhd-qled-vidaa.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/02/55q6qv.jpg",
     "url": "https://mundotek.com.ec/producto/smart-tv-hisense-55q6qv-55-4k-uhd-qled-vidaa/",
     "badge": "Precio bajo"
@@ -1336,7 +1138,7 @@ window.catalogProducts = [
     "name": "55Pulgadas TCL P6K 4K UHD",
     "specs": "Pulgadas: 55″ · Televisor 55Pulgadas TCL P6K 4K UHD · 4K UHD · 55Pulgadas",
     "price": 429.0,
-    "image": "imagenes/122-55pulgadas-tcl-p6k-4k-uhd.jpg",
+    "image": "imagenes/104-55pulgadas-tcl-p6k-4k-uhd.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/04/tv-tcl-55-55p6k.jpg",
     "url": "https://mundotek.com.ec/producto/televisor-55pulgadas-tcl-p6k-4k-uhd/",
     "badge": "Precio bajo"
@@ -1347,7 +1149,7 @@ window.catalogProducts = [
     "name": "Riviera QLED",
     "specs": "Pulgadas: 55″ · Televisor Riviera QLED 55″ RLED-GLT55TPQ10 · 55″",
     "price": 429.0,
-    "image": "imagenes/123-riviera-qled.webp",
+    "image": "imagenes/105-riviera-qled.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/11/rled-glt55tpq10.webp",
     "url": "https://mundotek.com.ec/producto/televisor-riviera-qled-55-rled-glt55tpq10/",
     "badge": "Precio bajo"
@@ -1358,7 +1160,7 @@ window.catalogProducts = [
     "name": "Motorola 55MGFUHD Google 4K Tv",
     "specs": "Pulgadas: 55″ · Televisor Motorola 55MGFUHD Google 4K Tv 55″ · 55″",
     "price": 439.0,
-    "image": "imagenes/124-motorola-55mgfuhd-google-4k-tv.png",
+    "image": "imagenes/106-motorola-55mgfuhd-google-4k-tv.png",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2024/10/mtk-tmkuhd.png",
     "url": "https://mundotek.com.ec/producto/televisor-motorola-55tmkuhd-google-tv-55/",
     "badge": "Precio bajo"
@@ -1369,7 +1171,7 @@ window.catalogProducts = [
     "name": "PHILIPS QLED",
     "specs": "Televisor PHILIPS QLED 55″ Pulgadas UHD 4K – Google TV – Q55gfu · Pulgadas: 55″ · 55″ · Google TV · 5g",
     "price": 439.0,
-    "image": "imagenes/125-philips-qled.png",
+    "image": "imagenes/107-philips-qled.png",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/02/55gfu.png",
     "url": "https://mundotek.com.ec/producto/televisor-philips-qled-55%e2%80%b3-pulgadas-uhd-4k-google-tv-q55gfu/",
     "badge": "Precio bajo"
@@ -1380,7 +1182,7 @@ window.catalogProducts = [
     "name": "Crystal UHD DU7000 4K de 50” con sistema operativo Tizen",
     "specs": "Televisor inteligente Crystal UHD DU7000 4K de 50” con sistema operativo Tizen · Pulgadas: 50″ · inteligente Crystal UHD DU7000 4K de 50” con siste · inteligente-crystal-uhd-du7000-4k-de-50-con-sistem",
     "price": 459.0,
-    "image": "imagenes/126-crystal-uhd-du7000-4k-de-50-con-sistema-operativo-tizen.webp",
+    "image": "imagenes/108-crystal-uhd-du7000-4k-de-50-con-sistema-operativo-tizen.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/01/du7000-mtk.webp",
     "url": "https://mundotek.com.ec/producto/televisor-inteligente-crystal-uhd-du7000-4k-de-50-con-sistema-operativo-tizen-2024-copia/",
     "badge": "Precio bajo"
@@ -1391,7 +1193,7 @@ window.catalogProducts = [
     "name": "Qled TCL 55T6C",
     "specs": "Pulgadas: 55″ · Televisor Qled TCL 55T6C 55 PULGADAS · 55 PULGADAS",
     "price": 469.0,
-    "image": "imagenes/127-qled-tcl-55t6c.webp",
+    "image": "imagenes/109-qled-tcl-55t6c.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/05/qled-tcl-t6c.webp",
     "url": "https://mundotek.com.ec/producto/televisor-qled-tcl-t6c-55-pulgadas/",
     "badge": "Precio bajo"
@@ -1413,7 +1215,7 @@ window.catalogProducts = [
     "name": "55″ Crystal UHD 4K 55U8000 Tizen OS",
     "specs": "TV 55″ Crystal UHD 4K 55U8000 Tizen OS Smart TV (2026) · Pulgadas: 55″ · 55″ · Smart TV",
     "price": 499.0,
-    "image": "imagenes/129-55-crystal-uhd-4k-55u8000-tizen-os.png",
+    "image": "imagenes/111-55-crystal-uhd-4k-55u8000-tizen-os.png",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/09/ue65u8000.png",
     "url": "https://mundotek.com.ec/producto/tv-55-crystal-uhd-4k-u8000-tizen-os-smart-tv-2025/",
     "badge": "Precio bajo"
@@ -1435,7 +1237,7 @@ window.catalogProducts = [
     "name": "Philips Led 65GFS-FISDB",
     "specs": "Televisor Philips Led 65GFS-FISDB Google Tv 65″ · Pulgadas: 65″ · 65″ · Google Tv · 5G",
     "price": 525.0,
-    "image": "imagenes/131-philips-led-65gfs-fisdb.png",
+    "image": "imagenes/113-philips-led-65gfs-fisdb.png",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/03/philips-65-gfs-fisdb.png",
     "url": "https://mundotek.com.ec/producto/televisor-philips-led-65gfs-fisdb-google-tv-65/",
     "badge": "Precio bajo"
@@ -1446,7 +1248,7 @@ window.catalogProducts = [
     "name": "55″ LG UHD AI 4K",
     "specs": "Pulgadas: 55″ · 55″ LG UHD AI 4K Smart TV 55ua7300 2025 · 55″ · Smart TV",
     "price": 530.0,
-    "image": "imagenes/132-55-lg-uhd-ai-4k.webp",
+    "image": "imagenes/114-55-lg-uhd-ai-4k.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/10/65ua73.webp",
     "url": "https://mundotek.com.ec/producto/55-lg-uhd-ai-4k-smart-tv-55ua7300-2025/",
     "badge": "Precio bajo"
@@ -1457,7 +1259,7 @@ window.catalogProducts = [
     "name": "Samsung 55 mini",
     "specs": "Pulgadas: 75″ · Televisor Samsung 55″ Mini LED UHD UN55M70HAGXPE · 55″",
     "price": 539.0,
-    "image": "imagenes/133-samsung-55-mini.webp",
+    "image": "imagenes/115-samsung-55-mini.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/06/nini-led-sam.webp",
     "url": "https://mundotek.com.ec/producto/televisor-samsung-55-mini-led-uhd-un55m70hagxpe/",
     "badge": "Precio bajo"
@@ -1468,7 +1270,7 @@ window.catalogProducts = [
     "name": "Lg 60",
     "specs": "Pulgadas: 60″ · Televisor LG 60″ LED 4K UHD 60UA8500PSA · 60″ · 4K UHD",
     "price": 549.0,
-    "image": "imagenes/134-lg-60.webp",
+    "image": "imagenes/116-lg-60.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/05/60ua85.webp",
     "url": "https://mundotek.com.ec/producto/televisor-lg-60-led-4k-uhd-60ua8500psa/",
     "badge": "Precio bajo"
@@ -1479,7 +1281,7 @@ window.catalogProducts = [
     "name": "Pantalla LG NanoCell 55» NANO80TSA 4K",
     "specs": "Pulgadas: 55″ · Pantalla LG NanoCell 55» NANO80TSA 4K SMART TV con ThinQ AI · SMART TV",
     "price": 555.0,
-    "image": "imagenes/135-pantalla-lg-nanocell-55-nano80tsa-4k.webp",
+    "image": "imagenes/117-pantalla-lg-nanocell-55-nano80tsa-4k.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2023/09/55nano77.webp",
     "url": "https://mundotek.com.ec/producto/pantalla-lg-nanocell-55-nano77-4k-smart-tv-con-thinq-ai/",
     "badge": "Precio bajo"
@@ -1490,7 +1292,7 @@ window.catalogProducts = [
     "name": "Riviera glt65px9 65",
     "specs": "Pulgadas: 65″ · 4k uhd · android · google tv · Smart tv",
     "price": 569.0,
-    "image": "imagenes/136-riviera-glt65px9-65.jpg",
+    "image": "imagenes/118-riviera-glt65px9-65.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/05/tv-glt65px9.jpg",
     "url": "https://mundotek.com.ec/producto/smart-tv-riviera-glt65px9-65-4k-uhd-led-android-google-tv-sin-borde-mando-de-voz-2025/",
     "badge": "Precio bajo"
@@ -1501,7 +1303,7 @@ window.catalogProducts = [
     "name": "Motorola 65",
     "specs": "Pulgadas: 65″ · Televisor Motorola 65″ LED 4K UHD 65MNUHD · 65″ · 4K UHD",
     "price": 569.0,
-    "image": "imagenes/137-motorola-65.webp",
+    "image": "imagenes/119-motorola-65.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/06/65mnuhd.webp",
     "url": "https://mundotek.com.ec/producto/televisor-motorola-65-led-4k-uhd-65mnuhd/",
     "badge": "Precio bajo"
@@ -1512,7 +1314,7 @@ window.catalogProducts = [
     "name": "65″ INDURAMA UHD",
     "specs": "Televisor 65″ INDURAMA UHD Google Tv TIKGF2GUHD · Pulgadas: 65″ · 65″ · Google Tv",
     "price": 580.0,
-    "image": "imagenes/138-65-indurama-uhd.png",
+    "image": "imagenes/120-65-indurama-uhd.png",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/05/65-tikgf2gudh-4k-google-tv.png",
     "url": "https://mundotek.com.ec/producto/televisor-65-indurama-uhd-google-tv-tikgf2guhd/",
     "badge": "Precio bajo"
@@ -1523,7 +1325,7 @@ window.catalogProducts = [
     "name": "Samsung vision ai",
     "specs": "Pulgadas: 55″ · Tv Samsung 55″ QLED Q7FAA 4K Vision AI Smart TV (2025) · 55″ QLED · Smart TV",
     "price": 589.0,
-    "image": "imagenes/139-samsung-vision-ai.webp",
+    "image": "imagenes/121-samsung-vision-ai.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/09/tv.webp",
     "url": "https://mundotek.com.ec/producto/55-qled-q7f-4k-samsung-vision-ai-smart-tv-2025/",
     "badge": "Precio bajo"
@@ -1534,7 +1336,7 @@ window.catalogProducts = [
     "name": "65Pulgadas TCL P6K 4K UHD",
     "specs": "Pulgadas: 65″ · Televisor 65Pulgadas TCL P6K 4K UHD · 4K UHD · 65Pulgadas",
     "price": 599.0,
-    "image": "imagenes/140-65pulgadas-tcl-p6k-4k-uhd.jpg",
+    "image": "imagenes/122-65pulgadas-tcl-p6k-4k-uhd.jpg",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2025/04/p6k.jpg",
     "url": "https://mundotek.com.ec/producto/televisor-65pulgadas-tcl-p6k-4k-uhd/",
     "badge": "Precio bajo"
@@ -1545,7 +1347,7 @@ window.catalogProducts = [
     "name": "Hisense Hi-QLED MiniLED",
     "specs": "TV Hisense Hi-QLED MiniLED 55″ 4K 55U6ESG Google TV 2026 · Pulgadas: 55″ · 55″ 4K · Google TV",
     "price": 599.0,
-    "image": "imagenes/141-hisense-hi-qled-miniled.webp",
+    "image": "imagenes/123-hisense-hi-qled-miniled.webp",
     "image_remote": "https://mundotek.com.ec/wp-content/uploads/2026/06/50u6esg.webp",
     "url": "https://mundotek.com.ec/producto/tv-hisense-hi-qled-miniled-55-4k-55u6esg-google-tv-2026/",
     "badge": "Precio bajo"

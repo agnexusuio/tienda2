@@ -1,300 +1,15 @@
 [
   {
-    "nombre": "ENV Book Pro Max",
-    "precio_original": 319.0,
-    "categoria": "Laptops",
-    "url_origen": "https://www.pinsoft.ec/cod-1768-laptop-env-book-pro-max-intel-celeron-n4020-8gb-256gb-ssd-14-1-full-hd-ips-windows-11-preinstalado-wi-fi-5-ac-teclado-espanol-alfanumerico-gris-oscuro/p-9535.html",
-    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/1%28155%29.png",
-    "codigo": "a1bd2c52",
-    "fuente": "Pinsoft",
-    "caracteristicas": [
-      "Intel® Celeron® N4020",
-      "256GB SSD",
-      "14.1\" Full HD, IPS",
-      "Windows 11 (Preinstalado)",
-      "Wi-Fi 5 AC",
-      "Teclado Español alfanumérico"
-    ],
-    "imagen": "https://www.pinsoft.ec/getimage/products/1%28155%29.png",
-    "precio_final": 410
-  },
-  {
-    "nombre": "ENV BOOK ELITE",
-    "precio_original": 374.0,
-    "categoria": "Laptops",
-    "url_origen": "https://www.pinsoft.ec/cod-1780-laptop-env-book-elite-amd-ryzen-5-3500u-2-1ghzhasta-3-7ghz-8gb-256gb-nvme-ssd-15-6-full-hd-windows-11-teclado-espanol-alfanumerico-gris-oscuro/p-9623.html",
-    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/1%28156%29.png",
-    "codigo": "f34ee835",
-    "fuente": "Pinsoft",
-    "caracteristicas": [
-      "AMD Ryzen™ 5 3500U ( 2.1GHz hasta 3.7GHz)",
-      "256GB NVMe™ SSD",
-      "15.6\" Full HD",
-      "Windows 11 (Preinstalado)",
-      "Teclado Español alfanumérico",
-      "8GB"
-    ],
-    "imagen": "https://www.pinsoft.ec/getimage/products/1%28156%29.png",
-    "precio_final": 470
-  },
-  {
-    "nombre": "HP 14-dq3500la",
-    "precio_original": 379.5,
-    "categoria": "Laptops",
-    "url_origen": "https://www.pinsoft.ec/cod-h-1779-hp-14-dq3500la-intel-celeron-n4500-8gb-256gb-pcie-nvme-ssd-14-0-hd-wi-fi-6-bt-5-4-freedos-teclado-espanol-plateado-natural/p-9621.html",
-    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/thumbs_500_0bb2991cbc8280bc205e%281%29.png",
-    "codigo": "26fea2a6",
-    "fuente": "Pinsoft",
-    "caracteristicas": [
-      "Intel® Celeron® N4500",
-      "256GB PCIe® NVMe™ SSD",
-      "14.0\" HD",
-      "FreeDOS",
-      "Wi-Fi 6 & BT 5.4",
-      "Teclado Español"
-    ],
-    "imagen": "https://www.pinsoft.ec/getimage/products/thumbs_500_0bb2991cbc8280bc205e%281%29.png",
-    "precio_final": 470
-  },
-  {
-    "nombre": "LENOVO IdeaPad Slim 3 15AMN8",
-    "precio_original": 462.0,
-    "categoria": "Laptops",
-    "url_origen": "https://www.pinsoft.ec/cod-1791-lenovo-ideapad-slim-3-15amn8-amd-ryzen-3-7320u-8gb-lpddr5-512gb-nvme-ssd-m-2-15-6-fhd-sin-sistema-os-wi-fi6-2x2-bt5-2-teclado-espanol-alfanumerico-artic-grey/p-9675.html",
-    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/laptop-ideapad-slim-3-amd-r3-732.png",
-    "codigo": "032af539",
-    "fuente": "Pinsoft",
-    "caracteristicas": [
-      "AMD Ryzen™ 3 7320U",
-      "512GB NVMe SSD M.2",
-      "15.6\" FHD",
-      "Wi-Fi®6 2x2 & BT5.2",
-      "Teclado Español alfanumérico",
-      "8GB LPDDR5"
-    ],
-    "imagen": "https://www.pinsoft.ec/getimage/products/laptop-ideapad-slim-3-amd-r3-732.png",
-    "precio_final": 560
-  },
-  {
-    "nombre": "ASUS VivoBook Go 15 (E1504F)",
-    "precio_original": 473.0,
-    "categoria": "Laptops",
-    "url_origen": "https://www.pinsoft.ec/cod-1795-asus-vivobook-go-15-e1504f-amd-ryzen-37320u-8-gb-lpddr5-512gb-nvme-ssd-15-6-fhd-sin-sistema-os-wi-fi-6e-bt-5-3-lector-de-huellas-teclado-espanol-alfanumerico-mixed-black-incl-mouseasus/p-9701.html",
-    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/17951111.jpg",
-    "codigo": "2a57ba27",
-    "fuente": "Pinsoft",
-    "caracteristicas": [
-      "AMD® Ryzen™ 3 7320U",
-      "512GB NVMe™ SSD",
-      "15.6\" FHD",
-      "Wi-Fi 6E& BT 5.3",
-      "Teclado Español alfanumérico",
-      "8 GB LPDDR5"
-    ],
-    "imagen": "https://www.pinsoft.ec/getimage/products/17951111.jpg",
-    "precio_final": 570
-  },
-  {
-    "nombre": "ENV 3500u",
-    "precio_original": 484.0,
-    "categoria": "Laptops",
-    "url_origen": "https://www.pinsoft.ec/cod-e-1776-laptop-env-amd-ryzen-5-3500u-2-1ghzhasta-3-7ghz-16gb-512gb-nvme-ssd-15-6-full-hd-windows-11-teclado-espanol-alfanumerico-gris/p-9592.html",
-    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/pinsoft-env12%288%29.jpg",
-    "codigo": "0d5e5840",
-    "fuente": "Pinsoft",
-    "caracteristicas": [
-      "AMD Ryzen™ 5 3500U ( 2.1GHz hasta 3.7GHz)",
-      "512GB NVMe™ SSD",
-      "15.6\" Full HD",
-      "Windows 11 (Preinstalado)",
-      "Teclado Español alfanumérico",
-      "16GB"
-    ],
-    "imagen": "https://www.pinsoft.ec/getimage/products/pinsoft-env12%288%29.jpg",
-    "precio_final": 580
-  },
-  {
-    "nombre": "ENV 3500u",
-    "precio_original": 484.0,
-    "categoria": "Laptops",
-    "url_origen": "https://www.pinsoft.ec/cod-1775-laptop-env-amd-ryzen-5-3500u-2-1ghzhasta-3-7ghz-16gb-512gb-nvme-ssd-14-1-full-hd-windows-11-teclado-espanol-gris/p-9593.html",
-    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/11%2875%29.jpg",
-    "codigo": "69fde0ab",
-    "fuente": "Pinsoft",
-    "caracteristicas": [
-      "AMD Ryzen™ 5 3500U ( 2.1GHz hasta 3.7GHz)",
-      "512GB NVMe™ SSD",
-      "14.1\" Full HD",
-      "Windows 11 (Preinstalado)",
-      "Teclado Español",
-      "16GB"
-    ],
-    "imagen": "https://www.pinsoft.ec/getimage/products/11%2875%29.jpg",
-    "precio_final": 580
-  },
-  {
-    "nombre": "LENOVO IdeaPad Slim 3 15IAN8",
-    "precio_original": 493.9,
-    "categoria": "Laptops",
-    "url_origen": "https://www.pinsoft.ec/cod-1787-lenovo-ideapad-slim-3-15ian8-intel-core-i3-n305-8-nucleos-hasta-3-8-ghz-8gb-lpddr5-512gb-ssd-pcie-4-0-15-6-full-hd-sin-sistema-os-wi-fi-6-bt5-2-teclado-espanol-la-alfanumerico-arctic-grey/p-9649.html",
-    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/windows10home-64bits%283%29.png",
-    "codigo": "1445abe7",
-    "fuente": "Pinsoft",
-    "caracteristicas": [
-      "Intel® Core™ i3-N305 (8 núcleos, hasta 3.8 GHz)",
-      "512GB SSD PCIe® 4.0",
-      "15.6\" Full HD",
-      "Wi-Fi 6 & BT5.2",
-      "Teclado Español (LA) alfanumérico",
-      "8GB LPDDR5"
-    ],
-    "imagen": "https://www.pinsoft.ec/getimage/products/windows10home-64bits%283%29.png",
-    "precio_final": 590
-  },
-  {
-    "nombre": "ASUS VivoBook 15 X1504V",
-    "precio_original": 517.0,
-    "categoria": "Laptops",
-    "url_origen": "https://www.pinsoft.ec/cod-1766-kit-asus-vivobook-15-x1504v-intel-corei3-1315u-13va-gen-10mb-cache-hasta-4-4-ghz-8gb-512gb-nvme-ssd-15-6-fhd/p-9534.html",
-    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/pinsoft-1698%283%29.jpg",
-    "codigo": "87c0ba2b",
-    "fuente": "Pinsoft",
-    "caracteristicas": [
-      "Intel® Core™ i3-1315U 13va. Gen (10MB caché, hasta 4,4 GHz)",
-      "512GB NVMe™ SSD",
-      "15.6\" FHD",
-      "Wi-Fi 6E& BT 5.3",
-      "Teclado Español alfanumérico",
-      "8GB"
-    ],
-    "imagen": "https://www.pinsoft.ec/getimage/products/pinsoft-1698%283%29.jpg",
-    "precio_final": 610
-  },
-  {
-    "nombre": "ASUS VivoBook 15 X1504V",
-    "precio_original": 566.5,
-    "categoria": "Laptops",
-    "url_origen": "https://www.pinsoft.ec/cod-1774-kit-asus-vivobook-15-x1504v-intel-corei3-1315u-13va-gen-10mb-cache-hasta-4-4-ghz-16gb-512gb-nvme/p-9588.html",
-    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/pinsoft-1698%284%29.jpg",
-    "codigo": "1dc5e1a7",
-    "fuente": "Pinsoft",
-    "caracteristicas": [
-      "Intel® Core™ i3-1315U 13va. Gen (10MB caché, hasta 4,4 GHz)",
-      "512GB NVMe™ SSD",
-      "15.6\" FHD",
-      "Wi-Fi 6E& BT 5.3",
-      "Teclado Español alfanumérico",
-      "16GB"
-    ],
-    "imagen": "https://www.pinsoft.ec/getimage/products/pinsoft-1698%284%29.jpg",
-    "precio_final": 660
-  },
-  {
-    "nombre": "LENOVO V15 G5 IRL",
-    "precio_original": 605.0,
-    "categoria": "Laptops",
-    "url_origen": "https://www.pinsoft.ec/cod-1793-lenovo-v15-g5-irl-intel-core-i5-13420h-13va-gen-8gb-ddr5-512gb-ssd-pcie-4-0-15-6-full-hd-sin-sistema-os-wi-fi-6-ax-teclado-alfanumerico-espanol-la-luna-grey/p-9681.html",
-    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/lenovo_v15_g5_irl_ct1_06%281%29.png",
-    "codigo": "5f9178cf",
-    "fuente": "Pinsoft",
-    "caracteristicas": [
-      "Intel® Core™ i5-13420H 13va.Gen",
-      "512GB SSD PCIe 4.0",
-      "15.6\" Full HD",
-      "Wi-Fi 6 AX",
-      "Teclado alfanumérico Español (LA)",
-      "8GB DDR5"
-    ],
-    "imagen": "https://www.pinsoft.ec/getimage/products/lenovo_v15_g5_irl_ct1_06%281%29.png",
-    "precio_final": 700
-  },
-  {
-    "nombre": "ASUS VivoBook 15 X1504V",
-    "precio_original": 605.0,
-    "categoria": "Laptops",
-    "url_origen": "https://www.pinsoft.ec/cod-1797-asus-vivobook-15-x1504v-intel-core-5-120u-10-nucleos-hasta-5-0ghz-8gb-512gb-nvme-ssd-15-6-fhd-sin-sistema-os-wi-fi-6-bt-5-3-sensor-de-huella-teclado-espanol-alfanumerico-quiet-blue-mouseasus/p-9729.html",
-    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/1797-pinsoft-asus.jpg",
-    "codigo": "e288517a",
-    "fuente": "Pinsoft",
-    "caracteristicas": [
-      "Intel® Core™ 5 120U (Serie 1) Última Generación, 12MB caché, 10 núcleos, hasta 5,0GHz",
-      "512GB NVMe™ SSD",
-      "15.6\" FHD",
-      "Wi-Fi 6 & BT 5.3",
-      "Teclado Español alfanumérico",
-      "8GB"
-    ],
-    "imagen": "https://www.pinsoft.ec/getimage/products/1797-pinsoft-asus.jpg",
-    "precio_final": 700
-  },
-  {
-    "nombre": "HP 250R G10",
-    "precio_original": 632.5,
-    "categoria": "Laptops",
-    "url_origen": "https://www.pinsoft.ec/cod-1796-laptop-hp-250r-g10-intel-core-5-120u-12mb-cache-10-nucleos-hasta-5-0ghz-16gb-512-gb-ssd-pcle-m-2-15-6-hd-freedos-3-0-teclado-espanol-numerico-plata-turbo/p-9715.html",
-    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/hp_250r_15.6_inch_g10_notebook_pc_df_ffplusplus_turbosilver_nonodd_fpr_nt_nonircam_catalog_win_11_whitebg_front_m2826686%281%29.png",
-    "codigo": "c5cf6900",
-    "fuente": "Pinsoft",
-    "caracteristicas": [
-      "Intel® Core™ 5 120U (Serie 1) Nueva Generación, 12MB caché, 10 núcleos, hasta 5,0GHz",
-      "512 GB SSD PCle M.2",
-      "15.6\" HD",
-      "FreeDOS 3.0",
-      "Teclado Español numérico",
-      "16GB"
-    ],
-    "imagen": "https://www.pinsoft.ec/getimage/products/hp_250r_15.6_inch_g10_notebook_pc_df_ffplusplus_turbosilver_nonodd_fpr_nt_nonircam_catalog_win_11_whitebg_front_m2826686%281%29.png",
-    "precio_final": 730
-  },
-  {
-    "nombre": "DELL 15 DC15250",
-    "precio_original": 638.0,
-    "categoria": "Laptops",
-    "url_origen": "https://www.pinsoft.ec/cod-1802-dell-15-dc15250-intel-core-i5-1334u-13-gen-8gb-512gb-nvme-ssd-15-6-full-hd-120hz-ubuntu-wi-fi-6-ax-teclado-espanol-alfanumerico-platinum-silver/p-9766.html",
-    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/comdelkd9xk-1-lg.png",
-    "codigo": "2dd55d24",
-    "fuente": "Pinsoft",
-    "caracteristicas": [
-      "Intel® Core™ i5-1334U 13.ª Gen",
-      "512GB NVMe™ SSD",
-      "15.6\" Full HD, 120Hz",
-      "Wi-Fi 6 AX",
-      "Teclado Español alfanumérico",
-      "8GB"
-    ],
-    "imagen": "https://www.pinsoft.ec/getimage/products/comdelkd9xk-1-lg.png",
-    "precio_final": 730
-  },
-  {
-    "nombre": "HP 255 G10",
-    "precio_original": 682.0,
-    "categoria": "Laptops",
-    "url_origen": "https://www.pinsoft.ec/cod-1792-hp-255-g10-amd-ryzen-7-7730u-up-4-5-ghz-16-mb-cache-l3-8-nucleos-16gb-512gb-nvme-ssd-15-6-fhd-wi-fi-6-2x2-bt5-3-freedos-3-0-teclado-espanol-alfanumerico-plata-turbo/p-9680.html",
-    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/hp-255-g10-amd-ryzen-7-7730u1-gra.png",
-    "codigo": "ddd36d2f",
-    "fuente": "Pinsoft",
-    "caracteristicas": [
-      "AMD Ryzen™ 7 7730U (UP 4,5 GHz, 16 MB caché L3, 8 núcleos)",
-      "512GB NVMe™ SSD",
-      "15.6\" FHD",
-      "FreeDOS 3.0",
-      "Wi-Fi® 6 2x2, BT5.3",
-      "Teclado Español Alfanumérico"
-    ],
-    "imagen": "https://www.pinsoft.ec/getimage/products/hp-255-g10-amd-ryzen-7-7730u1-gra.png",
-    "precio_final": 780
-  },
-  {
     "nombre": "ASUS VIVOBOOK GO 14 E410KA-CL4128",
     "precio_original": 355.0,
     "categoria": "Computadoras",
     "url_origen": "https://digitalpcecuador.com/producto/asus-vivobook-go-14-e410ka-cl4128-intel-celeron-n4500-8gb-ram-128gb-ssd-14-fhd-w11/",
-    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/09/PORTADA-1024x1024.png",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/09/PORTADA.png",
     "fuente": "DigitalPC",
     "caracteristicas": [
       "Intel Celeron N4500 8gb RAM 128gb SSD 14″ FHD W11"
     ],
-    "imagen": "imagenes/16-asus-vivobook-go-14-e410ka-cl4128.png",
+    "imagen": "imagenes/01-asus-vivobook-go-14-e410ka-cl4128.png",
     "precio_final": 450
   },
   {
@@ -302,13 +17,13 @@
     "precio_original": 455.0,
     "categoria": "Computadoras",
     "url_origen": "https://digitalpcecuador.com/producto/asus-vivobook-14-x1404va-intel-core-i3-1315u-8gb-ram-128gb-ssd-14-w11-2/",
-    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/07/descarga-7-1024x1024.png",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/07/descarga-7.png",
     "fuente": "DigitalPC",
     "caracteristicas": [
       "Intel Core I3-1315U 8gb RAM 128gb SSD 14″ W11 $ 45",
       "intel-core-i3-1315u-8gb-ram-128gb-ssd-14-w11-2"
     ],
-    "imagen": "imagenes/17-asus-vivobook-14-x1404va.png",
+    "imagen": "imagenes/02-asus-vivobook-14-x1404va.png",
     "precio_final": 550
   },
   {
@@ -316,13 +31,13 @@
     "precio_original": 499.0,
     "categoria": "Computadoras",
     "url_origen": "https://digitalpcecuador.com/producto/hp-15-fd0130wm-intel-core-i3-n305-8gb-ram-256gb-ssd-15-6-w11/",
-    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/09/HP1-3-1024x1024.png",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/09/HP1-3.png",
     "fuente": "DigitalPC",
     "caracteristicas": [
       "Intel Core I3-N305 8gb RAM 256gb SSD 15.6″ W11 $ 4",
       "intel-core-i3-n305-8gb-ram-256gb-ssd-15-6-w11"
     ],
-    "imagen": "imagenes/18-hp-15-fd0130wm.png",
+    "imagen": "imagenes/03-hp-15-fd0130wm.png",
     "precio_final": 590
   },
   {
@@ -330,13 +45,13 @@
     "precio_original": 499.0,
     "categoria": "Computadoras",
     "url_origen": "https://digitalpcecuador.com/producto/hp-15-fd0133wm-intel-core-i3-n305-8gb-ram-256gb-ssd-15-6-w11/",
-    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/09/HP1-3-1024x1024.png",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/09/HP1-3.png",
     "fuente": "DigitalPC",
     "caracteristicas": [
       "Intel Core I3-N305 8gb RAM 256gb SSD 15.6″ W11 $ 4",
       "intel-core-i3-n305-8gb-ram-256gb-ssd-15-6-w11"
     ],
-    "imagen": "imagenes/19-hp-15-fd0133wm.png",
+    "imagen": "imagenes/04-hp-15-fd0133wm.png",
     "precio_final": 590
   },
   {
@@ -344,13 +59,13 @@
     "precio_original": 545.0,
     "categoria": "Computadoras",
     "url_origen": "https://digitalpcecuador.com/producto/asus-vivibook-go-15-e1504ga-intel-core-i3-n305-8gb-ram-256gb-ssd-15-6-w11/",
-    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/07/descarga-8-1024x1024.png",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/07/descarga-8.png",
     "fuente": "DigitalPC",
     "caracteristicas": [
       "Intel Core I3-N305 8gb RAM 256gb SSD 15.6″ W11 $ 5",
       "intel-core-i3-n305-8gb-ram-256gb-ssd-15-6-w11"
     ],
-    "imagen": "imagenes/20-asus-vivibook-go-15-e1504ga.png",
+    "imagen": "imagenes/05-asus-vivibook-go-15-e1504ga.png",
     "precio_final": 640
   },
   {
@@ -358,13 +73,13 @@
     "precio_original": 545.0,
     "categoria": "Computadoras",
     "url_origen": "https://digitalpcecuador.com/producto/asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-15-6-w11-3/",
-    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2024/12/descarga-8-1024x1024.png",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2024/12/descarga-8.png",
     "fuente": "DigitalPC",
     "caracteristicas": [
       "AMD Ryzen 5-7520U 8gb RAM 512gb SSD 15.6″ W11 $",
       "amd-ryzen-5-7520u-8gb-ram-512gb-ssd-15-6-w11-3"
     ],
-    "imagen": "imagenes/21-asus-vivobook-go-15-e1504fa.png",
+    "imagen": "imagenes/06-asus-vivobook-go-15-e1504fa.png",
     "precio_final": 640
   },
   {
@@ -372,13 +87,13 @@
     "precio_original": 575.0,
     "categoria": "Computadoras",
     "url_origen": "https://digitalpcecuador.com/producto/asus-vivobook-14-x1404vap-intel-core-5-120u-8gb-ram-256gb-ssd-14-w11/",
-    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/08/descarga-4-2-1024x1024.png",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/08/descarga-4-2.png",
     "fuente": "DigitalPC",
     "caracteristicas": [
       "Intel Core 5-120U 8gb RAM 256gb SSD 14″ W11 $ 575",
       "intel-core-5-120u-8gb-ram-256gb-ssd-14-w11"
     ],
-    "imagen": "imagenes/22-asus-vivobook-14-x1404vap.png",
+    "imagen": "imagenes/07-asus-vivobook-14-x1404vap.png",
     "precio_final": 670
   },
   {
@@ -386,13 +101,13 @@
     "precio_original": 655.0,
     "categoria": "Computadoras",
     "url_origen": "https://digitalpcecuador.com/producto/hp-15-fc0256la-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-15-6/",
-    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/09/FOTOS-WEB-1024x1024.jpg",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/09/FOTOS-WEB.jpg",
     "fuente": "DigitalPC",
     "caracteristicas": [
       "AMD Ryzen 5-7520U 16gb RAM 512gb SSD 15.6″ $ 655",
       "amd-ryzen-5-7520u-16gb-ram-512gb-ssd-15-6"
     ],
-    "imagen": "imagenes/23-hp-15-fc0256la.jpg",
+    "imagen": "imagenes/08-hp-15-fc0256la.jpg",
     "precio_final": 750
   },
   {
@@ -400,12 +115,12 @@
     "precio_original": 675.0,
     "categoria": "Computadoras",
     "url_origen": "https://digitalpcecuador.com/producto/lenovo-ideapad-1-intel-core-i5-1335u-16gb-ram-256gb-ssd-15-6-w11/",
-    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/FOTOS-WEB-27-1024x1024.jpg",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/FOTOS-WEB-27.jpg",
     "fuente": "DigitalPC",
     "caracteristicas": [
       "Intel Core I5-1335U 16gb RAM 256gb SSD 15.6” W11 $"
     ],
-    "imagen": "imagenes/24-lenovo-ideapad-1.jpg",
+    "imagen": "imagenes/09-lenovo-ideapad-1.jpg",
     "precio_final": 770
   },
   {
@@ -413,58 +128,15 @@
     "precio_original": 675.0,
     "categoria": "Computadoras",
     "url_origen": "https://digitalpcecuador.com/producto/asus-vivobook-go-15-e1504fa-ryzen-5-4016gb512ssd156fhd/",
-    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/07/PORTADA-2-1024x1024.png",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/07/PORTADA-2.png",
     "fuente": "DigitalPC",
     "caracteristicas": [
       "ASUS VIVOBOOK GO 15 E1504FA RYZEN 5-40 16GB 512SSD 15,6´´ FHD $ 675.00",
       "RYZEN 5-40 16GB 512SSD 15",
       "ryzen-5-4016gb512ssd156fhd"
     ],
-    "imagen": "imagenes/25-asus-vivobook-go-15-e1504fa.png",
+    "imagen": "imagenes/10-asus-vivobook-go-15-e1504fa.png",
     "precio_final": 770
-  },
-  {
-    "nombre": "HP 250R G10",
-    "precio_original": 675.0,
-    "categoria": "Computadoras",
-    "url_origen": "https://digitalpcecuador.com/producto/hp-250r-g10-intel-core-i5-120u-16gb-ram-512gb-ssd-15-6/",
-    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/07/FOTOS-WEB-13-1024x1024.jpg",
-    "fuente": "DigitalPC",
-    "caracteristicas": [
-      "Intel Core 5-120U 16gb RAM 512gb SSD 15.6″ $ 675.0",
-      "intel-core-i5-120u-16gb-ram-512gb-ssd-15-6"
-    ],
-    "imagen": "imagenes/26-hp-250r-g10.jpg",
-    "precio_final": 770
-  },
-  {
-    "nombre": "Hp omnibook 3 16",
-    "precio_original": 695.0,
-    "categoria": "Computadoras",
-    "url_origen": "https://digitalpcecuador.com/producto/hp-omnibook-3-16-amd-ryzen-5-40-apu-16gb-ram-256g-ssd-16-2k-ips-touch-w11/",
-    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/735362.jpg",
-    "fuente": "DigitalPC",
-    "caracteristicas": [
-      "AMD Ryzen 5 40 APU 16gb RAM 256g SSD 16” 2K IPS",
-      "amd-ryzen-5-40-apu-16gb-ram-256g-ssd-16-2k-ips-t"
-    ],
-    "imagen": "imagenes/27-hp-omnibook-3-16.jpg",
-    "precio_final": 790
-  },
-  {
-    "nombre": "ASUS VIVOBOOK 15 F1504VA",
-    "precio_original": 695.0,
-    "categoria": "Computadoras",
-    "url_origen": "https://digitalpcecuador.com/producto/asus-vivobook-go-15-e1504va-core-i5-1334u-8gb-ram-512gb-ssd-15-6-fhd-w11/",
-    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/09/PORTADA-1-1024x1024.png",
-    "fuente": "DigitalPC",
-    "caracteristicas": [
-      "CORE I5-1334U 8gb RAM 512gb SSD 15.6″ FHD W11 $ 695",
-      "8gb",
-      "512gb"
-    ],
-    "imagen": "imagenes/28-asus-vivobook-15-f1504va.png",
-    "precio_final": 790
   },
   {
     "nombre": "Infinix SMART 6 HD",
@@ -477,7 +149,7 @@
       "2GB",
       "32GB"
     ],
-    "imagen": "imagenes/29-infinix-smart-6-hd.webp",
+    "imagen": "imagenes/11-infinix-smart-6-hd.webp",
     "precio_final": 120
   },
   {
@@ -492,7 +164,7 @@
       "64GB",
       "42gb"
     ],
-    "imagen": "imagenes/30-zte-blade-a35e.webp",
+    "imagen": "imagenes/12-zte-blade-a35e.webp",
     "precio_final": 140
   },
   {
@@ -505,7 +177,7 @@
     "caracteristicas": [
       "Kit fotográfico"
     ],
-    "imagen": "imagenes/31-xiaomi-15-ultra.webp",
+    "imagen": "imagenes/13-xiaomi-15-ultra.webp",
     "precio_final": 150
   },
   {
@@ -519,7 +191,7 @@
       "4GB",
       "64GB"
     ],
-    "imagen": "imagenes/32-realme-c21y-ram4gb-64gb.jpg",
+    "imagen": "imagenes/14-realme-c21y-ram4gb-64gb.jpg",
     "precio_final": 150
   },
   {
@@ -534,7 +206,7 @@
       "2GB",
       "32GB"
     ],
-    "imagen": "imagenes/33-realme-c11-2021.jpg",
+    "imagen": "imagenes/15-realme-c11-2021.jpg",
     "precio_final": 160
   },
   {
@@ -548,7 +220,7 @@
       "3 GB",
       "128GB"
     ],
-    "imagen": "imagenes/34-infinix-hot-20i.webp",
+    "imagen": "imagenes/16-infinix-hot-20i.webp",
     "precio_final": 180
   },
   {
@@ -562,7 +234,7 @@
       "4GB",
       "128GB"
     ],
-    "imagen": "imagenes/35-samsung-a07.webp",
+    "imagen": "imagenes/17-samsung-a07.webp",
     "precio_final": 190
   },
   {
@@ -579,7 +251,7 @@
       "44gb",
       "64gb"
     ],
-    "imagen": "imagenes/36-tecno-spark-go-3-ram4-4gb-128gb.webp",
+    "imagen": "imagenes/18-tecno-spark-go-3-ram4-4gb-128gb.webp",
     "precio_final": 190
   },
   {
@@ -593,7 +265,7 @@
       "4 GB",
       "128GB"
     ],
-    "imagen": "imagenes/37-honor-play-10-ram4-4-gb-128gb.jpg",
+    "imagen": "imagenes/19-honor-play-10-ram4-4-gb-128gb.jpg",
     "precio_final": 190
   },
   {
@@ -607,7 +279,7 @@
       "4GB",
       "128GB"
     ],
-    "imagen": "imagenes/38-xiaomi-redmi-a7-pro.webp",
+    "imagen": "imagenes/20-xiaomi-redmi-a7-pro.webp",
     "precio_final": 190
   },
   {
@@ -622,7 +294,7 @@
       "10GB",
       "410gb"
     ],
-    "imagen": "imagenes/39-logic-g1l-gaming-phone-game-pad-buds.png",
+    "imagen": "imagenes/21-logic-g1l-gaming-phone-game-pad-buds.png",
     "precio_final": 190
   },
   {
@@ -640,7 +312,7 @@
       "Pantalla: 6.78¨",
       "Resolución de pantalla: 720 x 1600 píxeles"
     ],
-    "imagen": "imagenes/40-infinix-smart-20.jpg",
+    "imagen": "imagenes/22-infinix-smart-20.jpg",
     "precio_final": 190
   },
   {
@@ -654,7 +326,7 @@
       "4GB",
       "256GB"
     ],
-    "imagen": "imagenes/41-motorola-g06.jpg",
+    "imagen": "imagenes/23-motorola-g06.jpg",
     "precio_final": 200
   },
   {
@@ -667,7 +339,7 @@
     "caracteristicas": [
       "Peso: 0.17 kg"
     ],
-    "imagen": "imagenes/42-tcl-l10.jpg",
+    "imagen": "imagenes/24-tcl-l10.jpg",
     "precio_final": 200
   },
   {
@@ -681,7 +353,7 @@
       "4GB",
       "256GB"
     ],
-    "imagen": "imagenes/43-honor-x5c-plus.jpg",
+    "imagen": "imagenes/25-honor-x5c-plus.jpg",
     "precio_final": 210
   },
   {
@@ -696,7 +368,7 @@
       "4GB",
       "256GB"
     ],
-    "imagen": "imagenes/44-telefono-tecno-spark-30c.webp",
+    "imagen": "imagenes/26-telefono-tecno-spark-30c.webp",
     "precio_final": 210
   },
   {
@@ -710,7 +382,7 @@
       "4GB",
       "256GB"
     ],
-    "imagen": "imagenes/45-oppo-a5-4g.png",
+    "imagen": "imagenes/27-oppo-a5-4g.png",
     "precio_final": 220
   },
   {
@@ -727,7 +399,7 @@
       "256GB",
       "48gb"
     ],
-    "imagen": "imagenes/46-motorola-moto-g15-4g.png",
+    "imagen": "imagenes/28-motorola-moto-g15-4g.png",
     "precio_final": 220
   },
   {
@@ -740,7 +412,7 @@
     "caracteristicas": [
       "Tecno Spark 9 Pro"
     ],
-    "imagen": "imagenes/47-tecno-spark-9-pro.jpg",
+    "imagen": "imagenes/29-tecno-spark-9-pro.jpg",
     "precio_final": 230
   },
   {
@@ -754,7 +426,7 @@
       "256gb",
       "8gb"
     ],
-    "imagen": "imagenes/48-xiaomi-redmi-15c.webp",
+    "imagen": "imagenes/30-xiaomi-redmi-15c.webp",
     "precio_final": 230
   },
   {
@@ -770,7 +442,7 @@
       "6GB",
       "8GB"
     ],
-    "imagen": "imagenes/49-honor-x6c.webp",
+    "imagen": "imagenes/31-honor-x6c.webp",
     "precio_final": 240
   },
   {
@@ -784,7 +456,7 @@
       "4GB",
       "256GB"
     ],
-    "imagen": "imagenes/50-motorola-g17.jpg",
+    "imagen": "imagenes/32-motorola-g17.jpg",
     "precio_final": 240
   },
   {
@@ -798,7 +470,7 @@
       "5G",
       "Peso: 0.18 kg"
     ],
-    "imagen": "imagenes/51-realme-narzo-30-5g.jpg",
+    "imagen": "imagenes/33-realme-narzo-30-5g.jpg",
     "precio_final": 250
   },
   {
@@ -811,7 +483,7 @@
     "caracteristicas": [
       "256 Gb"
     ],
-    "imagen": "imagenes/52-celular-oukitel-g1-24-6-18-gb.jpg",
+    "imagen": "imagenes/34-celular-oukitel-g1-24-6-18-gb.jpg",
     "precio_final": 280
   },
   {
@@ -827,7 +499,7 @@
       "6GB",
       "88gb"
     ],
-    "imagen": "imagenes/53-honor-x7d.jpg",
+    "imagen": "imagenes/35-honor-x7d.jpg",
     "precio_final": 280
   },
   {
@@ -841,7 +513,7 @@
       "5G",
       "256GB"
     ],
-    "imagen": "imagenes/54-celular-zte-nubia-air-5g.png",
+    "imagen": "imagenes/36-celular-zte-nubia-air-5g.png",
     "precio_final": 290
   },
   {
@@ -855,7 +527,7 @@
       "8GB",
       "256GB"
     ],
-    "imagen": "imagenes/55-honor-90-lite.jpg",
+    "imagen": "imagenes/37-honor-90-lite.jpg",
     "precio_final": 290
   },
   {
@@ -871,7 +543,7 @@
       "256GB",
       "88gb"
     ],
-    "imagen": "imagenes/56-infinix-hot-60-pro-plus-8-8gb.png",
+    "imagen": "imagenes/38-infinix-hot-60-pro-plus-8-8gb.png",
     "precio_final": 310
   },
   {
@@ -889,7 +561,7 @@
       "4gb",
       "128gb"
     ],
-    "imagen": "imagenes/57-samsung-galaxy-a17.webp",
+    "imagen": "imagenes/39-samsung-galaxy-a17.webp",
     "precio_final": 310
   },
   {
@@ -906,7 +578,7 @@
       "128gb",
       "6gb"
     ],
-    "imagen": "imagenes/58-xiaomi-mi-10-lite.png",
+    "imagen": "imagenes/40-xiaomi-mi-10-lite.png",
     "precio_final": 320
   },
   {
@@ -921,7 +593,7 @@
       "256GB",
       "8GB"
     ],
-    "imagen": "imagenes/59-oppo-a5-5g.png",
+    "imagen": "imagenes/41-oppo-a5-5g.png",
     "precio_final": 320
   },
   {
@@ -935,7 +607,7 @@
       "8Gb",
       "256Gb"
     ],
-    "imagen": "imagenes/60-redmi-note-15-pro-4g.webp",
+    "imagen": "imagenes/42-redmi-note-15-pro-4g.webp",
     "precio_final": 350
   },
   {
@@ -948,7 +620,7 @@
     "caracteristicas": [
       "Peso: 0.2 kg"
     ],
-    "imagen": "imagenes/61-tecno-camon-18-premier.jpg",
+    "imagen": "imagenes/43-tecno-camon-18-premier.jpg",
     "precio_final": 370
   },
   {
@@ -963,7 +635,7 @@
       "8GB",
       "256GB"
     ],
-    "imagen": "imagenes/62-oppo-a5-pro-5g-ram8gb-256gb-ip69-sumergible.webp",
+    "imagen": "imagenes/44-oppo-a5-pro-5g-ram8gb-256gb-ip69-sumergible.webp",
     "precio_final": 370
   },
   {
@@ -979,7 +651,7 @@
       "256GB",
       "512GB"
     ],
-    "imagen": "imagenes/63-honor-x8d.webp",
+    "imagen": "imagenes/45-honor-x8d.webp",
     "precio_final": 370
   },
   {
@@ -993,7 +665,7 @@
       "8 GB",
       "256GB"
     ],
-    "imagen": "imagenes/64-tecno-cam-n-50-pro.png",
+    "imagen": "imagenes/46-tecno-cam-n-50-pro.png",
     "precio_final": 390
   },
   {
@@ -1008,7 +680,7 @@
       "256GB",
       "8GB"
     ],
-    "imagen": "imagenes/65-samsung-galaxy-a36-5g.jpg",
+    "imagen": "imagenes/47-samsung-galaxy-a36-5g.jpg",
     "precio_final": 400
   },
   {
@@ -1024,7 +696,7 @@
       "256GB",
       "8GB"
     ],
-    "imagen": "imagenes/66-xiaomi-poco-f4.png",
+    "imagen": "imagenes/48-xiaomi-poco-f4.png",
     "precio_final": 450
   },
   {
@@ -1040,7 +712,7 @@
       "256GB",
       "512GB"
     ],
-    "imagen": "imagenes/67-honor-magic8-lite.webp",
+    "imagen": "imagenes/49-honor-magic8-lite.webp",
     "precio_final": 460
   },
   {
@@ -1055,7 +727,7 @@
       "8 GB",
       "256GB"
     ],
-    "imagen": "imagenes/68-infinix-note-60-pro-5g.webp",
+    "imagen": "imagenes/50-infinix-note-60-pro-5g.webp",
     "precio_final": 470
   },
   {
@@ -1069,7 +741,7 @@
       "8GB",
       "256GB"
     ],
-    "imagen": "imagenes/69-motorola-edge-70-fusion.png",
+    "imagen": "imagenes/51-motorola-edge-70-fusion.png",
     "precio_final": 470
   },
   {
@@ -1084,7 +756,7 @@
       "8GB",
       "256GB"
     ],
-    "imagen": "imagenes/70-samsung-galaxy-a37-5g.webp",
+    "imagen": "imagenes/52-samsung-galaxy-a37-5g.webp",
     "precio_final": 470
   },
   {
@@ -1100,7 +772,7 @@
       "256GB",
       "12GB"
     ],
-    "imagen": "imagenes/71-samsung-galaxy-a56-5g.jpg",
+    "imagen": "imagenes/53-samsung-galaxy-a56-5g.jpg",
     "precio_final": 490
   },
   {
@@ -1114,7 +786,7 @@
       "8GB",
       "256GB"
     ],
-    "imagen": "imagenes/72-honor-600e.webp",
+    "imagen": "imagenes/54-honor-600e.webp",
     "precio_final": 500
   },
   {
@@ -1129,7 +801,7 @@
       "12GB",
       "512GB"
     ],
-    "imagen": "imagenes/73-redmi-note-15-pro-plus-5g.png",
+    "imagen": "imagenes/55-redmi-note-15-pro-plus-5g.png",
     "precio_final": 540
   },
   {
@@ -1145,7 +817,7 @@
       "12GB",
       "512GB"
     ],
-    "imagen": "imagenes/74-oppo-reno13f-5g.jpg",
+    "imagen": "imagenes/56-oppo-reno13f-5g.jpg",
     "precio_final": 550
   },
   {
@@ -1159,7 +831,7 @@
       "12GB",
       "512GB"
     ],
-    "imagen": "imagenes/75-oppo-reno14f.webp",
+    "imagen": "imagenes/57-oppo-reno14f.webp",
     "precio_final": 590
   },
   {
@@ -1175,7 +847,7 @@
       "12GB",
       "256GB"
     ],
-    "imagen": "imagenes/76-samsung-galaxy-a57.png",
+    "imagen": "imagenes/58-samsung-galaxy-a57.png",
     "precio_final": 600
   },
   {
@@ -1189,7 +861,7 @@
       "512GB",
       "12GB"
     ],
-    "imagen": "imagenes/77-xiaomi-poco-x8-pro.jpg",
+    "imagen": "imagenes/59-xiaomi-poco-x8-pro.jpg",
     "precio_final": 620
   },
   {
@@ -1204,7 +876,7 @@
       "IPHONE 11 PRO MAX OPEN BOX A 256GB",
       "256GB"
     ],
-    "imagen": "imagenes/78-iphone-11-pro-max-open-box-a.jpg",
+    "imagen": "imagenes/60-iphone-11-pro-max-open-box-a.jpg",
     "precio_final": 630
   },
   {
@@ -1220,7 +892,7 @@
       "8GB",
       "256GB"
     ],
-    "imagen": "imagenes/79-samsung-galaxy-s25-fe.png",
+    "imagen": "imagenes/61-samsung-galaxy-s25-fe.png",
     "precio_final": 630
   },
   {
@@ -1234,7 +906,7 @@
       "12 GB",
       "256GB"
     ],
-    "imagen": "imagenes/80-infinix-gt-50-pro-hydroflow-y-gatillos-laterales.jpg",
+    "imagen": "imagenes/62-infinix-gt-50-pro-hydroflow-y-gatillos-laterales.jpg",
     "precio_final": 650
   },
   {
@@ -1248,7 +920,7 @@
       "TV Box Xiaomi Mi Box S 3era Generacion 4K",
       "Peso: 0.14 kg"
     ],
-    "imagen": "imagenes/81-box-xiaomi-mi-box-s-3era-generacion-4k.webp",
+    "imagen": "imagenes/63-box-xiaomi-mi-box-s-3era-generacion-4k.webp",
     "precio_final": 170
   },
   {
@@ -1263,7 +935,7 @@
       "android",
       "Smart tv"
     ],
-    "imagen": "imagenes/82-house-tv-ht-32-32-hd-led.jpg",
+    "imagen": "imagenes/64-house-tv-ht-32-32-hd-led.jpg",
     "precio_final": 220
   },
   {
@@ -1279,7 +951,7 @@
       "google tv",
       "Smart tv"
     ],
-    "imagen": "imagenes/83-philips-ph-32gfs-fisdb-32.jpg",
+    "imagen": "imagenes/65-philips-ph-32gfs-fisdb-32.jpg",
     "precio_final": 240
   },
   {
@@ -1293,7 +965,7 @@
       "Pulgadas: 32″",
       "Televisor RCA 32 HDRC"
     ],
-    "imagen": "imagenes/84-rca-32-hdrc.webp",
+    "imagen": "imagenes/66-rca-32-hdrc.webp",
     "precio_final": 240
   },
   {
@@ -1308,7 +980,7 @@
       "google tv",
       "Smart tv"
     ],
-    "imagen": "imagenes/85-riviera-ri-rled-glt32tpxm-32-hd-1366-768-led-hdr.jpg",
+    "imagen": "imagenes/67-riviera-ri-rled-glt32tpxm-32-hd-1366-768-led-hdr.jpg",
     "precio_final": 240
   },
   {
@@ -1324,7 +996,7 @@
       "google tv",
       "Smart tv"
     ],
-    "imagen": "imagenes/86-innova-in-led-32hd-gtv-mp-32-hd-led.jpg",
+    "imagen": "imagenes/68-innova-in-led-32hd-gtv-mp-32-hd-led.jpg",
     "precio_final": 240
   },
   {
@@ -1338,7 +1010,7 @@
       "Pulgadas: 32″",
       "Tv Hisense 32Q4Q Qled sistema operativo Vida"
     ],
-    "imagen": "imagenes/87-hisense-32q4q-qled-sistema-operativo-vida.png",
+    "imagen": "imagenes/69-hisense-32q4q-qled-sistema-operativo-vida.png",
     "precio_final": 250
   },
   {
@@ -1355,7 +1027,7 @@
       "android",
       "32PULGADAS"
     ],
-    "imagen": "imagenes/88-motorola-32tmkfhd.jpg",
+    "imagen": "imagenes/70-motorola-32tmkfhd.jpg",
     "precio_final": 250
   },
   {
@@ -1370,7 +1042,7 @@
       "Televisor Google QLED Riviera 32″ GLT32TPQ10",
       "32″"
     ],
-    "imagen": "imagenes/89-google-qled-riviera.jpg",
+    "imagen": "imagenes/71-google-qled-riviera.jpg",
     "precio_final": 260
   },
   {
@@ -1386,7 +1058,7 @@
       "google tv",
       "Smart tv"
     ],
-    "imagen": "imagenes/90-tcl-32s5k-32-fhd-qled.jpg",
+    "imagen": "imagenes/72-tcl-32s5k-32-fhd-qled.jpg",
     "precio_final": 270
   },
   {
@@ -1401,7 +1073,7 @@
       "Televisor Google LED HD Indurama 32″ 32TIKGF5HD",
       "32″"
     ],
-    "imagen": "imagenes/91-google-led-hd-indurama.jpg",
+    "imagen": "imagenes/73-google-led-hd-indurama.jpg",
     "precio_final": 270
   },
   {
@@ -1417,7 +1089,7 @@
       "40″",
       "Android"
     ],
-    "imagen": "imagenes/92-housetv-televisor-housetv.png",
+    "imagen": "imagenes/74-housetv-televisor-housetv.png",
     "precio_final": 270
   },
   {
@@ -1447,7 +1119,7 @@
       "android",
       "Smart tv"
     ],
-    "imagen": "imagenes/94-house-tv-ht-43-43-fhd-led.jpg",
+    "imagen": "imagenes/76-house-tv-ht-43-43-fhd-led.jpg",
     "precio_final": 290
   },
   {
@@ -1463,7 +1135,7 @@
       "google tv",
       "android"
     ],
-    "imagen": "imagenes/95-rca-40fhdrc-40.jpg",
+    "imagen": "imagenes/77-rca-40fhdrc-40.jpg",
     "precio_final": 300
   },
   {
@@ -1478,7 +1150,7 @@
       "Pulgadas: 40″",
       "android"
     ],
-    "imagen": "imagenes/96-innova-in-tvled-40gfhd-mp.jpg",
+    "imagen": "imagenes/78-innova-in-tvled-40gfhd-mp.jpg",
     "precio_final": 300
   },
   {
@@ -1492,7 +1164,7 @@
       "Pulgadas: 43″",
       "Televisor RCA 43 FHDRC"
     ],
-    "imagen": "imagenes/97-rca-43-fhdrc.webp",
+    "imagen": "imagenes/79-rca-43-fhdrc.webp",
     "precio_final": 320
   },
   {
@@ -1508,7 +1180,7 @@
       "43″",
       "GOOGLE TV"
     ],
-    "imagen": "imagenes/98-motorola-43mknfhd.jpg",
+    "imagen": "imagenes/80-motorola-43mknfhd.jpg",
     "precio_final": 320
   },
   {
@@ -1523,7 +1195,7 @@
       "android",
       "Smart tv"
     ],
-    "imagen": "imagenes/99-philips-ph-43gfs-fisdb-43.jpg",
+    "imagen": "imagenes/81-philips-ph-43gfs-fisdb-43.jpg",
     "precio_final": 330
   },
   {
@@ -1538,7 +1210,7 @@
       "Tv 43 Pulgadas TCL (43S5400)",
       "43 Pulgadas"
     ],
-    "imagen": "imagenes/100-43-pulgadas-tcl-43s5400.jpg",
+    "imagen": "imagenes/82-43-pulgadas-tcl-43s5400.jpg",
     "precio_final": 330
   },
   {
@@ -1554,7 +1226,7 @@
       "google tv",
       "Smart tv"
     ],
-    "imagen": "imagenes/101-innova-in.jpg",
+    "imagen": "imagenes/83-innova-in.jpg",
     "precio_final": 330
   },
   {
@@ -1570,7 +1242,7 @@
       "43 pulgadas",
       "Google TV"
     ],
-    "imagen": "imagenes/102-hyundai-fhd.jpg",
+    "imagen": "imagenes/84-hyundai-fhd.jpg",
     "precio_final": 360
   },
   {
@@ -1586,7 +1258,7 @@
       "android",
       "google tv"
     ],
-    "imagen": "imagenes/103-tcl-43s5k-43-qled.jpg",
+    "imagen": "imagenes/85-tcl-43s5k-43-qled.jpg",
     "precio_final": 360
   },
   {
@@ -1601,7 +1273,7 @@
       "android",
       "Smart tv"
     ],
-    "imagen": "imagenes/104-riviera-ri-rled-glt43tpxm-43.webp",
+    "imagen": "imagenes/86-riviera-ri-rled-glt43tpxm-43.webp",
     "precio_final": 370
   },
   {
@@ -1617,7 +1289,7 @@
       "43″ 4K",
       "GOOGLE TV"
     ],
-    "imagen": "imagenes/105-tcl-43-e2-80-b3.png",
+    "imagen": "imagenes/87-tcl-43-e2-80-b3.png",
     "precio_final": 380
   },
   {
@@ -1632,7 +1304,7 @@
       "SMART TV",
       "43Pulgadas"
     ],
-    "imagen": "imagenes/106-indurama-tv-43tikj5uhd.webp",
+    "imagen": "imagenes/88-indurama-tv-43tikj5uhd.webp",
     "precio_final": 390
   },
   {
@@ -1649,7 +1321,7 @@
       "Smart TV",
       "43pulgadas"
     ],
-    "imagen": "imagenes/107-lg-43pulgadas.webp",
+    "imagen": "imagenes/89-lg-43pulgadas.webp",
     "precio_final": 410
   },
   {
@@ -1664,7 +1336,7 @@
       "Televisor Samsung LED 50″ Pulgadas Crystal UHD 4K 50U8000",
       "50″"
     ],
-    "imagen": "imagenes/108-samsung-50u8000.webp",
+    "imagen": "imagenes/90-samsung-50u8000.webp",
     "precio_final": 420
   },
   {
@@ -1679,7 +1351,7 @@
       "Televisor RCA 50 Pulgadas UHDRC",
       "50 Pulgadas UHD"
     ],
-    "imagen": "imagenes/109-rca-uhdrc.webp",
+    "imagen": "imagenes/91-rca-uhdrc.webp",
     "precio_final": 420
   },
   {
@@ -1697,7 +1369,7 @@
       "Pulgadas: 50″",
       "Contraste: : 5000: 1"
     ],
-    "imagen": "imagenes/110-innova-in-led-50uhd-gtv.png",
+    "imagen": "imagenes/92-innova-in-led-50uhd-gtv.png",
     "precio_final": 430
   },
   {
@@ -1713,7 +1385,7 @@
       "google tv",
       "Smart tv"
     ],
-    "imagen": "imagenes/111-tcl-50s5k-50-fhd-qled.jpg",
+    "imagen": "imagenes/93-tcl-50s5k-50-fhd-qled.jpg",
     "precio_final": 430
   },
   {
@@ -1729,7 +1401,7 @@
       "50″",
       "GOOGLE TV"
     ],
-    "imagen": "imagenes/112-riviera-qled-4k--glt50tpq10.png",
+    "imagen": "imagenes/94-riviera-qled-4k--glt50tpq10.png",
     "precio_final": 450
   },
   {
@@ -1745,7 +1417,7 @@
       "inteligente Crystal UHD DU7000 4K de 50” con siste",
       "inteligente-crystal-uhd-du7000-4k-de-50-con-sistem"
     ],
-    "imagen": "imagenes/113-crystal-uhd-du7000-4k-de-50-con-sistema-operativo-tizen.webp",
+    "imagen": "imagenes/95-crystal-uhd-du7000-4k-de-50-con-sistema-operativo-tizen.webp",
     "precio_final": 450
   },
   {
@@ -1761,7 +1433,7 @@
       "50 Pulgadas",
       "Google Tv"
     ],
-    "imagen": "imagenes/114-indurama-led-4k50-pulgadas-50tikgf2guhd.webp",
+    "imagen": "imagenes/96-indurama-led-4k50-pulgadas-50tikgf2guhd.webp",
     "precio_final": 460
   },
   {
@@ -1776,7 +1448,7 @@
       "4k uhd",
       "Smart tv"
     ],
-    "imagen": "imagenes/115-innova-in.jpg",
+    "imagen": "imagenes/97-innova-in.jpg",
     "precio_final": 460
   },
   {
@@ -1793,7 +1465,7 @@
       "google tv",
       "Smart tv"
     ],
-    "imagen": "imagenes/116-rca-led55rca684gt-55.jpg",
+    "imagen": "imagenes/98-rca-led55rca684gt-55.jpg",
     "precio_final": 480
   },
   {
@@ -1810,7 +1482,7 @@
       "google tv",
       "Smart tv"
     ],
-    "imagen": "imagenes/117-riviera-rled-glt55tpx9-55.jpg",
+    "imagen": "imagenes/99-riviera-rled-glt55tpx9-55.jpg",
     "precio_final": 480
   },
   {
@@ -1825,7 +1497,7 @@
       "Televisor LG UHD AI 50UA7500 4K Smart TV",
       "Smart TV"
     ],
-    "imagen": "imagenes/118-lg-uhd-ai-50ua7500-4k.jpg",
+    "imagen": "imagenes/100-lg-uhd-ai-50ua7500-4k.jpg",
     "precio_final": 490
   },
   {
@@ -1842,7 +1514,7 @@
       "Inteligente https",
       "inteligente"
     ],
-    "imagen": "imagenes/119-lg-uhd-50-ur7300-4k.jpg",
+    "imagen": "imagenes/101-lg-uhd-50-ur7300-4k.jpg",
     "precio_final": 500
   },
   {
@@ -1859,7 +1531,7 @@
       "Peso: 16910 g",
       "Dimensiones: 13 × 86 × 86 cm"
     ],
-    "imagen": "imagenes/120-hisense-55-e2-80-b3.jpg",
+    "imagen": "imagenes/102-hisense-55-e2-80-b3.jpg",
     "precio_final": 500
   },
   {
@@ -1874,7 +1546,7 @@
       "Pulgadas: 55″",
       "4k uhd"
     ],
-    "imagen": "imagenes/121-hisense-55q6qv-55-4k-uhd-qled-vidaa.jpg",
+    "imagen": "imagenes/103-hisense-55q6qv-55-4k-uhd-qled-vidaa.jpg",
     "precio_final": 500
   },
   {
@@ -1890,7 +1562,7 @@
       "4K UHD",
       "55Pulgadas"
     ],
-    "imagen": "imagenes/122-55pulgadas-tcl-p6k-4k-uhd.jpg",
+    "imagen": "imagenes/104-55pulgadas-tcl-p6k-4k-uhd.jpg",
     "precio_final": 510
   },
   {
@@ -1905,7 +1577,7 @@
       "Televisor Riviera QLED 55″ RLED-GLT55TPQ10",
       "55″"
     ],
-    "imagen": "imagenes/123-riviera-qled.webp",
+    "imagen": "imagenes/105-riviera-qled.webp",
     "precio_final": 510
   },
   {
@@ -1920,7 +1592,7 @@
       "Televisor Motorola 55MGFUHD Google 4K Tv 55″",
       "55″"
     ],
-    "imagen": "imagenes/124-motorola-55mgfuhd-google-4k-tv.png",
+    "imagen": "imagenes/106-motorola-55mgfuhd-google-4k-tv.png",
     "precio_final": 520
   },
   {
@@ -1937,7 +1609,7 @@
       "Google TV",
       "5g"
     ],
-    "imagen": "imagenes/125-philips-qled.png",
+    "imagen": "imagenes/107-philips-qled.png",
     "precio_final": 520
   },
   {
@@ -1953,7 +1625,7 @@
       "inteligente Crystal UHD DU7000 4K de 50” con siste",
       "inteligente-crystal-uhd-du7000-4k-de-50-con-sistem"
     ],
-    "imagen": "imagenes/126-crystal-uhd-du7000-4k-de-50-con-sistema-operativo-tizen.webp",
+    "imagen": "imagenes/108-crystal-uhd-du7000-4k-de-50-con-sistema-operativo-tizen.webp",
     "precio_final": 540
   },
   {
@@ -1968,7 +1640,7 @@
       "Televisor Qled TCL 55T6C 55 PULGADAS",
       "55 PULGADAS"
     ],
-    "imagen": "imagenes/127-qled-tcl-55t6c.webp",
+    "imagen": "imagenes/109-qled-tcl-55t6c.webp",
     "precio_final": 550
   },
   {
@@ -2000,7 +1672,7 @@
       "55″",
       "Smart TV"
     ],
-    "imagen": "imagenes/129-55-crystal-uhd-4k-55u8000-tizen-os.png",
+    "imagen": "imagenes/111-55-crystal-uhd-4k-55u8000-tizen-os.png",
     "precio_final": 580
   },
   {
@@ -2034,7 +1706,7 @@
       "Google Tv",
       "5G"
     ],
-    "imagen": "imagenes/131-philips-led-65gfs-fisdb.png",
+    "imagen": "imagenes/113-philips-led-65gfs-fisdb.png",
     "precio_final": 610
   },
   {
@@ -2050,7 +1722,7 @@
       "55″",
       "Smart TV"
     ],
-    "imagen": "imagenes/132-55-lg-uhd-ai-4k.webp",
+    "imagen": "imagenes/114-55-lg-uhd-ai-4k.webp",
     "precio_final": 610
   },
   {
@@ -2065,7 +1737,7 @@
       "Televisor Samsung 55″ Mini LED UHD UN55M70HAGXPE",
       "55″"
     ],
-    "imagen": "imagenes/133-samsung-55-mini.webp",
+    "imagen": "imagenes/115-samsung-55-mini.webp",
     "precio_final": 620
   },
   {
@@ -2081,7 +1753,7 @@
       "60″",
       "4K UHD"
     ],
-    "imagen": "imagenes/134-lg-60.webp",
+    "imagen": "imagenes/116-lg-60.webp",
     "precio_final": 630
   },
   {
@@ -2096,7 +1768,7 @@
       "Pantalla LG NanoCell 55» NANO80TSA 4K SMART TV con ThinQ AI",
       "SMART TV"
     ],
-    "imagen": "imagenes/135-pantalla-lg-nanocell-55-nano80tsa-4k.webp",
+    "imagen": "imagenes/117-pantalla-lg-nanocell-55-nano80tsa-4k.webp",
     "precio_final": 640
   },
   {
@@ -2113,7 +1785,7 @@
       "google tv",
       "Smart tv"
     ],
-    "imagen": "imagenes/136-riviera-glt65px9-65.jpg",
+    "imagen": "imagenes/118-riviera-glt65px9-65.jpg",
     "precio_final": 650
   },
   {
@@ -2129,7 +1801,7 @@
       "65″",
       "4K UHD"
     ],
-    "imagen": "imagenes/137-motorola-65.webp",
+    "imagen": "imagenes/119-motorola-65.webp",
     "precio_final": 650
   },
   {
@@ -2145,7 +1817,7 @@
       "65″",
       "Google Tv"
     ],
-    "imagen": "imagenes/138-65-indurama-uhd.png",
+    "imagen": "imagenes/120-65-indurama-uhd.png",
     "precio_final": 660
   },
   {
@@ -2161,7 +1833,7 @@
       "55″ QLED",
       "Smart TV"
     ],
-    "imagen": "imagenes/139-samsung-vision-ai.webp",
+    "imagen": "imagenes/121-samsung-vision-ai.webp",
     "precio_final": 670
   },
   {
@@ -2177,7 +1849,7 @@
       "4K UHD",
       "65Pulgadas"
     ],
-    "imagen": "imagenes/140-65pulgadas-tcl-p6k-4k-uhd.jpg",
+    "imagen": "imagenes/122-65pulgadas-tcl-p6k-4k-uhd.jpg",
     "precio_final": 680
   },
   {
@@ -2193,7 +1865,7 @@
       "55″ 4K",
       "Google TV"
     ],
-    "imagen": "imagenes/141-hisense-hi-qled-miniled.webp",
+    "imagen": "imagenes/123-hisense-hi-qled-miniled.webp",
     "precio_final": 680
   }
 ]

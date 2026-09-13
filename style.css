@@ -41,6 +41,9 @@ body{background:#eaeded}
 .marketplace-header{height:auto;min-height:66px;background:#10243f;padding:10px 4%;gap:28px}
 .marketplace-header .brand{color:#fff;flex:none}
 .marketplace-header .brand-mark{background:var(--blue)}
+.logo-brand{display:flex;align-items:center;justify-content:center;background:#fff;border-radius:6px;overflow:visible}
+.header-logo{display:block;width:220px;height:62px;object-fit:contain}
+.footer-logo-img{display:block;width:280px;height:88px;object-fit:contain}
 .market-search{display:flex;align-items:stretch;flex:1;max-width:850px;height:42px;background:#fff;border-radius:4px;overflow:hidden}
 .market-search select{border:0;border-right:1px solid var(--line);background:#f3f4f5;color:var(--muted);padding:0 12px;font-size:12px}
 .market-search input{border:0;outline:0;min-width:0;flex:1;padding:0 14px;font:14px "Lato"}
@@ -100,11 +103,17 @@ body{background:#eaeded}
 .spec-icon{display:none}
 .specs{margin-top:13px}
 .specs li{background:#f7f8f8;border-left-color:#8aaec6;font-size:10px;padding:6px}
+.footer{display:flex;justify-content:center;align-items:center;flex-direction:column;gap:20px;padding:40px 6.5%;background:#10243f;color:#fff;text-align:center;border-top:1px solid var(--line)}
+.footer .footer-logo{font-size:18px}
+.footer-info{display:flex;flex-direction:column;gap:10px}
+.footer-info p{margin:0;font-size:12px;color:#c4d6e5}
+.footer-info a{color:#b9d9ec;text-decoration:none}
+.footer-info a:hover{color:#fff}
 .mobile-filter{display:none;border:1px solid var(--line);background:#fff;border-radius:4px;padding:9px 12px;color:var(--ink)}
 @media(min-width:1500px){.catalog-grid{grid-template-columns:repeat(5,minmax(0,1fr))}}
 @media(max-width:1200px){.catalog-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media(max-width:1000px){.catalog-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.marketplace-header{gap:14px}}
-@media(max-width:780px){.announcement{font-size:8px;letter-spacing:.05em}.marketplace-header{flex-wrap:wrap;padding:10px 5%}.marketplace-header .brand{font-size:18px}.search-wrap{order:3;flex-basis:100%;max-width:none}.market-search{max-width:none}.market-search select{display:none}.hero{min-height:260px;padding:38px 5%}.hero-copy>p{font-size:14px}.catalog{padding:30px 5% 60px}.market-heading{align-items:start}.market-heading h2{font-size:26px}.mobile-filter{display:block}.market-layout{display:block}.filters{display:none;border:1px solid var(--line);padding:15px;margin-bottom:16px}.filters.is-open{display:block}.catalog-grid{grid-template-columns:1fr}.results-toolbar{margin-top:14px}.product-image{height:240px;aspect-ratio:4/3;padding:14px}}
+@media(max-width:780px){.announcement{font-size:8px;letter-spacing:.05em}.marketplace-header{flex-wrap:wrap;padding:10px 5%}.marketplace-header .brand{font-size:18px}.marketplace-header .logo-brand{width:190px;height:58px}.header-logo{width:190px;height:58px}.footer-logo-img{width:240px;height:78px}.search-wrap{order:3;flex-basis:100%;max-width:none}.market-search{max-width:none}.market-search select{display:none}.hero{min-height:260px;padding:38px 5%}.hero-copy>p{font-size:14px}.catalog{padding:30px 5% 60px}.market-heading{align-items:start}.market-heading h2{font-size:26px}.mobile-filter{display:block}.market-layout{display:block}.filters{display:none;border:1px solid var(--line);padding:15px;margin-bottom:16px}.filters.is-open{display:block}.catalog-grid{grid-template-columns:1fr}.results-toolbar{margin-top:14px}.product-image{height:240px;aspect-ratio:4/3;padding:14px}}
 @media(max-width:780px){.specs{grid-template-columns:1fr}.product-card h3{font-size:17px}}
 @media(max-width:420px){.price-option{padding-left:7px;padding-right:7px}.price-option strong{font-size:10px}.price-option b{font-size:19px}}
 /* Selector visual de categorías y páginas independientes */

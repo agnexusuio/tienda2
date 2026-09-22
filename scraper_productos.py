@@ -27,10 +27,10 @@ IMAGE_DIR = "imagenes"
 CATALOG_URL = "https://www.pinsoft.ec/laptop-notebook-portatiles/c-67.html"
 BASE_URL = "https://www.pinsoft.ec"
 FUENTES = [
-    {"nombre": "Pinsoft", "base": "https://www.pinsoft.ec", "categoria": "Computadoras", "url": CATALOG_URL, "cantidad": 999, "precio_maximo": 700},
-    {"nombre": "DigitalPC", "base": "https://digitalpcecuador.com", "categoria": "Computadoras", "url": "https://digitalpcecuador.com/categoria-producto/laptops/", "cantidad": 999, "precio_maximo": 700},
-    {"nombre": "MundoTek", "base": "https://mundotek.com.ec", "categoria": "Celulares", "url": "https://mundotek.com.ec/product-category/telefonos-al-mejor-precio/", "cantidad": 999, "precio_maximo": 600},
-    {"nombre": "MundoTek TVs", "base": "https://mundotek.com.ec", "categoria": "Televisores", "url": "https://mundotek.com.ec/product-category/mejores-televisores-calidad-precio/", "cantidad": 999, "precio_maximo": 600},
+    {"nombre": "Pinsoft", "base": "https://www.pinsoft.ec", "categoria": "Computadoras", "url": CATALOG_URL},
+    {"nombre": "DigitalPC", "base": "https://digitalpcecuador.com", "categoria": "Computadoras", "url": "https://digitalpcecuador.com/categoria-producto/laptops/"},
+    {"nombre": "MundoTek", "base": "https://mundotek.com.ec", "categoria": "Celulares", "url": "https://mundotek.com.ec/product-category/telefonos-al-mejor-precio/"},
+    {"nombre": "MundoTek TVs", "base": "https://mundotek.com.ec", "categoria": "Televisores", "url": "https://mundotek.com.ec/product-category/mejores-televisores-calidad-precio/"},
 ]
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/128 Safari/537.36",
@@ -314,7 +314,7 @@ def calcular_precio_final(producto):
 def caracteristicas_web(producto):
     caracteristicas = producto.get("caracteristicas", [])
     if caracteristicas:
-        return caracteristicas[:6]
+        return caracteristicas
     categoria = producto["categoria"]
     if categoria == "Celulares":
         return ["Smartphone", "Consulta disponibilidad", "Cotización por WhatsApp"]
@@ -367,23 +367,27 @@ def extraer_pinsoft(html):
 def extraer_pinsoft_con_navegador(page, fuente):
     """Recorre las páginas como el scraper entregado y conserva el precio publicado."""
     encontrados = {}
-    for numero in range(1, 4):
+    pagina_anterior = set()
+    for numero in range(1, 101):
         url = fuente["url"] if numero == 1 else f"{fuente['url'].rstrip('/')}/{numero}/"
         page.goto(url, wait_until="domcontentloaded", timeout=40000)
         page.wait_for_timeout(1500)
-        for producto in extraer_pinsoft(page.content()):
+        pagina = extraer_pinsoft(page.content())
+        urls_pagina = {producto["url_origen"] for producto in pagina}
+        if not urls_pagina or urls_pagina == pagina_anterior:
+            break
+        pagina_anterior = urls_pagina
+        for producto in pagina:
             encontrados[producto["url_origen"]] = producto
     productos = sorted(encontrados.values(), key=lambda item: item["precio_original"])
-    limite = fuente.get("precio_maximo")
-    if limite is not None:
-        productos = [item for item in productos if item["precio_original"] <= limite]
-    return productos[:fuente["cantidad"]]
+    return productos
 
 
 def extraer_woocommerce_con_navegador(page, fuente):
     """Extrae tarjetas WooCommerce ordenadas por precio, como el scraper de referencia."""
     encontrados = {}
-    for numero in range(1, 5):
+    paginas_sin_novedades = 0
+    for numero in range(1, 101):
         separador = "&" if "?" in fuente["url"] else "?"
         url = f"{fuente['url']}{separador}orderby=price&per_page=24"
         if numero > 1:
@@ -391,6 +395,7 @@ def extraer_woocommerce_con_navegador(page, fuente):
         page.goto(url, wait_until="domcontentloaded", timeout=40000)
         page.wait_for_timeout(1500)
         soup = BeautifulSoup(page.content(), "html.parser")
+        encontrados_antes = len(encontrados)
         for tarjeta in soup.select("li.product, article.product, div.product-small, .product"):
             titulo = tarjeta.select_one(".woocommerce-loop-product__title, .product-title, h2, h3")
             precio_el = tarjeta.select_one(".price")
@@ -410,11 +415,14 @@ def extraer_woocommerce_con_navegador(page, fuente):
                 "nombre": nombre, "precio_original": precio, "categoria": fuente["categoria"],
                 "url_origen": producto_url, "imagen_candidata": extraer_imagen_desde_tag(imagen, fuente["base"]),
             }
+        if len(encontrados) == encontrados_antes:
+            paginas_sin_novedades += 1
+        else:
+            paginas_sin_novedades = 0
+        if paginas_sin_novedades >= 2:
+            break
     productos = sorted(encontrados.values(), key=lambda item: item["precio_original"])
-    limite = fuente.get("precio_maximo")
-    if limite is not None:
-        productos = [item for item in productos if item["precio_original"] <= limite]
-    return productos[:fuente["cantidad"]]
+    return productos
 
 
 def descargar_imagen(producto, indice):
@@ -472,6 +480,7 @@ def main():
                 seleccionados = extraer_pinsoft_con_navegador(page, fuente)
             else:
                 seleccionados = extraer_woocommerce_con_navegador(page, fuente)
+            print(f"{fuente['nombre']}: {len(seleccionados)} productos encontrados")
             for producto in seleccionados:
                 producto["fuente"] = fuente["nombre"]
                 nombre_original = producto["nombre"]
@@ -497,6 +506,9 @@ def main():
                     producto["imagen"] = producto["imagen_candidata"]
                 if not producto.get("imagen"):
                     producto["imagen"] = producto.get("imagen_candidata")
+                if not producto.get("nombre") or producto.get("precio_original") is None or not producto.get("url_origen"):
+                    print(f"Producto omitido por datos incompletos: {nombre_original}")
+                    continue
                 productos.append(producto)
                 indice += 1
         browser.close()
@@ -505,7 +517,11 @@ def main():
     with open(OUTPUT_JSON, "w", encoding="utf-8") as archivo:
         json.dump(productos, archivo, ensure_ascii=False, indent=2)
     escribir_catalogo_web(productos)
-    print(f"Productos guardados: {len(productos)} | Imágenes: {sum(bool(p['imagen']) for p in productos)}")
+    fuentes = ", ".join(
+        f"{fuente['nombre']}={sum(p['fuente'] == fuente['nombre'] for p in productos)}"
+        for fuente in FUENTES
+    )
+    print(f"Productos guardados: {len(productos)} | Imágenes: {sum(bool(p['imagen']) for p in productos)} | {fuentes}")
 
 
 if __name__ == "__main__":

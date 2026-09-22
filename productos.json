@@ -1,0 +1,4511 @@
+[
+  {
+    "nombre": "ENV Book Pro Max",
+    "precio_original": 319.0,
+    "categoria": "Laptops",
+    "url_origen": "https://www.pinsoft.ec/cod-1768-laptop-env-book-pro-max-intel-celeron-n4020-8gb-256gb-ssd-14-1-full-hd-ips-windows-11-preinstalado-wi-fi-5-ac-teclado-espanol-alfanumerico-gris-oscuro/p-9535.html",
+    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/1%28155%29.png",
+    "codigo": "a1bd2c52",
+    "fuente": "Pinsoft",
+    "caracteristicas": [
+      "Intel® Celeron® N4020",
+      "256GB SSD",
+      "14.1\" Full HD, IPS",
+      "Windows 11 (Preinstalado)",
+      "Wi-Fi 5 AC",
+      "Teclado Español alfanumérico"
+    ],
+    "imagen": "https://www.pinsoft.ec/getimage/products/1%28155%29.png",
+    "precio_final": 390
+  },
+  {
+    "nombre": "ENV BOOK ELITE",
+    "precio_original": 374.0,
+    "categoria": "Laptops",
+    "url_origen": "https://www.pinsoft.ec/cod-1780-laptop-env-book-elite-amd-ryzen-5-3500u-2-1ghzhasta-3-7ghz-8gb-256gb-nvme-ssd-15-6-full-hd-windows-11-teclado-espanol-alfanumerico-gris-oscuro/p-9623.html",
+    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/1%28156%29.png",
+    "codigo": "f34ee835",
+    "fuente": "Pinsoft",
+    "caracteristicas": [
+      "AMD Ryzen™ 5 3500U ( 2.1GHz hasta 3.7GHz)",
+      "256GB NVMe™ SSD",
+      "15.6\" Full HD",
+      "Windows 11 (Preinstalado)",
+      "Teclado Español alfanumérico",
+      "8GB"
+    ],
+    "imagen": "https://www.pinsoft.ec/getimage/products/1%28156%29.png",
+    "precio_final": 450
+  },
+  {
+    "nombre": "HP 14-dq3500la",
+    "precio_original": 379.5,
+    "categoria": "Laptops",
+    "url_origen": "https://www.pinsoft.ec/cod-h-1779-hp-14-dq3500la-intel-celeron-n4500-8gb-256gb-pcie-nvme-ssd-14-0-hd-wi-fi-6-bt-5-4-freedos-teclado-espanol-plateado-natural/p-9621.html",
+    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/thumbs_500_0bb2991cbc8280bc205e%281%29.png",
+    "codigo": "26fea2a6",
+    "fuente": "Pinsoft",
+    "caracteristicas": [
+      "Intel® Celeron® N4500",
+      "256GB PCIe® NVMe™ SSD",
+      "14.0\" HD",
+      "FreeDOS",
+      "Wi-Fi 6 & BT 5.4",
+      "Teclado Español"
+    ],
+    "imagen": "https://www.pinsoft.ec/getimage/products/thumbs_500_0bb2991cbc8280bc205e%281%29.png",
+    "precio_final": 450
+  },
+  {
+    "nombre": "LENOVO IdeaPad Slim 3 15AMN8",
+    "precio_original": 462.0,
+    "categoria": "Laptops",
+    "url_origen": "https://www.pinsoft.ec/cod-1791-lenovo-ideapad-slim-3-15amn8-amd-ryzen-3-7320u-8gb-lpddr5-512gb-nvme-ssd-m-2-15-6-fhd-sin-sistema-os-wi-fi6-2x2-bt5-2-teclado-espanol-alfanumerico-artic-grey/p-9675.html",
+    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/laptop-ideapad-slim-3-amd-r3-732.png",
+    "codigo": "032af539",
+    "fuente": "Pinsoft",
+    "caracteristicas": [
+      "AMD Ryzen™ 3 7320U",
+      "512GB NVMe SSD M.2",
+      "15.6\" FHD",
+      "Wi-Fi®6 2x2 & BT5.2",
+      "Teclado Español alfanumérico",
+      "8GB LPDDR5"
+    ],
+    "imagen": "https://www.pinsoft.ec/getimage/products/laptop-ideapad-slim-3-amd-r3-732.png",
+    "precio_final": 540
+  },
+  {
+    "nombre": "ASUS VivoBook Go 15 (E1504F)",
+    "precio_original": 473.0,
+    "categoria": "Laptops",
+    "url_origen": "https://www.pinsoft.ec/cod-1795-asus-vivobook-go-15-e1504f-amd-ryzen-37320u-8-gb-lpddr5-512gb-nvme-ssd-15-6-fhd-sin-sistema-os-wi-fi-6e-bt-5-3-lector-de-huellas-teclado-espanol-alfanumerico-mixed-black-incl-mouseasus/p-9701.html",
+    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/17951111.jpg",
+    "codigo": "2a57ba27",
+    "fuente": "Pinsoft",
+    "caracteristicas": [
+      "AMD® Ryzen™ 3 7320U",
+      "512GB NVMe™ SSD",
+      "15.6\" FHD",
+      "Wi-Fi 6E& BT 5.3",
+      "Teclado Español alfanumérico",
+      "8 GB LPDDR5"
+    ],
+    "imagen": "https://www.pinsoft.ec/getimage/products/17951111.jpg",
+    "precio_final": 550
+  },
+  {
+    "nombre": "ENV 3500u",
+    "precio_original": 484.0,
+    "categoria": "Laptops",
+    "url_origen": "https://www.pinsoft.ec/cod-e-1776-laptop-env-amd-ryzen-5-3500u-2-1ghzhasta-3-7ghz-16gb-512gb-nvme-ssd-15-6-full-hd-windows-11-teclado-espanol-alfanumerico-gris/p-9592.html",
+    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/pinsoft-env12%288%29.jpg",
+    "codigo": "0d5e5840",
+    "fuente": "Pinsoft",
+    "caracteristicas": [
+      "AMD Ryzen™ 5 3500U ( 2.1GHz hasta 3.7GHz)",
+      "512GB NVMe™ SSD",
+      "15.6\" Full HD",
+      "Windows 11 (Preinstalado)",
+      "Teclado Español alfanumérico",
+      "16GB"
+    ],
+    "imagen": "https://www.pinsoft.ec/getimage/products/pinsoft-env12%288%29.jpg",
+    "precio_final": 560
+  },
+  {
+    "nombre": "ENV 3500u",
+    "precio_original": 484.0,
+    "categoria": "Laptops",
+    "url_origen": "https://www.pinsoft.ec/cod-1775-laptop-env-amd-ryzen-5-3500u-2-1ghzhasta-3-7ghz-16gb-512gb-nvme-ssd-14-1-full-hd-windows-11-teclado-espanol-gris/p-9593.html",
+    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/11%2875%29.jpg",
+    "codigo": "69fde0ab",
+    "fuente": "Pinsoft",
+    "caracteristicas": [
+      "AMD Ryzen™ 5 3500U ( 2.1GHz hasta 3.7GHz)",
+      "512GB NVMe™ SSD",
+      "14.1\" Full HD",
+      "Windows 11 (Preinstalado)",
+      "Teclado Español",
+      "16GB"
+    ],
+    "imagen": "https://www.pinsoft.ec/getimage/products/11%2875%29.jpg",
+    "precio_final": 560
+  },
+  {
+    "nombre": "LENOVO IdeaPad Slim 3 15IAN8",
+    "precio_original": 511.5,
+    "categoria": "Laptops",
+    "url_origen": "https://www.pinsoft.ec/cod-1787-lenovo-ideapad-slim-3-15ian8-intel-core-i3-n305-8-nucleos-hasta-3-8-ghz-8gb-lpddr5-512gb-ssd-pcie-4-0-15-6-full-hd-sin-sistema-os-wi-fi-6-bt5-2-teclado-espanol-la-alfanumerico-arctic-grey/p-9649.html",
+    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/windows10home-64bits%283%29.png",
+    "codigo": "1445abe7",
+    "fuente": "Pinsoft",
+    "caracteristicas": [
+      "Intel® Core™ i3-N305 (8 núcleos, hasta 3.8 GHz)",
+      "512GB SSD PCIe® 4.0",
+      "15.6\" Full HD",
+      "Wi-Fi 6 & BT5.2",
+      "Teclado Español (LA) alfanumérico",
+      "8GB LPDDR5"
+    ],
+    "imagen": "https://www.pinsoft.ec/getimage/products/windows10home-64bits%283%29.png",
+    "precio_final": 590
+  },
+  {
+    "nombre": "ASUS VivoBook 15 X1504V",
+    "precio_original": 517.0,
+    "categoria": "Laptops",
+    "url_origen": "https://www.pinsoft.ec/cod-1766-kit-asus-vivobook-15-x1504v-intel-corei3-1315u-13va-gen-10mb-cache-hasta-4-4-ghz-8gb-512gb-nvme-ssd-15-6-fhd/p-9534.html",
+    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/pinsoft-1698%283%29.jpg",
+    "codigo": "87c0ba2b",
+    "fuente": "Pinsoft",
+    "caracteristicas": [
+      "Intel® Core™ i3-1315U 13va. Gen (10MB caché, hasta 4,4 GHz)",
+      "512GB NVMe™ SSD",
+      "15.6\" FHD",
+      "Wi-Fi 6E& BT 5.3",
+      "Teclado Español alfanumérico",
+      "8GB"
+    ],
+    "imagen": "https://www.pinsoft.ec/getimage/products/pinsoft-1698%283%29.jpg",
+    "precio_final": 590
+  },
+  {
+    "nombre": "ASUS VivoBook 15 X1504V",
+    "precio_original": 566.5,
+    "categoria": "Laptops",
+    "url_origen": "https://www.pinsoft.ec/cod-1774-kit-asus-vivobook-15-x1504v-intel-corei3-1315u-13va-gen-10mb-cache-hasta-4-4-ghz-16gb-512gb-nvme/p-9588.html",
+    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/pinsoft-1698%284%29.jpg",
+    "codigo": "1dc5e1a7",
+    "fuente": "Pinsoft",
+    "caracteristicas": [
+      "Intel® Core™ i3-1315U 13va. Gen (10MB caché, hasta 4,4 GHz)",
+      "512GB NVMe™ SSD",
+      "15.6\" FHD",
+      "Wi-Fi 6E& BT 5.3",
+      "Teclado Español alfanumérico",
+      "16GB"
+    ],
+    "imagen": "https://www.pinsoft.ec/getimage/products/pinsoft-1698%284%29.jpg",
+    "precio_final": 640
+  },
+  {
+    "nombre": "LENOVO V15 G5 IRL",
+    "precio_original": 605.0,
+    "categoria": "Laptops",
+    "url_origen": "https://www.pinsoft.ec/cod-1793-lenovo-v15-g5-irl-intel-core-i5-13420h-13va-gen-8gb-ddr5-512gb-ssd-pcie-4-0-15-6-full-hd-sin-sistema-os-wi-fi-6-ax-teclado-alfanumerico-espanol-la-luna-grey/p-9681.html",
+    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/lenovo_v15_g5_irl_ct1_06%281%29.png",
+    "codigo": "5f9178cf",
+    "fuente": "Pinsoft",
+    "caracteristicas": [
+      "Intel® Core™ i5-13420H 13va.Gen",
+      "512GB SSD PCIe 4.0",
+      "15.6\" Full HD",
+      "Wi-Fi 6 AX",
+      "Teclado alfanumérico Español (LA)",
+      "8GB DDR5"
+    ],
+    "imagen": "https://www.pinsoft.ec/getimage/products/lenovo_v15_g5_irl_ct1_06%281%29.png",
+    "precio_final": 680
+  },
+  {
+    "nombre": "ASUS VivoBook 15 X1504V",
+    "precio_original": 605.0,
+    "categoria": "Laptops",
+    "url_origen": "https://www.pinsoft.ec/cod-1797-asus-vivobook-15-x1504v-intel-core-5-120u-10-nucleos-hasta-5-0ghz-8gb-512gb-nvme-ssd-15-6-fhd-sin-sistema-os-wi-fi-6-bt-5-3-sensor-de-huella-teclado-espanol-alfanumerico-quiet-blue-mouseasus/p-9729.html",
+    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/1797-pinsoft-asus.jpg",
+    "codigo": "e288517a",
+    "fuente": "Pinsoft",
+    "caracteristicas": [
+      "Intel® Core™ 5 120U (Serie 1) Última Generación, 12MB caché, 10 núcleos, hasta 5,0GHz",
+      "512GB NVMe™ SSD",
+      "15.6\" FHD",
+      "Wi-Fi 6 & BT 5.3",
+      "Teclado Español alfanumérico",
+      "8GB"
+    ],
+    "imagen": "https://www.pinsoft.ec/getimage/products/1797-pinsoft-asus.jpg",
+    "precio_final": 680
+  },
+  {
+    "nombre": "HP 250R G10",
+    "precio_original": 632.5,
+    "categoria": "Laptops",
+    "url_origen": "https://www.pinsoft.ec/cod-1796-laptop-hp-250r-g10-intel-core-5-120u-12mb-cache-10-nucleos-hasta-5-0ghz-16gb-512-gb-ssd-pcle-m-2-15-6-hd-freedos-3-0-teclado-espanol-numerico-plata-turbo/p-9715.html",
+    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/hp_250r_15.6_inch_g10_notebook_pc_df_ffplusplus_turbosilver_nonodd_fpr_nt_nonircam_catalog_win_11_whitebg_front_m2826686%281%29.png",
+    "codigo": "c5cf6900",
+    "fuente": "Pinsoft",
+    "caracteristicas": [
+      "Intel® Core™ 5 120U (Serie 1) Nueva Generación, 12MB caché, 10 núcleos, hasta 5,0GHz",
+      "512 GB SSD PCle M.2",
+      "15.6\" HD",
+      "FreeDOS 3.0",
+      "Teclado Español numérico",
+      "16GB"
+    ],
+    "imagen": "https://www.pinsoft.ec/getimage/products/hp_250r_15.6_inch_g10_notebook_pc_df_ffplusplus_turbosilver_nonodd_fpr_nt_nonircam_catalog_win_11_whitebg_front_m2826686%281%29.png",
+    "precio_final": 710
+  },
+  {
+    "nombre": "DELL 15 DC15250",
+    "precio_original": 638.0,
+    "categoria": "Laptops",
+    "url_origen": "https://www.pinsoft.ec/cod-1802-dell-15-dc15250-intel-core-i5-1334u-13-gen-8gb-512gb-nvme-ssd-15-6-full-hd-120hz-ubuntu-wi-fi-6-ax-teclado-espanol-alfanumerico-platinum-silver/p-9766.html",
+    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/comdelkd9xk-1-lg.png",
+    "codigo": "2dd55d24",
+    "fuente": "Pinsoft",
+    "caracteristicas": [
+      "Intel® Core™ i5-1334U 13.ª Gen",
+      "512GB NVMe™ SSD",
+      "15.6\" Full HD, 120Hz",
+      "Wi-Fi 6 AX",
+      "Teclado Español alfanumérico",
+      "8GB"
+    ],
+    "imagen": "https://www.pinsoft.ec/getimage/products/comdelkd9xk-1-lg.png",
+    "precio_final": 710
+  },
+  {
+    "nombre": "HP 255 G10",
+    "precio_original": 682.0,
+    "categoria": "Laptops",
+    "url_origen": "https://www.pinsoft.ec/cod-1792-hp-255-g10-amd-ryzen-7-7730u-up-4-5-ghz-16-mb-cache-l3-8-nucleos-16gb-512gb-nvme-ssd-15-6-fhd-wi-fi-6-2x2-bt5-3-freedos-3-0-teclado-espanol-alfanumerico-plata-turbo/p-9680.html",
+    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/hp-255-g10-amd-ryzen-7-7730u1-gra.png",
+    "codigo": "ddd36d2f",
+    "fuente": "Pinsoft",
+    "caracteristicas": [
+      "AMD Ryzen™ 7 7730U (UP 4,5 GHz, 16 MB caché L3, 8 núcleos)",
+      "512GB NVMe™ SSD",
+      "15.6\" FHD",
+      "FreeDOS 3.0",
+      "Wi-Fi® 6 2x2, BT5.3",
+      "Teclado Español Alfanumérico"
+    ],
+    "imagen": "https://www.pinsoft.ec/getimage/products/hp-255-g10-amd-ryzen-7-7730u1-gra.png",
+    "precio_final": 760
+  },
+  {
+    "nombre": "HP 255 G10",
+    "precio_original": 779.9,
+    "categoria": "Laptops",
+    "url_origen": "https://www.pinsoft.ec/cod-1799-55-g10-amd-ryzen-7-7730u-up-4-5-ghz-16-mb-cache-l3-8-nucleos-16gb-tb-nvme-ssd-15-6-fhd-wi-fi-6-2x2-bt5-3-freedos-3-0-teclado-espanol-alfanumerico-plata-turbo/p-9752.html",
+    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/hp-255-g10-amd-ryzen-7-7730u1-gra%281%29.png",
+    "codigo": "cbf775f7",
+    "fuente": "Pinsoft",
+    "caracteristicas": [
+      "AMD Ryzen™ 7 7730U (UP 4,5 GHz, 16 MB caché L3, 8 núcleos)",
+      "1TB NVMe™ SSD",
+      "15.6\" FHD",
+      "FreeDOS 3.0",
+      "Wi-Fi® 6 2x2, BT5.3",
+      "Teclado Español Alfanumérico"
+    ],
+    "imagen": "https://www.pinsoft.ec/getimage/products/hp-255-g10-amd-ryzen-7-7730u1-gra%281%29.png",
+    "precio_final": 850
+  },
+  {
+    "nombre": "LENOVO IdeaPad Slim 3 15IRH10",
+    "precio_original": 781.0,
+    "categoria": "Laptops",
+    "url_origen": "https://www.pinsoft.ec/cod-l-1726-lenovo-ideapad-slim-3-15irh10-intel-core-i7-13620h-13-gen-/p-9224.html",
+    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/lenovo_pinsoft_1726%281%29.png",
+    "codigo": "85169db8",
+    "fuente": "Pinsoft",
+    "caracteristicas": [
+      "Intel® Core™ i7-13620H, 13.ª Gen. (24MB caché, 10 núcleos, hasta 4.9GHz)",
+      "512GB PCIe® 4.0x4 NVMe® SSD M.2",
+      "15.3\" WUXGA (1920 x 1200)",
+      "Wi-Fi® 6 2x2 + BT5.2",
+      "Teclado Español alfa",
+      "16GB DDR5"
+    ],
+    "imagen": "https://www.pinsoft.ec/getimage/products/lenovo_pinsoft_1726%281%29.png",
+    "precio_final": 860
+  },
+  {
+    "nombre": "HP 15-fd0276la",
+    "precio_original": 801.9,
+    "categoria": "Laptops",
+    "url_origen": "https://www.pinsoft.ec/cod-h-1727-hp-15-fd0276la/p-9182.html",
+    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/laptop_hp_15_fd0276la_pinsoft%281%29.png",
+    "codigo": "3e0f5ef0",
+    "fuente": "Pinsoft",
+    "caracteristicas": [
+      "Intel® Core™ i7-1355U 13va. Gen",
+      "512 GB PCIe® NVMe™",
+      "15.6\" FHD",
+      "FreeDOS",
+      "Teclado Español numérico",
+      "16GB"
+    ],
+    "imagen": "https://www.pinsoft.ec/getimage/products/laptop_hp_15_fd0276la_pinsoft%281%29.png",
+    "precio_final": 880
+  },
+  {
+    "nombre": "HP 15-fd0276la",
+    "precio_original": 867.9,
+    "categoria": "Laptops",
+    "url_origen": "https://www.pinsoft.ec/cod-h-1728-hp-15-fd0276la-intel-core-i7-1355u-13va-/p-9183.html",
+    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/2%28128%29.jpg",
+    "codigo": "99f658c0",
+    "fuente": "Pinsoft",
+    "caracteristicas": [
+      "Intel® Core™ i7-1355U 13va. Gen",
+      "1 TB PCIe® NVMe™",
+      "15.6\" FHD",
+      "FreeDOS",
+      "Teclado Español numérico",
+      "16GB"
+    ],
+    "imagen": "https://www.pinsoft.ec/getimage/products/2%28128%29.jpg",
+    "precio_final": 940
+  },
+  {
+    "nombre": "ASUS Gaming V16 V3607VM-RP058",
+    "precio_original": 1375.0,
+    "categoria": "Laptops",
+    "url_origen": "https://www.pinsoft.ec/cod-1782-kit-asus-gaming-v16-v3607vm-rp058-intel-core-7-series-2-240h-16gb/p-9626.html",
+    "imagen_candidata": "https://www.pinsoft.ec/getimage/products/1782-asus-pinsoft.jpg",
+    "codigo": "d93b507f",
+    "fuente": "Pinsoft",
+    "caracteristicas": [
+      "Intel® Core™ 7 (Series 2) 240H",
+      "1TB SSD PCIe® 4.0",
+      "16.0\" WUXGA (1920 x 1200) 144Hz",
+      "16GB DDR5",
+      "NVIDIA® GeForce RTX™ 5050 8GB GDDR7",
+      "Sin Sistema (OS)"
+    ],
+    "imagen": "https://www.pinsoft.ec/getimage/products/1782-asus-pinsoft.jpg",
+    "precio_final": 1450
+  },
+  {
+    "nombre": "ASUS VIVOBOOK GO 14 E410KA-CL4128",
+    "precio_original": 355.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-vivobook-go-14-e410ka-cl4128-intel-celeron-n4500-8gb-ram-128gb-ssd-14-fhd-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/09/PORTADA-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Celeron N4500 8gb RAM 128gb SSD 14″ FHD W11"
+    ],
+    "imagen": "imagenes/21-asus-vivobook-go-14-e410ka-cl4128.png",
+    "precio_final": 430
+  },
+  {
+    "nombre": "ASUS VIVOBOOK 14 X1404VA",
+    "precio_original": 455.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-vivobook-14-x1404va-intel-core-i3-1315u-8gb-ram-128gb-ssd-14-w11-2/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/07/descarga-7-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I3-1315U 8gb RAM 128gb SSD 14″ W11 $ 45",
+      "intel-core-i3-1315u-8gb-ram-128gb-ssd-14-w11-2"
+    ],
+    "imagen": "imagenes/22-asus-vivobook-14-x1404va.png",
+    "precio_final": 530
+  },
+  {
+    "nombre": "HP 15-FD0130WM",
+    "precio_original": 499.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/hp-15-fd0130wm-intel-core-i3-n305-8gb-ram-256gb-ssd-15-6-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/09/HP1-3-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I3-N305 8gb RAM 256gb SSD 15.6″ W11 $ 4",
+      "intel-core-i3-n305-8gb-ram-256gb-ssd-15-6-w11"
+    ],
+    "imagen": "imagenes/23-hp-15-fd0130wm.png",
+    "precio_final": 570
+  },
+  {
+    "nombre": "HP 15-FD0133WM",
+    "precio_original": 499.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/hp-15-fd0133wm-intel-core-i3-n305-8gb-ram-256gb-ssd-15-6-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/09/HP1-3-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I3-N305 8gb RAM 256gb SSD 15.6″ W11 $ 4",
+      "intel-core-i3-n305-8gb-ram-256gb-ssd-15-6-w11"
+    ],
+    "imagen": "imagenes/24-hp-15-fd0133wm.png",
+    "precio_final": 570
+  },
+  {
+    "nombre": "ASUS VIVIBOOK GO 15 E1504GA",
+    "precio_original": 545.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-vivibook-go-15-e1504ga-intel-core-i3-n305-8gb-ram-256gb-ssd-15-6-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/07/descarga-8-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I3-N305 8gb RAM 256gb SSD 15.6″ W11 $ 5",
+      "intel-core-i3-n305-8gb-ram-256gb-ssd-15-6-w11"
+    ],
+    "imagen": "imagenes/25-asus-vivibook-go-15-e1504ga.png",
+    "precio_final": 620
+  },
+  {
+    "nombre": "ASUS VIVOBOOK GO 15 E1504FA",
+    "precio_original": 545.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-15-6-w11-3/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2024/12/descarga-8-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen 5-7520U 8gb RAM 512gb SSD 15.6″ W11 $",
+      "amd-ryzen-5-7520u-8gb-ram-512gb-ssd-15-6-w11-3"
+    ],
+    "imagen": "imagenes/26-asus-vivobook-go-15-e1504fa.png",
+    "precio_final": 620
+  },
+  {
+    "nombre": "ASUS VIVOBOOK 14 X1404VAP",
+    "precio_original": 575.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-vivobook-14-x1404vap-intel-core-5-120u-8gb-ram-256gb-ssd-14-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/08/descarga-4-2-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core 5-120U 8gb RAM 256gb SSD 14″ W11 $ 575",
+      "intel-core-5-120u-8gb-ram-256gb-ssd-14-w11"
+    ],
+    "imagen": "imagenes/27-asus-vivobook-14-x1404vap.png",
+    "precio_final": 650
+  },
+  {
+    "nombre": "HP 15-fc0256la",
+    "precio_original": 655.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/hp-15-fc0256la-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-15-6/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/09/FOTOS-WEB-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen 5-7520U 16gb RAM 512gb SSD 15.6″ $ 655",
+      "amd-ryzen-5-7520u-16gb-ram-512gb-ssd-15-6"
+    ],
+    "imagen": "imagenes/28-hp-15-fc0256la.jpg",
+    "precio_final": 730
+  },
+  {
+    "nombre": "LENOVO IDEAPAD 1",
+    "precio_original": 675.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/lenovo-ideapad-1-intel-core-i5-1335u-16gb-ram-256gb-ssd-15-6-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/FOTOS-WEB-27-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I5-1335U 16gb RAM 256gb SSD 15.6” W11 $"
+    ],
+    "imagen": "imagenes/29-lenovo-ideapad-1.jpg",
+    "precio_final": 750
+  },
+  {
+    "nombre": "ASUS VIVOBOOK GO 15 E1504FA",
+    "precio_original": 675.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-vivobook-go-15-e1504fa-ryzen-5-4016gb512ssd156fhd/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/07/PORTADA-2-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "ASUS VIVOBOOK GO 15 E1504FA RYZEN 5-40 16GB 512SSD 15,6´´ FHD $ 675.00",
+      "RYZEN 5-40 16GB 512SSD 15",
+      "ryzen-5-4016gb512ssd156fhd"
+    ],
+    "imagen": "imagenes/30-asus-vivobook-go-15-e1504fa.png",
+    "precio_final": 750
+  },
+  {
+    "nombre": "HP 250R G10",
+    "precio_original": 675.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/hp-250r-g10-intel-core-i5-120u-16gb-ram-512gb-ssd-15-6/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/07/FOTOS-WEB-13-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core 5-120U 16gb RAM 512gb SSD 15.6″ $ 675.0",
+      "intel-core-i5-120u-16gb-ram-512gb-ssd-15-6"
+    ],
+    "imagen": "imagenes/31-hp-250r-g10.jpg",
+    "precio_final": 750
+  },
+  {
+    "nombre": "Hp omnibook 3 16",
+    "precio_original": 695.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/hp-omnibook-3-16-amd-ryzen-5-40-apu-16gb-ram-256g-ssd-16-2k-ips-touch-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/735362.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen 5 40 APU 16gb RAM 256g SSD 16” 2K IPS",
+      "amd-ryzen-5-40-apu-16gb-ram-256g-ssd-16-2k-ips-t"
+    ],
+    "imagen": "imagenes/32-hp-omnibook-3-16.jpg",
+    "precio_final": 770
+  },
+  {
+    "nombre": "ASUS VIVOBOOK 15 F1504VA",
+    "precio_original": 695.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-vivobook-go-15-e1504va-core-i5-1334u-8gb-ram-512gb-ssd-15-6-fhd-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/09/PORTADA-1-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "CORE I5-1334U 8gb RAM 512gb SSD 15.6″ FHD W11 $ 695",
+      "8gb",
+      "512gb"
+    ],
+    "imagen": "imagenes/33-asus-vivobook-15-f1504va.png",
+    "precio_final": 770
+  },
+  {
+    "nombre": "LENOVO V15 G4",
+    "precio_original": 725.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/lenovo-v15-g4-intel-core-i5-13420h-16gb-ram-512gb-ssd-15-6/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/01/lenovo-1-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I5-13420H 16gb RAM 512gb SSD 15.6″ $ 72",
+      "intel-core-i5-13420h-16gb-ram-512gb-ssd-15-6"
+    ],
+    "imagen": "imagenes/34-lenovo-v15-g4.png",
+    "precio_final": 800
+  },
+  {
+    "nombre": "HP 15-FD0260LA I5-1334U",
+    "precio_original": 725.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/hp-15-fd0260la-i5-1334u16gb512ssd15-6-fhd-60ghz/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/08/FOTOS-WEB-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "HP 15-FD0260LA I5-1334U 16GB 512SSD 15.6´´FHD-60GHZ $ 725.00",
+      "16GB"
+    ],
+    "imagen": "imagenes/35-hp-15-fd0260la-i5-1334u.jpg",
+    "precio_final": 800
+  },
+  {
+    "nombre": "LENOVO IDEAPAD 1",
+    "precio_original": 735.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/lenovo-ideapad-1-intel-core-i5-1335u-16gb-ram-512gb-ssd-15-6-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/FOTOS-WEB-27-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I5-1335U 16gb RAM 512gb SSD 15.6” W11 $"
+    ],
+    "imagen": "imagenes/36-lenovo-ideapad-1.jpg",
+    "precio_final": 810
+  },
+  {
+    "nombre": "HP 15-fc0275la",
+    "precio_original": 745.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/hp-15-fc0275la-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-15-6/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/06/FOTOS-WEB-1-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen 7-7730U 16gb RAM 512gb SSD 15.6″ $ 745",
+      "amd-ryzen-7-7730u-16gb-ram-512gb-ssd-15-6"
+    ],
+    "imagen": "imagenes/37-hp-15-fc0275la.jpg",
+    "precio_final": 820
+  },
+  {
+    "nombre": "LENOVO V15 G5",
+    "precio_original": 745.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/lenovo-v15-g5-intel-core-i5-13420h-16gb-ram-512gb-ssd-15-6/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/04/Lenovo_V15_G5_IRL_CT2_06-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I5-13420H 16gb RAM 512gb SSD 15.6″ $ 74",
+      "intel-core-i5-13420h-16gb-ram-512gb-ssd-15-6"
+    ],
+    "imagen": "imagenes/38-lenovo-v15-g5.jpg",
+    "precio_final": 820
+  },
+  {
+    "nombre": "DELL INSPIRON DC15250",
+    "precio_original": 745.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/dell-inspiron-dc15250-intel-core-i5-1334u-8gb-ram-512gb-ssd-15-6-touch-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/FOTOS-WEB-20-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I5-1334U 16gb RAM 512gb SSD 15.6″ TOUCH",
+      "intel-core-i5-1334u-8gb-ram-512gb-ssd-15-6-touch-w"
+    ],
+    "imagen": "imagenes/39-dell-inspiron-dc15250.jpg",
+    "precio_final": 820
+  },
+  {
+    "nombre": "DELL INSPIRON DC15250",
+    "precio_original": 745.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/dell-inspiron-dc15250-intel-core-i5-1334u-16gb-ram-512gb-ssd-15-6-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/07/1-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I5-1334U 16gb RAM 512gb SSD 15.6″ W11 $"
+    ],
+    "imagen": "imagenes/40-dell-inspiron-dc15250.png",
+    "precio_final": 820
+  },
+  {
+    "nombre": "DELL 15 DC15255",
+    "precio_original": 745.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/dell-15-dc15255-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-15-6-fhd-touch-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/09/DELL15-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen 7-7730U 16gb RAM 512gb SSD 15.6″ FHD T",
+      "amd-ryzen-7-7730u-16gb-ram-512gb-ssd-15-6-fhd-to",
+      "ALMACENAMIENTO: 512GB, 1TB"
+    ],
+    "imagen": "imagenes/41-dell-15-dc15255.png",
+    "precio_final": 820
+  },
+  {
+    "nombre": "HP 15-FC0372LA",
+    "precio_original": 745.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/hp-15-fc0372la-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-15-6/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/09/HP1-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen 7-7730U 16gb RAM 512gb SSD 15.6″ $ 745",
+      "amd-ryzen-7-7730u-16gb-ram-512gb-ssd-15-6"
+    ],
+    "imagen": "imagenes/42-hp-15-fc0372la.png",
+    "precio_final": 820
+  },
+  {
+    "nombre": "ACER ASPIRE GO AG15-42P-R917",
+    "precio_original": 745.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/acer-aspire-go-ag15-42p-r917-ryzen-7-7730u-16gb-ram-512gb-ssd-15-6-fhd-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/09/acer1-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Ryzen 7-7730U 16gb RAM 512gb SSD 15.6″ FHD W11 $ 7",
+      "ryzen-7-7730u-16gb-ram-512gb-ssd-15-6-fhd-w11"
+    ],
+    "imagen": "imagenes/43-acer-aspire-go-ag15-42p-r917.png",
+    "precio_final": 820
+  },
+  {
+    "nombre": "ASUS VIVOBOOK 15 F1504VAP",
+    "precio_original": 755.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-vivobook-15-f1504vap-intel-core-5-120u-16gb-ram-512gb-ssd-15-6-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/FOTOS-WEB-32-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core 5 120U 16gb RAM 512gb SSD 15.6” W11 $ 7",
+      "intel-core-5-120u-16gb-ram-512gb-ssd-15-6-w11"
+    ],
+    "imagen": "imagenes/44-asus-vivobook-15-f1504vap.jpg",
+    "precio_final": 830
+  },
+  {
+    "nombre": "HP 15-fc0057wm",
+    "precio_original": 765.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/hp-15-fc0057wm-amd-ryzen-7-7730u-16gb-ram-512gb-ssd-15-6-touch-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/04/7730-4-3-1.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen 7-7730U 16gb RAM 512gb SSD 15.6″ TOUCH"
+    ],
+    "imagen": "imagenes/45-hp-15-fc0057wm.jpg",
+    "precio_final": 840
+  },
+  {
+    "nombre": "HP 15-FD0215DX",
+    "precio_original": 775.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/hp-15-fd0215dx-intel-core-i5-1334u-16gb-ram-512gb-ssd-15-6-touch-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/FOTOS-WEB-21-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I5-1334U 16gb RAM 512gb SSD 15.6” TOUCH"
+    ],
+    "imagen": "imagenes/46-hp-15-fd0215dx.jpg",
+    "precio_final": 850
+  },
+  {
+    "nombre": "Hp omnibook 3 16",
+    "precio_original": 775.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/hp-omnibook-3-16-amd-ryzen-ai-5-340-16gb-ram-512gb-ssd-15-6-fhd-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/09/HP1-2-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen AI 5 340 16gb RAM 512gb SSD 15.6” FHD",
+      "amd-ryzen-ai-5-340-16gb-ram-512gb-ssd-15-6-fhd-w"
+    ],
+    "imagen": "imagenes/47-hp-omnibook-3-16.png",
+    "precio_final": 850
+  },
+  {
+    "nombre": "ASUS VIVOBOOK 14 X1404VA",
+    "precio_original": 825.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-vivobook-14-x1404va-intel-core-i7-1355u-12gb-ram-512gb-ssd-14-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/10/fwebp-1-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I7-1355U 12gb RAM 512gb SSD 14″ W11 $ 8",
+      "intel-core-i7-1355u-12gb-ram-512gb-ssd-14-w11"
+    ],
+    "imagen": "imagenes/48-asus-vivobook-14-x1404va.jpg",
+    "precio_final": 900
+  },
+  {
+    "nombre": "DELL 15 DC15250",
+    "precio_original": 865.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/dell-15-dc15250-intel-core-i7-1355u-16gb-ram-512gb-ssd-15-6/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/03/FOTOS-WEB-8-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I7-1355U 16gb RAM 512gb SSD 15.6″ $ 865",
+      "intel-core-i7-1355u-16gb-ram-512gb-ssd-15-6",
+      "ALMACENAMIENTO: 512GB, 1TB"
+    ],
+    "imagen": "imagenes/49-dell-15-dc15250.jpg",
+    "precio_final": 940
+  },
+  {
+    "nombre": "DELL 15 DC15250",
+    "precio_original": 865.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/dell-15-dc15250-intel-core-i7-1355u-16gb-ram-1tb-ssd-15-6-touch-w11-2/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/laptop-dell-dc15250nt-bk-plastic-gallery-1-1-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I7-1355U 16gb RAM 1tb SSD 15.6″ TOUCH W",
+      "intel-core-i7-1355u-16gb-ram-1tb-ssd-15-6-touch-w1",
+      "ALMACENAMIENTO: 512GB, 1TB"
+    ],
+    "imagen": "imagenes/50-dell-15-dc15250.jpg",
+    "precio_final": 940
+  },
+  {
+    "nombre": "DELL 15 DC15255",
+    "precio_original": 875.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/dell-15-dc15255-amd-ryzen-7-7730u-16gb-ram-1tb-ssd-15-6-fhd-touch-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/09/DELL15-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen 7-7730U 16Gb RAM 1Tb SSD 15.6″ FHD TOU",
+      "amd-ryzen-7-7730u-16gb-ram-1tb-ssd-15-6-fhd-touc",
+      "ALMACENAMIENTO: 512GB, 1TB"
+    ],
+    "imagen": "imagenes/51-dell-15-dc15255.png",
+    "precio_final": 950
+  },
+  {
+    "nombre": "HP 15-FD0276LA",
+    "precio_original": 895.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/hp-15-fd0276la-intel-core-i7-1355u-16gb-ram-512gb-ssd-15-6/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/08/FOTOS-WEB-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I7-1355U 16gb RAM 512gb SSD 15.6″ $ 895",
+      "intel-core-i7-1355u-16gb-ram-512gb-ssd-15-6"
+    ],
+    "imagen": "imagenes/52-hp-15-fd0276la.jpg",
+    "precio_final": 970
+  },
+  {
+    "nombre": "ASUS VIVOBOOK 14 X1404VA",
+    "precio_original": 895.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-vivobook-14-x1404va-intel-core-i7-1355u-16gb-ram-512gb-ssd-14-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/02/FOTOS-WEB-16-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I7-1355U 16gb RAM 512gb SSD 14″ W11 $ 8",
+      "intel-core-i7-1355u-16gb-ram-512gb-ssd-14-w11"
+    ],
+    "imagen": "imagenes/53-asus-vivobook-14-x1404va.jpg",
+    "precio_final": 970
+  },
+  {
+    "nombre": "LENOVO V15 G4",
+    "precio_original": 895.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/lenovo-v15-g4-intel-core-i7-13620h-16gb-ram-1tb-ssd-15-6-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/FOTOS-WEB-13-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I7-13620H 16gb RAM 1tb SSD 15.6″ W11 $"
+    ],
+    "imagen": "imagenes/54-lenovo-v15-g4.jpg",
+    "precio_final": 970
+  },
+  {
+    "nombre": "ASUS VIVOBOOK F1605VA",
+    "precio_original": 895.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-vivobook-f1605va-intel-core-i7-1355u-16gb-ram-512gb-ssd-16-wuxga-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/ASUS-VIVOBOOK-F1605ZA-WS74-Mobile-Store-Ecuador.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I7-1355U 16gb RAM 512gb SSD 16” WUXGA W",
+      "intel-core-i7-1355u-16gb-ram-512gb-ssd-16-wuxga-w1"
+    ],
+    "imagen": "imagenes/55-asus-vivobook-f1605va.jpg",
+    "precio_final": 970
+  },
+  {
+    "nombre": "DELL 16 LDC16255",
+    "precio_original": 895.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/dell-16-ldc16255-amd-ryzen-7-250-16gb-ram-1tb-ssd-16-wuxga-touch-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/09/DELL16-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen 7 250 16Gb RAM 1Tb SSD 16″ WUXGA TOUCH",
+      "ALMACENAMIENTO: 512GB, 1TB"
+    ],
+    "imagen": "imagenes/56-dell-16-ldc16255.png",
+    "precio_final": 970
+  },
+  {
+    "nombre": "ASUS VIVOBOOK 15 X1502VA",
+    "precio_original": 925.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-vivobook-15-x1502va-intel-core-i7-13620h-16gb-ram-512gb-ssd-15-6-2/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/03/FOTOS-WEB-7-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I7-13620H 16gb RAM 512gb SSD 15.6″ $ 92",
+      "intel-core-i7-13620h-16gb-ram-512gb-ssd-15-6-2"
+    ],
+    "imagen": "imagenes/57-asus-vivobook-15-x1502va.jpg",
+    "precio_final": 1000
+  },
+  {
+    "nombre": "DELL 15 DC15250",
+    "precio_original": 925.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/dell-15-dc15250-intel-core-i7-1355u-16gb-ram-1tb-ssd-15-6-touch-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/laptop-dell-dc15250nt-bk-plastic-gallery-1-1-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I7-1355U 16gb RAM 1tb SSD 15.6″ TOUCH W",
+      "intel-core-i7-1355u-16gb-ram-1tb-ssd-15-6-touch-w1",
+      "ALMACENAMIENTO: 512GB, 1TB"
+    ],
+    "imagen": "imagenes/58-dell-15-dc15250.jpg",
+    "precio_final": 1000
+  },
+  {
+    "nombre": "LENOVO IDEAPAD 5 2 en 1",
+    "precio_original": 925.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/lenovo-ideapad-5-2-en-1-amd-ryzen-ai-7-350-16gb-ram-1tb-ssd-14-wuxga-touch-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/PORTADA-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen AI 7 350 16gb RAM 1tb SSD 14″ WUXGA TO",
+      "amd-ryzen-ai-7-350-16gb-ram-1tb-ssd-14-wuxga-tou"
+    ],
+    "imagen": "imagenes/59-lenovo-ideapad-5-2-en-1.png",
+    "precio_final": 1000
+  },
+  {
+    "nombre": "ACER ASPIRE 14 AI",
+    "precio_original": 945.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/acer-aspire-14-ia-intel-core-u7-256v-16gb-ram-1tb-ssd-14wuxga-ips-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/07/IMAGEN-DE-PORTADA-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core U7-256V 16gb RAM 1TB SSD 14″WUXGA IPS W",
+      "intel-core-u7-256v-16gb-ram-1tb-ssd-14wuxga-ips-w1"
+    ],
+    "imagen": "imagenes/60-acer-aspire-14-ai.png",
+    "precio_final": 1020
+  },
+  {
+    "nombre": "Hp victus 15",
+    "precio_original": 965.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/hp-victus-15-intel-core-i5-13420h-16gb-ram-512gb-ssd-rtx-3050-15-6-w11-copia/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/07/FOTOS-WEB-1-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I5-13420H 16gb RAM 512gb SSD RTX 3050 1",
+      "5.6″"
+    ],
+    "imagen": "imagenes/61-hp-victus-15.jpg",
+    "precio_final": 1040
+  },
+  {
+    "nombre": "LENOVO V15 G5",
+    "precio_original": 975.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/lenovo-v15-g5-intel-core-i7-13620h-16gb-ram-1tb-ssd-15-6-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/FOTOS-WEB-28-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I7-13620H 16gb RAM 1tb SSD 15.6″ W11 $"
+    ],
+    "imagen": "imagenes/62-lenovo-v15-g5.jpg",
+    "precio_final": 1050
+  },
+  {
+    "nombre": "DELL 16 DC16251",
+    "precio_original": 975.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/dell-16-dc16251-intel-core-7-150u-16gb-ram-1tb-ssd-16-wuxga-touch-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/09/DELL2-1-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core 7 150U 16gb RAM 1tb SSD 16″ WUXGA TOUCH",
+      "ALMACENAMIENTO: 512GB, 1TB"
+    ],
+    "imagen": "imagenes/63-dell-16-dc16251.png",
+    "precio_final": 1050
+  },
+  {
+    "nombre": "HP 255 G10",
+    "precio_original": 985.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/hp-255-g10-amd-ryzen-7-7730u-32gb-ram-1tb-ssd-15-6/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/09/HP1-1-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen 7-7730U 32gb RAM 1Tb SSD 15.6″ $ 985.0",
+      "amd-ryzen-7-7730u-32gb-ram-1tb-ssd-15-6"
+    ],
+    "imagen": "imagenes/64-hp-255-g10.png",
+    "precio_final": 1060
+  },
+  {
+    "nombre": "ASUS VIVOBOOK S16 M3607HA",
+    "precio_original": 999.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-vivobook-s16-m3607ha-amd-r9-270-16gb-ram-1tb-ssd-16-wuxga/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/11/ASUS1-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD R9 270 16gb RAM 1tb SSD 16″ WUXGA $ 999.00 h",
+      "amd-r9-270-16gb-ram-1tb-ssd-16-wuxga"
+    ],
+    "imagen": "imagenes/65-asus-vivobook-s16-m3607ha.png",
+    "precio_final": 1070
+  },
+  {
+    "nombre": "MSI THIN A15 B7UC",
+    "precio_original": 999.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/msi-thin-a15-b7uc-amd-ryzen-7-7735hs-16gb-ram-512gb-ssd-rtx-3050-15-6/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/FOTOS-WEB-18-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen 7-7735HS 16gb RAM 512gb SSD RTX 3050 1",
+      "MEMORIA RAM: 8GB, 16GB",
+      "5.6″"
+    ],
+    "imagen": "imagenes/66-msi-thin-a15-b7uc.jpg",
+    "precio_final": 1070
+  },
+  {
+    "nombre": "ASUS VIVOBOOK S16 M3607HA",
+    "precio_original": 999.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-vivobook-s16-m3607ha-amd-r9-270-16gb-ram-1tb-ssd-16-wuxga-2/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/09/Portada--1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD R9 270 16gb RAM 1tb SSD 16″ WUXGA $ 999.00 h",
+      "amd-r9-270-16gb-ram-1tb-ssd-16-wuxga-2"
+    ],
+    "imagen": "imagenes/67-asus-vivobook-s16-m3607ha.png",
+    "precio_final": 1070
+  },
+  {
+    "nombre": "Hp victus 15",
+    "precio_original": 1025.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/hp-victus-15-amd-ryzen-7-7445hs-16gb-ram-512gb-ssd-rtx-3050-15-6/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/09/FOTOS-WEB-1-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen 7-7445HS 16gb RAM 512gb SSD RTX 3050 1"
+    ],
+    "imagen": "imagenes/68-hp-victus-15.jpg",
+    "precio_final": 1100
+  },
+  {
+    "nombre": "LENOVO V15 G5 CORE 7-240H",
+    "precio_original": 1025.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/lenovo-v15-g5-core-7-240h-16gb-1tb-ssd-15-6fhd-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/FOTOS-WEB-28-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "1TB SSD",
+      "15.6″FHD",
+      "16GB",
+      "1tb"
+    ],
+    "imagen": "imagenes/69-lenovo-v15-g5-core-7-240h.jpg",
+    "precio_final": 1100
+  },
+  {
+    "nombre": "HP VICTUS 15-fa2082wm",
+    "precio_original": 1075.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/hp-victus-15-fa2082wm-intel-core-5-13420h-16gb-ram-512gb-ssd-rtx-4050-15-6-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/02/FOTOS-WEB-3-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I5-13420H 16gb RAM 512gb SSD RTX 4050 1",
+      "intel-core-5-13420h-16gb-ram-512gb-ssd-rtx-4050-15",
+      "5.6″"
+    ],
+    "imagen": "imagenes/70-hp-victus-15-fa2082wm.jpg",
+    "precio_final": 1150
+  },
+  {
+    "nombre": "HP PROBOOK 440 G11 ULTRA 7 155U",
+    "precio_original": 1095.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/hp-probook-440-g11-ultra-7-155u-16gb-512gb-ssd-15-6-w11-pro/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2020/05/hp1-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "512GB SSD",
+      "16GB",
+      "512gb"
+    ],
+    "imagen": "imagenes/71-hp-probook-440-g11-ultra-7-155u.png",
+    "precio_final": 1170
+  },
+  {
+    "nombre": "GIGABYTE A16 GA6H",
+    "precio_original": 1185.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/gigabyte-a16-ga6h-intel-core-i7-13620h-16gb-ram-512gb-ssd-rtx-4050-16-wuxga-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/12/2f4a7922-b190-4608-b5d0-55d13efe1ef8.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I7-13620H 16gb RAM 512gb SSD RTX 4050 1",
+      "6″"
+    ],
+    "imagen": "imagenes/72-gigabyte-a16-ga6h.jpg",
+    "precio_final": 1260
+  },
+  {
+    "nombre": "DELL 16 DC16251",
+    "precio_original": 1195.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/dell-16-dc16251-intel-core-7-150u-32gb-ram-1tb-ssd-16-wuxga-touch-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/02/FOTOS-WEB-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core 7 150U 32gb RAM 1tb SSD 16″ WUXGA TOUCH",
+      "ALMACENAMIENTO: 512GB, 1TB"
+    ],
+    "imagen": "imagenes/73-dell-16-dc16251.jpg",
+    "precio_final": 1270
+  },
+  {
+    "nombre": "DELL ALIENWARE 15 DA15265",
+    "precio_original": 1195.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/dell-alienware-15-rayzen5-220-16gb-ram-512gb-ssd-rtx-4050-15-3-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/07/laptop-alienware-15-PORTADA-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "RYZEN 5-220 16GB 512SSD RTX4050 6GB 15.3″ WUXGA 16",
+      "ALMACENAMIENTO: 512GB, 1TB",
+      "16gb",
+      "512gb"
+    ],
+    "imagen": "imagenes/74-dell-alienware-15-da15265.png",
+    "precio_final": 1270
+  },
+  {
+    "nombre": "ASUS VIVOBOOK S16 M5606KA",
+    "precio_original": 1195.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-vivobook-s16-m5606ka-ryzen-ai-7-350-24gb-1tb-ssd-16-fhd-120hz/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/07/vivo1-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "RYZEN AI 7-350 24GB 1TB SSD 16″ OLED 3K 120HZ $ 1",
+      "ryzen-ai-7-350-24gb-1tb-ssd-16-fhd-120hz"
+    ],
+    "imagen": "imagenes/75-asus-vivobook-s16-m5606ka.png",
+    "precio_final": 1270
+  },
+  {
+    "nombre": "DELL 16 PLUS",
+    "precio_original": 1225.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/dell-16-plus-intel-core-ultra-9-288v-32gb-ram-1tb-ssd-16-fhdtouch-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/FOTOS-WEB-19-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core Ultra 9 288V 32gb RAM 1tb SSD 16” FHD T",
+      "intel-core-ultra-9-288v-32gb-ram-1tb-ssd-16-fhdtou",
+      "ALMACENAMIENTO: 512GB, 1TB"
+    ],
+    "imagen": "imagenes/76-dell-16-plus.jpg",
+    "precio_final": 1300
+  },
+  {
+    "nombre": "Hp victus 15",
+    "precio_original": 1230.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/hp-victus-15-amd-ryzen-7-7445hs-16gb-ram-512gb-ssd-rtx-4050-15-6-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/07/FOTOS-WEB-3-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen 7-7445HS 16gb RAM 512gb SSD RTX 4050 1",
+      "5.6″"
+    ],
+    "imagen": "imagenes/77-hp-victus-15.jpg",
+    "precio_final": 1300
+  },
+  {
+    "nombre": "ASUS TUF A16 FA607NUG",
+    "precio_original": 1275.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-tuf-a16-fa607nug-amd-ryzen-7-7445hs-16gb-ram-512gb-ssd-rtx-4050-16-wuxga/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/11/13616.jpg-1024x1024.webp",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen 7-7445HS 16gb RAM 512gb SSD RTX 4050 1",
+      "RAM: 8GB, 16GB",
+      "6″"
+    ],
+    "imagen": "imagenes/78-asus-tuf-a16-fa607nug.webp",
+    "precio_final": 1350
+  },
+  {
+    "nombre": "ASUS ZENBOOK UX3405CA",
+    "precio_original": 1275.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-zenbook-ux3405ca-intel-core-ultra-7-255h-16gb-ram-512gb-ssd-14-oled-wuxgaw11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/FOTOS-WEB-33-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "intel-core-ultra-7-255h-16gb-ram-512gb-ssd-14-oled",
+      "Intel Core Ultra 7 255H 16gb RAM 512gb SSD 14” OLE"
+    ],
+    "imagen": "imagenes/79-asus-zenbook-ux3405ca.jpg",
+    "precio_final": 1350
+  },
+  {
+    "nombre": "MSI CYBORG 15",
+    "precio_original": 1295.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/msi-cyborg-15-a13ve-218us-intel-core-i7-13va-16gb-ram-512gb-ssd-rtx-4050-15-6-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2023/05/imageService-1024x1024.jpeg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I7-13620H 16gb RAM 512gb SSD RTX 4050 1",
+      "intel-core-i7-13va-16gb-ram-512gb-ssd-rtx-4050-15",
+      "MEMORIA RAM: 8GB, 16GB",
+      "5.6″"
+    ],
+    "imagen": "imagenes/80-msi-cyborg-15.jpg",
+    "precio_final": 1370
+  },
+  {
+    "nombre": "DELL 16 PLUS",
+    "precio_original": 1295.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/dell-16-plus-intel-core-ultra-9-288v-32gb-ram-1tb-ssd-16-wuxga-touch-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/FOTOS-WEB-19-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core Ultra 9 288V 32gb RAM 1tb SSD 16” FHD T",
+      "intel-core-ultra-9-288v-32gb-ram-1tb-ssd-16-wuxga",
+      "ALMACENAMIENTO: 512GB, 1TB"
+    ],
+    "imagen": "imagenes/81-dell-16-plus.jpg",
+    "precio_final": 1370
+  },
+  {
+    "nombre": "MSI THIN 15 B13VE",
+    "precio_original": 1345.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/msi-thin-15-b13ve-intel-core-i7-13620h-16gb-ram-512gb-ssd-rtx-4050-15-6-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/11/MSI2-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I7-13620H 16gb RAM 1TB SSD RTX 4050 15",
+      "intel-core-i7-13620h-16gb-ram-512gb-ssd-rtx-4050-1",
+      "MEMORIA RAM: 8GB, 16GB",
+      "6″"
+    ],
+    "imagen": "imagenes/82-msi-thin-15-b13ve.png",
+    "precio_final": 1420
+  },
+  {
+    "nombre": "LENOVO LOQ",
+    "precio_original": 1375.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/lenovo-loq-intel-core-i5-13450hx-16gb-ram-512gb-ssd-rtx-5050-15-6-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/12/pag5-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I5-13450HX 16gb RAM 512gb SSD RTX 5050",
+      "MEMORIA RAM: 8GB, 16GB",
+      "ALMACENAMIENTO: 512GB SSD, 1TB SSD",
+      "15.6″"
+    ],
+    "imagen": "imagenes/83-lenovo-loq.png",
+    "precio_final": 1450
+  },
+  {
+    "nombre": "ASUS TUF F16 FX608JH",
+    "precio_original": 1375.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-tuf-f16-fx608jh-intel-core-i5-13450hx-16gb-ram-512gb-ssd-rtx-5050-16-wuxga-165hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/05/FOTOS-WEB-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I5-13450HX 16gb RAM 512gb SSD RTX 5050",
+      "16″"
+    ],
+    "imagen": "imagenes/84-asus-tuf-f16-fx608jh.jpg",
+    "precio_final": 1450
+  },
+  {
+    "nombre": "MSI CYBORG 15 B2RWFKG CORE 5-210H",
+    "precio_original": 1375.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/msi-cyborg-15-b2rwfkg-core-5-210h-16gb-512-ssd-rtx5060-8gb-15-6fhd-144hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/12/CAT2-1-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "512GB SSD",
+      "15.6″FHD",
+      "16GB",
+      "8GB"
+    ],
+    "imagen": "imagenes/85-msi-cyborg-15-b2rwfkg-core-5-210h.png",
+    "precio_final": 1450
+  },
+  {
+    "nombre": "MSI CYBORG 15 AI B2HWEKG",
+    "precio_original": 1395.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/msi-cyborg-15-b2hwekg-ryzen-7-260-16gb-ram-1tb-ssd-rtx-5050-15-6-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/12/CAT2-1-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "ryzen-7-260-16gb-ram-1tb-ssd-rtx-5050-15-6-w11",
+      "RYZEN 7-260 16GB 1TB SSD RTX5050 8GB 15.6″FHD 144H"
+    ],
+    "imagen": "imagenes/86-msi-cyborg-15-ai-b2hwekg.png",
+    "precio_final": 1470
+  },
+  {
+    "nombre": "LENOVO LOQ",
+    "precio_original": 1445.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/lenovo-loq-amd-ryzen-7-250-16gb-ram-1tb-ssd-rtx-5050-15-6/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/04/LOQ-1-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen 7 250 16gb RAM 1tb SSD RTX 5050 15.6″",
+      "MEMORIA RAM: 8GB, 16GB",
+      "ALMACENAMIENTO: 512GB SSD, 1TB SSD"
+    ],
+    "imagen": "imagenes/87-lenovo-loq.png",
+    "precio_final": 1520
+  },
+  {
+    "nombre": "LENOVO IDEAPAD PRO 5",
+    "precio_original": 1495.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/lenovo-ideapad-pro-5-amd-ryzen-ai-7-350-16gb-ram-1tb-ssd-rtx-5050-16-oled-120hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/FOTOS-WEB-3-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD RYZEN AI 7 350 16gb RAM 1tb SSD RTX 5050 16″"
+    ],
+    "imagen": "imagenes/88-lenovo-ideapad-pro-5.jpg",
+    "precio_final": 1570
+  },
+  {
+    "nombre": "ASUS TUF A16 FA608UH",
+    "precio_original": 1495.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-tuf-a16-fa608uh-amd-ryzen-ai-7-260-16gb-ram-1tb-ssd-rtx-5050-16-wuxga-165hz/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/08/FOTOS-WEB-6-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen AI 7-260 16gb RAM 1tb SSD RTX 5050 16”",
+      "RAM: 8GB, 16GB"
+    ],
+    "imagen": "imagenes/89-asus-tuf-a16-fa608uh.jpg",
+    "precio_final": 1570
+  },
+  {
+    "nombre": "Dell aurora 16",
+    "precio_original": 1545.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/dell-aurora-16-intel-core-7-240h-16gb-ram-1tb-ssd-rtx-5050-16-wqxga-120hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/10/ALIEN1-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel CORE 7-240H 16gb RAM 1tb SSD RTX 5050 16″ WQ",
+      "intel-core-7-240h-16gb-ram-1tb-ssd-rtx-5050-16-wqx",
+      "ALMACENAMIENTO: 512GB, 1TB"
+    ],
+    "imagen": "imagenes/90-dell-aurora-16.png",
+    "precio_final": 1620
+  },
+  {
+    "nombre": "APPLE MacBook Air 13 M5",
+    "precio_original": 1595.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/apple-macbook-air-13-m5-16gb-512gb-ssd-13-6-liquid-retina-led-2560by1664-2/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/SKY-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "512GB SSD",
+      "13.6″",
+      "16GB",
+      "512gb"
+    ],
+    "imagen": "imagenes/91-apple-macbook-air-13-m5.jpg",
+    "precio_final": 1670
+  },
+  {
+    "nombre": "APPLE MacBook Air 13 M5",
+    "precio_original": 1595.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/apple-macbook-air-13-m5-16gb-512gb-ssd-13-6-liquid-retina-led-2560by1664-starlight/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/09/mba13-starlight-select-202503.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "512GB SSD",
+      "13.6″",
+      "16GB",
+      "512gb"
+    ],
+    "imagen": "imagenes/92-apple-macbook-air-13-m5.jpg",
+    "precio_final": 1670
+  },
+  {
+    "nombre": "ASUS TUF F16 FX608JHR I7-14650HX",
+    "precio_original": 1645.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-tuf-f16-fx608jhr-i7-14650hx-16gb-1tb-ssd-rtx5050-8gb-16-wuxga-165hz/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/07/TUF1-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "1TB SSD",
+      "16″",
+      "16GB",
+      "8GB",
+      "1tb"
+    ],
+    "imagen": "imagenes/93-asus-tuf-f16-fx608jhr-i7-14650hx.png",
+    "precio_final": 1720
+  },
+  {
+    "nombre": "ACER NITRO V16 AI",
+    "precio_original": 1675.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/acer-nitro-v16-ai-amd-ryzen-ai-7-350-16gb-ram-1tb-ssd-rtx-5060-16-wuxga-180hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/04/FOTOS-WEB-10-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen AI 7 350 16gb RAM 1tb SSD RTX 5060 16″"
+    ],
+    "imagen": "imagenes/94-acer-nitro-v16-ai.jpg",
+    "precio_final": 1750
+  },
+  {
+    "nombre": "ACER NITRO V 16 ANV16",
+    "precio_original": 1695.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/acer-nitro-v-16-anv16-amd-ryzen-7-260-16gb-ram-1tb-ssd-rtx-5070-16-wuxga-180hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/12/pag8-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen 7 260 16gb RAM 1tb SSD RTX 5070 16” WU",
+      "amd-ryzen-7-260-16gb-ram-1tb-ssd-rtx-5070-16-wux"
+    ],
+    "imagen": "imagenes/95-acer-nitro-v-16-anv16.png",
+    "precio_final": 1770
+  },
+  {
+    "nombre": "ACER NITRO V16 AI",
+    "precio_original": 1725.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/acer-nitro-v16-ai-amd-ryzen-ai-7350-16gb-ram-1tb-ssd-rtx-5060-16-wuxga-180hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/04/FOTOS-WEB-10-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen AI 7 350 16gb RAM 1tb SSD RTX 5060 16″",
+      "amd-ryzen-ai-7350-16gb-ram-1tb-ssd-rtx-5060-16-w"
+    ],
+    "imagen": "imagenes/96-acer-nitro-v16-ai.jpg",
+    "precio_final": 1800
+  },
+  {
+    "nombre": "ACER NITRO V16 ANV16",
+    "precio_original": 1725.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/acer-nitro-v16-anv16-intel-core-7-240h-32gb-ram-512gb-ssd-rtx-5060-16-wuxga-180hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/FOTOS-WEB-4-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core 7-240H 32gb RAM 512gb SSD RTX 5060 16″",
+      "intel-core-7-240h-32gb-ram-512gb-ssd-rtx-5060-16-w"
+    ],
+    "imagen": "imagenes/97-acer-nitro-v16-anv16.jpg",
+    "precio_final": 1800
+  },
+  {
+    "nombre": "ACER NITRO V 16S AI ANV16S",
+    "precio_original": 1745.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/acer-nitro-v-16s-ai-anv16s-amd-ryzen-ai-7-260-16gb-ram-512gb-ssd-rtx-5070-8gb-16-wuxga-165hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/11/nitro2-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen AI 7 260 16gb RAM 512gb SSD RTX 5070 8",
+      "16″"
+    ],
+    "imagen": "imagenes/98-acer-nitro-v-16s-ai-anv16s.png",
+    "precio_final": 1820
+  },
+  {
+    "nombre": "MSI CYBORG A15 AI B2HWFKG",
+    "precio_original": 1775.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/msi-cyborg-a15-ai-b2hwfkg-ryzen-9-270-16gb-1tb-ssd-rtx5060-8gb-15-6-fhd-144hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/12/CAT2-1-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "RYZEN 9-270 16GB 1TB SSD RTX5060 8GB 15.6″ FHD 144",
+      "ryzen-9-270-16gb-1tb-ssd-rtx5060-8gb-15-6-fhd-144h"
+    ],
+    "imagen": "imagenes/99-msi-cyborg-a15-ai-b2hwfkg.png",
+    "precio_final": 1850
+  },
+  {
+    "nombre": "LENOVO IDEAPAD PRO 5",
+    "precio_original": 1775.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/lenovo-ideapad-pro-5-intel-core-ultra-9-285h-32gb-ram-1tb-ssd-rtx-5050-8gb-16-2-8k-oled-120hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/FOTOS-WEB-3-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "INTEL CORE ULTRA 9 285H 32gb RAM 1tb SSD RTX 5050",
+      "16″",
+      "8GB"
+    ],
+    "imagen": "imagenes/100-lenovo-ideapad-pro-5.jpg",
+    "precio_final": 1850
+  },
+  {
+    "nombre": "MSI CYBORG 15 AI B2RWGKG",
+    "precio_original": 1785.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/msi-cyborg-15-ai-b2rwgkg-intel-core-7-240h-16gb-1tb-ssd-rtx5070-8gb-15-6-fhd-144hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/12/CAT2-1-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "INTEL CORE 7 240H 16GB 1TB SSD RTX5070 8GB 15.6″ F",
+      "intel-core-7-240h-16gb-1tb-ssd-rtx5070-8gb-15-6-fh"
+    ],
+    "imagen": "imagenes/101-msi-cyborg-15-ai-b2rwgkg.png",
+    "precio_final": 1860
+  },
+  {
+    "nombre": "DELL ALIENWARE 16 AURORA",
+    "precio_original": 1795.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/dell-alienware-16-aurora-intel-core-7-240-16gb-ram-1tb-ssd-rtx5060-16-2-5k-wqxga-120hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/07/ALIENWARE-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core 7 240 16gb RAM 1tb SSD RTX 5060 16″ 2.5",
+      "intel-core-7-240-16gb-ram-1tb-ssd-rtx5060-16-2-5k",
+      "ALMACENAMIENTO: 512GB, 1TB"
+    ],
+    "imagen": "imagenes/102-dell-alienware-16-aurora.png",
+    "precio_final": 1870
+  },
+  {
+    "nombre": "ACER NITRO V 16S AI ANV16S",
+    "precio_original": 1845.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/acer-nitro-v-16s-ai-anv16s-amd-ryzen-7-260-32gb-ram-1tb-ssd-rtx-5060-16-wuxga-180hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/11/nitro2-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen AI 7 260 32gb RAM 1tb SSD RTX 5060 8GB",
+      "amd-ryzen-7-260-32gb-ram-1tb-ssd-rtx-5060-16-wux",
+      "16″"
+    ],
+    "imagen": "imagenes/103-acer-nitro-v-16s-ai-anv16s.png",
+    "precio_final": 1920
+  },
+  {
+    "nombre": "ASUS TUF A18 FA608UM",
+    "precio_original": 1875.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-tuf-a16-fa608um-amd-ryzen-ai-7-260-16gb-ram-1tb-ssd-rtx-5060-18-wuxga-144hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/08/FOTOS-WEB-6-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen AI 7-260 16gb RAM 1tb SSD RTX 5060 18”",
+      "RAM: 8GB, 16GB"
+    ],
+    "imagen": "imagenes/104-asus-tuf-a18-fa608um.jpg",
+    "precio_final": 1950
+  },
+  {
+    "nombre": "DELL ALIENWARE 16 AURORA",
+    "precio_original": 1895.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/dell-alienware-16-aurora-intel-core-ultra-7-240h-32gb-ram-1tb-ssd-rtx-5060-16-wqxga-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/07/ALIENWARE-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core 7 240H 32gb RAM 1tb SSD RTX 5060 16″ WQ",
+      "intel-core-ultra-7-240h-32gb-ram-1tb-ssd-rtx-5060",
+      "ALMACENAMIENTO: 512GB, 1TB"
+    ],
+    "imagen": "imagenes/105-dell-alienware-16-aurora.png",
+    "precio_final": 1970
+  },
+  {
+    "nombre": "ASUS TUF F16 FX608JMR",
+    "precio_original": 1895.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-tuf-f16-fx608jmr-intel-core-i7-14650hx-32gb-ram-1tb-ssd-rtx-5060-16-wuxga-165hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/08/FOTOS-WEB-7-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I7-14650HX 32gb RAM 1tb SSD RTX 5060 16"
+    ],
+    "imagen": "imagenes/106-asus-tuf-f16-fx608jmr.jpg",
+    "precio_final": 1970
+  },
+  {
+    "nombre": "ASUS ROG STRIX G18 G814PH",
+    "precio_original": 1935.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-rog-strix-g18-g814ph-amd-ryzen-9-8940hx-16gb-ram-1tb-ssd-rtx-5050-18-wuxga-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/04/FOTOS-WEB-2-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen 9-8940HX 16gb RAM 1tb SSD RTX 5050 18″"
+    ],
+    "imagen": "imagenes/107-asus-rog-strix-g18-g814ph.jpg",
+    "precio_final": 2010
+  },
+  {
+    "nombre": "ASUS ROG STRIX G16 G615JMR",
+    "precio_original": 1945.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-rog-strix-g16-g615jmr-intel-core-i7-14650hx-16gb-ram-1tb-ssd-rtx-5060-16-wuxga-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/07/rog2-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I7-14650HX 16gb RAM 1tb SSD RTX 5060 16"
+    ],
+    "imagen": "imagenes/108-asus-rog-strix-g16-g615jmr.png",
+    "precio_final": 2020
+  },
+  {
+    "nombre": "ACER NITRO V17 AI ANV17",
+    "precio_original": 1945.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/acer-nitro-v17-ai-anv17-41-r75f-amd-ryzen-ai-7-260-32gb-ram-1tb-ssd-rtx-5070-8gb-17-3-fhd-144hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/11/nitro2-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen AI 7 260 32gb RAM 1Tb SSD RTX 5070 8GB",
+      "17.3″ FHD"
+    ],
+    "imagen": "imagenes/109-acer-nitro-v17-ai-anv17.png",
+    "precio_final": 2020
+  },
+  {
+    "nombre": "ASUS TUF F16 FX608JPR",
+    "precio_original": 1995.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-tuf-f16-fx608jpr-intel-core-i7-14650hx-16gb-ram-1tb-ssd-rtx-5070-16-wuxga-165hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/02/70c1bcb3-3a27-4401-ae39-3bcdb1e6759a.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I7-14650HX 16gb RAM 1tb SSD RTX 5070 16",
+      "RAM: 8GB, 16GB"
+    ],
+    "imagen": "imagenes/110-asus-tuf-f16-fx608jpr.jpg",
+    "precio_final": 2070
+  },
+  {
+    "nombre": "LENOVO LEGION PRO 5",
+    "precio_original": 2095.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/lenovo-legion-pro-5-amd-ryzen-9-8945hx-16gb-ram-1tb-ssd-rtx-5060-16-wqxga-240hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/01/cat1-1-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen 9-8945HX 16gb RAM 1tb SSD RTX 5060 16″",
+      "MEMORIA RAM: 8GB, 16GB",
+      "ALMACENAMIENTO: 512GB SSD, 1TB SSD"
+    ],
+    "imagen": "imagenes/111-lenovo-legion-pro-5.png",
+    "precio_final": 2170
+  },
+  {
+    "nombre": "ACER NITRO V16 ANV16",
+    "precio_original": 2095.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/acer-nitro-v16-anv16-intel-core-9-270h-32gb-ram-1tb-ssd-rtx-5070-8gb-16-wqxga-180hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/FOTOS-WEB-4-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core 9-270H 32gb RAM 1Tb SSD RTX 5070 8Gb 16"
+    ],
+    "imagen": "imagenes/112-acer-nitro-v16-anv16.jpg",
+    "precio_final": 2170
+  },
+  {
+    "nombre": "ASUS ROG STRIX G16 G614PM",
+    "precio_original": 2145.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-rog-strix-g16-g614pm-amd-ryzen-9-8940hx-16gb-ram-1tb-ssd-rtx-5060-16-wuxga-165hz/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/11/ROG1-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen 9-8940HX 16gb RAM 1tb SSD RTX 5060 16″"
+    ],
+    "imagen": "imagenes/113-asus-rog-strix-g16-g614pm.png",
+    "precio_final": 2220
+  },
+  {
+    "nombre": "ASUS ROG STRIX G16 G614FM",
+    "precio_original": 2195.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-rog-strix-g16-g614fm-amd-ryzen-9-9955hx-16gb-ram-1tb-ssd-rtx-5060-16-wuxga-165hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/08/LapAsus_RogStrixG16_r91.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen 9-9955HX 16gb RAM 1tb SSD RTX 5060 16”"
+    ],
+    "imagen": "imagenes/114-asus-rog-strix-g16-g614fm.jpg",
+    "precio_final": 2270
+  },
+  {
+    "nombre": "ACER PREDATOR HELIOS NEO 16S AI PHN16S",
+    "precio_original": 2195.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/acer-predator-helios-neo-16s-ai-phn16s-intel-core-ultra-9-275hx-16gb-1tb-ssd-rtx-5060-16-oled-240hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/FOTOS-WEB-24-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core ULTRA 9 275HX 16gb 1tb SSD RTX 5060 16″"
+    ],
+    "imagen": "imagenes/115-acer-predator-helios-neo-16s-ai-phn16s.jpg",
+    "precio_final": 2270
+  },
+  {
+    "nombre": "ASUS TUF F16 FX608JPR",
+    "precio_original": 2195.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-tuf-f16-fx608jpr-intel-core-i7-14650hx-32gb-ram-1tb-ssd-rtx-5070-16-wuxga-165hz-w11-copia/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/02/70c1bcb3-3a27-4401-ae39-3bcdb1e6759a.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I7-14650HX 32gb RAM 1tb SSD RTX 5070 16",
+      "RAM: 8GB, 16GB"
+    ],
+    "imagen": "imagenes/116-asus-tuf-f16-fx608jpr.jpg",
+    "precio_final": 2270
+  },
+  {
+    "nombre": "ASUS TUF A16 FA608UP",
+    "precio_original": 2295.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-tuf-a16-fa608up-amd-ryzen-9-270-32gb-ram-1tb-ssd-rtx-5070-16-wuxga-165hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/08/FOTOS-WEB-6-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen 9-270 32gb RAM 1tb SSD RTX 5070 16” WU",
+      "amd-ryzen-9-270-32gb-ram-1tb-ssd-rtx-5070-16-wux",
+      "RAM: 8GB, 16GB"
+    ],
+    "imagen": "imagenes/117-asus-tuf-a16-fa608up.jpg",
+    "precio_final": 2370
+  },
+  {
+    "nombre": "ASUS TUF F16 FX608LM",
+    "precio_original": 2295.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-tuf-f16-fx608lm-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-rtx-5060-16-wqxga-165hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/12/pag2-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core ULTRA 9 275HX 32gb RAM 1tb SSD RTX 5060",
+      "16″"
+    ],
+    "imagen": "imagenes/118-asus-tuf-f16-fx608lm.png",
+    "precio_final": 2370
+  },
+  {
+    "nombre": "ASUS ROG STRIX G16 G615LM",
+    "precio_original": 2395.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-rog-strix-g16-g615lm-intel-core-ultra-9-275hx-16gb-ram-1tb-ssd-rtx-5060-16-wqxga-240hz-w1/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/FOTOS-WEB-34-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core Ultra 9 275HX 16gb RAM 1tb SSD RTX 5060",
+      "16″"
+    ],
+    "imagen": "imagenes/119-asus-rog-strix-g16-g615lm.jpg",
+    "precio_final": 2470
+  },
+  {
+    "nombre": "LENOVO LEGION PRO 5",
+    "precio_original": 2395.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/lenovo-legion-pro-5-amd-ryzen-9-8945hx-32gb-ram-1tb-ssd-rtx-5060-16-wqxga-240hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/01/cat1-1-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen 9-8945HX 32Gb RAM 1tb SSD RTX 5060 16″",
+      "MEMORIA RAM: 8GB, 16GB",
+      "ALMACENAMIENTO: 512GB SSD, 1TB SSD"
+    ],
+    "imagen": "imagenes/120-lenovo-legion-pro-5.png",
+    "precio_final": 2470
+  },
+  {
+    "nombre": "ASUS ROG STRIX G18 G814PP",
+    "precio_original": 2395.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-rog-strix-g18-g814pp-amd-ryzen-9-8940hx-16gb-ram-1tb-ssd-rtx-5070-18-wuxga-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/04/FOTOS-WEB-2-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen 9-8940HX 16gb RAM 1tb SSD RTX 5070 18″"
+    ],
+    "imagen": "imagenes/121-asus-rog-strix-g18-g814pp.jpg",
+    "precio_final": 2470
+  },
+  {
+    "nombre": "ASUS ROG STRIX G16 G614PM",
+    "precio_original": 2445.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-rog-strix-g16-g614pm-amd-ryzen-9-8940hx-32gb-ram-1tb-ssd-rtx-5060-16-wuxga-165hz/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/12/ROG1-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen 9-8940HX 32gb RAM 1tb SSD RTX 5060 16″"
+    ],
+    "imagen": "imagenes/122-asus-rog-strix-g16-g614pm.png",
+    "precio_final": 2520
+  },
+  {
+    "nombre": "ASUS TUF F16 FX608LP",
+    "precio_original": 2445.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-tuf-f16-fx608lp-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-rtx-5070-16-wqxga-165hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/12/pag2-1-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core ULTRA 9 275HX 32gb RAM 1tb SSD RTX 5070",
+      "16″"
+    ],
+    "imagen": "imagenes/123-asus-tuf-f16-fx608lp.png",
+    "precio_final": 2520
+  },
+  {
+    "nombre": "ASUS ROG STRIX G16 G614PR",
+    "precio_original": 2475.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-rog-strix-g16-g614pr-amd-ryzen-9-8940hx-16gb-ram-1tb-ssd-rtx-5070ti-16-wuxga-165hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/08/FOTOS-WEB-1-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen 9-8940HX 16gb RAM 1tb SSD RTX 5070TI 1",
+      "6″"
+    ],
+    "imagen": "imagenes/124-asus-rog-strix-g16-g614pr.jpg",
+    "precio_final": 2550
+  },
+  {
+    "nombre": "DELLALIENWARE 16X AURORA",
+    "precio_original": 2475.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/dellalienware-16x-aurora-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-rtx-5060-16-wqxga-240hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/08/ALIEN1-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core ULTRA 9-275HX 32gb RAM 1tb SSD RTX 5060",
+      "ALMACENAMIENTO: 512GB, 1TB"
+    ],
+    "imagen": "imagenes/125-dellalienware-16x-aurora.png",
+    "precio_final": 2550
+  },
+  {
+    "nombre": "ASUS ROG ZEPHYRUS G16 GU605CP",
+    "precio_original": 2475.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-rog-zephyrus-g16-gu605cp-intel-core-ultra-9-285h-16gb-ram-1tb-ssd-rtx-5070-16-oled-wqxga-240hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/FOTOS-WEB-17-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core ULTRA 9 285H 16gb RAM 1tb SSD RTX 5070",
+      "16″"
+    ],
+    "imagen": "imagenes/126-asus-rog-zephyrus-g16-gu605cp.jpg",
+    "precio_final": 2550
+  },
+  {
+    "nombre": "ACER PREDATOR HELIOS NEO 16S AI PHN16S",
+    "precio_original": 2495.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/acer-predator-helios-neo-16s-ai-phn16s-intel-core-ultra-9-275hx-32gb-1tb-ssd-rtx-5060-16-oled-240hz-w11-copia/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/06/FOTOS-WEB-23-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core ULTRA 9 275HX 32gb 1tb SSD RTX 5060 16″"
+    ],
+    "imagen": "imagenes/127-acer-predator-helios-neo-16s-ai-phn16s.jpg",
+    "precio_final": 2570
+  },
+  {
+    "nombre": "MSI CROSSHAIR 17HX AI D2XWGKG",
+    "precio_original": 2495.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/msi-crosshair-17hx-ai-d2xwgkg-intel-core-ultra-9-275hx-16gb-ram-1tb-ssd-rtx-5070-17-qhd-240hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/09/msi1-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core Ultra 9 275HX 16gb RAM 1tb SSD RTX 5070",
+      "ALMACENAMIENTO: 512GB SSD, 1TB SSD",
+      "17″"
+    ],
+    "imagen": "imagenes/128-msi-crosshair-17hx-ai-d2xwgkg.png",
+    "precio_final": 2570
+  },
+  {
+    "nombre": "ACER PREDATOR HELIOS 16 AI",
+    "precio_original": 2545.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/acer-predator-helios-16-ai-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-rtx-5070-ti-16-wqxga-240hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/06/PREDATOR-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core ULTRA 9-275HX 16gb RAM 1tb SSD RTX 5070",
+      "intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-rtx-5070",
+      "16″",
+      "12Gb"
+    ],
+    "imagen": "imagenes/129-acer-predator-helios-16-ai.png",
+    "precio_final": 2620
+  },
+  {
+    "nombre": "ASUS ROG STRIX G16 G615LM-DS96",
+    "precio_original": 2595.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-rog-strix-g16-g615lm-ds96-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-rtx-5060-16-wqxga-240hz-w11-copia/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/03/FOTOS-WEB-9-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core Ultra 9 275HX 32gb RAM 1tb SSD RTX 5060",
+      "16″"
+    ],
+    "imagen": "imagenes/130-asus-rog-strix-g16-g615lm-ds96.jpg",
+    "precio_final": 2670
+  },
+  {
+    "nombre": "ASUS ROG STRIX G16 G614PR",
+    "precio_original": 2625.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-rog-strix-g16-g614pr-amd-ryzen-9-8940hx-32gb-ram-1tb-ssd-rtx-5070ti-16-wuxga-165hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/08/FOTOS-WEB-1-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen 9-8940HX 32gb RAM 1tb SSD RTX 5070TI 1",
+      "6″"
+    ],
+    "imagen": "imagenes/131-asus-rog-strix-g16-g614pr.jpg",
+    "precio_final": 2700
+  },
+  {
+    "nombre": "ASUS ROG STRIX G16 G615JPR",
+    "precio_original": 2645.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-rog-g16-g615jpr-intel-core-i9-14900hx-32gb-ram-1tb-ssd-rtx-5070-16-wuxga-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/10/ROG1-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core I9-14900HX 32gb RAM 1tb SSD RTX 5070 16"
+    ],
+    "imagen": "imagenes/132-asus-rog-strix-g16-g615jpr.png",
+    "precio_final": 2720
+  },
+  {
+    "nombre": "DELL ALIENWARE 16X AURORA",
+    "precio_original": 2650.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/dellalienware-16x-aurora-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-rtx-5070-16-qhd-240hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/08/FOTOS-WEB-9-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core Ultra 9 275HX 32gb RAM 1tb SSD RTX 5070",
+      "ALMACENAMIENTO: 512GB, 1TB",
+      "16″"
+    ],
+    "imagen": "imagenes/133-dell-alienware-16x-aurora.jpg",
+    "precio_final": 2720
+  },
+  {
+    "nombre": "ASUS ROG STRIX G615LP",
+    "precio_original": 2725.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-rog-g615lp-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-rtx-5070-16-wqxga-240hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/03/FOTOS-WEB-9-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core ULTRA 9 275HX 32gb RAM 1TB SSD RTX 5070",
+      "16″"
+    ],
+    "imagen": "imagenes/134-asus-rog-strix-g615lp.jpg",
+    "precio_final": 2800
+  },
+  {
+    "nombre": "ASUS ROG STRIX G18 G814FP",
+    "precio_original": 2745.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-rog-g18-g814fp-amd-ryzen-9-9955hx-32gb-ram-1tb-ssd-rtx-5070-18-wqxga-240hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/01/ASUS-ROG-Strix-G18-2025-18-Gaming-Laptop-Ryzen-9-TBD-32GB-RTX-50XX-1TB-SSD-G814FP-WS96_2dd9aaf0-96a1-4b0c-ac0a-0dd5fdc6c19b.08dd31a031cc36698c392020119a4801-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen 9-9955HX 32gb RAM 1tb SSD RTX 5070 18″"
+    ],
+    "imagen": "imagenes/135-asus-rog-strix-g18-g814fp.jpg",
+    "precio_final": 2820
+  },
+  {
+    "nombre": "LENOVO LEGION 7",
+    "precio_original": 2795.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/lenovo-legion-7-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-rtx-5070-16-wqxga-oled-240hz-w1/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/01/CAT4-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core ULTRA 9 275HX 32gb RAM 1tb SSD RTX 5070",
+      "MEMORIA RAM: 8GB, 16GB",
+      "ALMACENAMIENTO: 512GB SSD, 1TB SSD",
+      "16″"
+    ],
+    "imagen": "imagenes/136-lenovo-legion-7.png",
+    "precio_final": 2870
+  },
+  {
+    "nombre": "ASUS ROG STRIX G16 G615LR",
+    "precio_original": 2795.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-rog-strix-g16-g615lr-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-rtx-5070ti-16-wqxga-w11-3/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/07/FOTOS-WEB-15-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core Ultra 9 275HX 32gb RAM 1tb SSD RTX 5070",
+      "16″"
+    ],
+    "imagen": "imagenes/137-asus-rog-strix-g16-g615lr.jpg",
+    "precio_final": 2870
+  },
+  {
+    "nombre": "DELL ALIENWARE 16X AURORA",
+    "precio_original": 2875.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/dellalienware-16x-aurora-intel-core-ultra-9-275hx-32gb-ram-2tb-ssd-rtx-5070-16-qhd-240hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/08/FOTOS-WEB-9-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core Ultra 9 275HX 32gb RAM 2tb SSD RTX 5070",
+      "ALMACENAMIENTO: 512GB, 1TB",
+      "16″"
+    ],
+    "imagen": "imagenes/138-dell-alienware-16x-aurora.jpg",
+    "precio_final": 2950
+  },
+  {
+    "nombre": "DELL PRO MAX 16 PLUS",
+    "precio_original": 2875.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/dell-pro-max-16-plus-ultra-7-265hx-32gb-ram-1tb-ssd-rtx-pro-2000-blackwell-16-wuxga-w11-pro/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/04/FOTOS-WEB-11-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core Ultra 7 265HX 32gb RAM 1tb SSD RTX PRO",
+      "ALMACENAMIENTO: 512GB, 1TB",
+      "16″",
+      "32gb",
+      "1tb"
+    ],
+    "imagen": "imagenes/139-dell-pro-max-16-plus.jpg",
+    "precio_final": 2950
+  },
+  {
+    "nombre": "ACER PREDATOR HELIOS NEO 16S AI",
+    "precio_original": 2945.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/acer-predator-helios-neo-16s-ai-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-rtx-5070ti-16-oled-240hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/10/FOTOS-WEB-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core ULTRA 9-275HX 32gb RAM 1tb SSD RTX 5070",
+      "16″"
+    ],
+    "imagen": "imagenes/140-acer-predator-helios-neo-16s-ai.jpg",
+    "precio_final": 3020
+  },
+  {
+    "nombre": "ASUS ROG STRIX G16 G614PR",
+    "precio_original": 2975.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-rog-strix-g16-g614pr-amd-ryzen-9-8940hx-64gb-ram-2tb-ssd-rtx-5070ti-16-wuxga-165hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/08/FOTOS-WEB-1-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "AMD Ryzen 9-8940HX 64gb RAM 2tb SSD RTX 5070TI 1",
+      "6″"
+    ],
+    "imagen": "imagenes/141-asus-rog-strix-g16-g614pr.jpg",
+    "precio_final": 3050
+  },
+  {
+    "nombre": "ASUS ROG STRIX G16 G615LR",
+    "precio_original": 3275.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-rog-strix-g16-g615lr-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-rtx-5070ti-16-wqxga-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/07/FOTOS-WEB-15-1024x1024.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core Ultra 9 275HX 32gb RAM 1tb SSD RTX 5070",
+      "16″"
+    ],
+    "imagen": "imagenes/142-asus-rog-strix-g16-g615lr.jpg",
+    "precio_final": 3350
+  },
+  {
+    "nombre": "ASUS ROG STRIX G16 G615LW",
+    "precio_original": 3395.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-rog-strix-g16-g615lw-intel-core-ultra-9-275hx-16gb-ram-1tb-ssd-rtx-5080-16-wuxga-165hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2026/03/704275_957746_01_front_zoom.jpg",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core ULTRA 9 275HX 16gb RAM 1tb SSD RTX 5080",
+      "16″"
+    ],
+    "imagen": "imagenes/143-asus-rog-strix-g16-g615lw.jpg",
+    "precio_final": 3470
+  },
+  {
+    "nombre": "ASUS ROG STRIX G16 G615LW",
+    "precio_original": 3695.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-rog-g16-g615lw-intel-core-ultra-9-275hx-32gb-ram-1tb-ssd-rtx-5080-16-wqxga-240hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/12/Cat1-1024x1024.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core ULTRA 9 275HX 32gb RAM 1tb SSD RTX 5080",
+      "16″"
+    ],
+    "imagen": "imagenes/144-asus-rog-strix-g16-g615lw.png",
+    "precio_final": 3770
+  },
+  {
+    "nombre": "ASUS ROG STRIX SCAR G18 G835LX",
+    "precio_original": 5545.0,
+    "categoria": "Computadoras",
+    "url_origen": "https://digitalpcecuador.com/producto/asus-rog-strix-scar-g18-g835lx-intel-core-ultra-9-275hx-64gb-ram-2tb-ssd-rtx-5090-18-wqxga-240hz-w11/",
+    "imagen_candidata": "https://digitalpcecuador.com/wp-content/uploads/2025/05/h732.png",
+    "fuente": "DigitalPC",
+    "caracteristicas": [
+      "Intel Core Ultra 9-275HX 64gb RAM 2tb SSD RTX 5090",
+      "18″"
+    ],
+    "imagen": "imagenes/145-asus-rog-strix-scar-g18-g835lx.png",
+    "precio_final": 5620
+  },
+  {
+    "nombre": "Infinix SMART 6 HD",
+    "precio_original": 69.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/infinix-smart-6-hd-ram-2gb-32gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/08/infinix-smart-6-hd-azul.webp",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "2GB",
+      "32GB"
+    ],
+    "imagen": "imagenes/146-infinix-smart-6-hd.webp",
+    "precio_final": 110
+  },
+  {
+    "nombre": "Xiaomi 15 Ultra",
+    "precio_original": 99.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/kit-fotografico-del-xiaomi-15-ultra/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/04/kit15.webp",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "Kit fotográfico"
+    ],
+    "imagen": "imagenes/147-xiaomi-15-ultra.webp",
+    "precio_final": 140
+  },
+  {
+    "nombre": "Realme C21Y Ram4GB/64GB",
+    "precio_original": 99.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/realme-c21y-ram4gb-64gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/09/rmc21y-464gb-blu-9-1000x1000-1.jpg",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "4GB",
+      "64GB"
+    ],
+    "imagen": "imagenes/148-realme-c21y-ram4gb-64gb.jpg",
+    "precio_final": 140
+  },
+  {
+    "nombre": "Realme C11 (2021)",
+    "precio_original": 102.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/realme-c11/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2021/07/Realme-C11.jpg",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "Peso: 0.19 kg",
+      "2GB",
+      "32GB"
+    ],
+    "imagen": "imagenes/149-realme-c11-2021.jpg",
+    "precio_final": 150
+  },
+  {
+    "nombre": "Infinix Hot 20i",
+    "precio_original": 129.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/infinix-hot-20i-ram-43-gb-128gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/08/hot-20i.webp",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "3 GB",
+      "128GB"
+    ],
+    "imagen": "imagenes/150-infinix-hot-20i.webp",
+    "precio_final": 170
+  },
+  {
+    "nombre": "Tecno Spark Go 3 Ram4+4GB-128GB",
+    "precio_original": 135.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/tecno-spark-go-3-ram44gb-64gb-128gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/03/tecno-spark-go-3.webp",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "Almacenamiento: 128GB , 64GB",
+      "4GB",
+      "128GB",
+      "44gb",
+      "64gb"
+    ],
+    "imagen": "imagenes/151-tecno-spark-go-3-ram4-4gb-128gb.webp",
+    "precio_final": 180
+  },
+  {
+    "nombre": "LOGIC G1L GAMING PHONE+GAME PAD+BUDS",
+    "precio_original": 139.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/logic-g1l-gaming-phonegame-padbuds-ram-410gb-128gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/08/logi.png",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "128GB",
+      "10GB",
+      "410gb"
+    ],
+    "imagen": "imagenes/152-logic-g1l-gaming-phone-game-pad-buds.png",
+    "precio_final": 180
+  },
+  {
+    "nombre": "Samsung A07",
+    "precio_original": 139.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/samsung-a07-ram-4gb-128gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/02/a07.webp",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "4GB",
+      "128GB"
+    ],
+    "imagen": "imagenes/153-samsung-a07.webp",
+    "precio_final": 180
+  },
+  {
+    "nombre": "Infinix smart 20",
+    "precio_original": 139.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/infinix-smart-20-ram-4-4-gb-64gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/04/infinix-smart-20.jpg",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "Procesador: MediaTek Helio G81 Ultra",
+      "Memoria RAM: 4+4 GB",
+      "Capacidad de almacenamiento: 128GB , 64GB",
+      "Almacenamiento: 128GB , 256GB , 64GB",
+      "Pantalla: 6.78¨",
+      "Resolución de pantalla: 720 x 1600 píxeles"
+    ],
+    "imagen": "imagenes/154-infinix-smart-20.jpg",
+    "precio_final": 180
+  },
+  {
+    "nombre": "MOTOROLA G06",
+    "precio_original": 149.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/motorola-g06-ram-4gb4gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/03/g06.jpeg",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "4GB",
+      "256GB"
+    ],
+    "imagen": "imagenes/155-motorola-g06.jpg",
+    "precio_final": 190
+  },
+  {
+    "nombre": "TCL L10+",
+    "precio_original": 150.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/l10/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2021/04/1062.jpg",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "Peso: 0.17 kg"
+    ],
+    "imagen": "imagenes/156-tcl-l10.jpg",
+    "precio_final": 190
+  },
+  {
+    "nombre": "Honor X5c Plus",
+    "precio_original": 155.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/honor-x5c-plus-ram-4gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/05/x5plus.jpg",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "4GB",
+      "256GB"
+    ],
+    "imagen": "imagenes/157-honor-x5c-plus.jpg",
+    "precio_final": 200
+  },
+  {
+    "nombre": "Telefono Tecno Spark 30C",
+    "precio_original": 159.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/telefono-tecno-spark-30c-ram-4gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2024/11/spark30c.webp",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "Memoria Ram: 4GB , 8GB",
+      "4GB",
+      "256GB"
+    ],
+    "imagen": "imagenes/158-telefono-tecno-spark-30c.webp",
+    "precio_final": 200
+  },
+  {
+    "nombre": "OPPO A5 4G",
+    "precio_original": 165.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/oppo-a5-4g-ram-4gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/05/a5-4g.png",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "4GB",
+      "256GB"
+    ],
+    "imagen": "imagenes/159-oppo-a5-4g.png",
+    "precio_final": 210
+  },
+  {
+    "nombre": "Motorola moto g15 4G",
+    "precio_original": 169.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/motorola-moto-g15-ram-48gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/01/g15.png",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "Almacenamiento: 256GB , 512GB",
+      "512GB-256GB",
+      "512GB",
+      "256GB",
+      "48gb"
+    ],
+    "imagen": "imagenes/160-motorola-moto-g15-4g.png",
+    "precio_final": 210
+  },
+  {
+    "nombre": "Tecno Spark 9 Pro",
+    "precio_original": 175.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/tecno-spark-9-pro/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2022/11/Tecno-Spark-9-Pro-4.jpg",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "Tecno Spark 9 Pro"
+    ],
+    "imagen": "imagenes/161-tecno-spark-9-pro.jpg",
+    "precio_final": 220
+  },
+  {
+    "nombre": "Honor X6c",
+    "precio_original": 185.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/honor-x6c-ram-6gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/06/x6c.webp",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "Memoria Ram: 6GB , 8GB",
+      "256GB",
+      "6GB",
+      "8GB"
+    ],
+    "imagen": "imagenes/162-honor-x6c.webp",
+    "precio_final": 230
+  },
+  {
+    "nombre": "Motorola G17",
+    "precio_original": 185.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/motorola-g17-ram-4gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/05/moto-g17.jpg",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "4GB",
+      "256GB"
+    ],
+    "imagen": "imagenes/163-motorola-g17.jpg",
+    "precio_final": 230
+  },
+  {
+    "nombre": "Xiaomi Redmi 15c",
+    "precio_original": 189.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/xiaomi-redmi-15c-ram-8gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/09/redmi15c.webp",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "256gb",
+      "8gb"
+    ],
+    "imagen": "imagenes/164-xiaomi-redmi-15c.webp",
+    "precio_final": 230
+  },
+  {
+    "nombre": "Realme Narzo 30 (5G)",
+    "precio_original": 195.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/realme-narzo-30-5g/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2021/11/719tm7l723L._SL1500_.jpg",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "5G",
+      "Peso: 0.18 kg"
+    ],
+    "imagen": "imagenes/165-realme-narzo-30-5g.jpg",
+    "precio_final": 240
+  },
+  {
+    "nombre": "Celular Oukitel G1 24 (6+18) Gb",
+    "precio_original": 225.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/celular-oukitel-g1-24-618-gb-ram-256-gb-color-negro/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/01/g1.jpg",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "256 Gb"
+    ],
+    "imagen": "imagenes/166-celular-oukitel-g1-24-6-18-gb.jpg",
+    "precio_final": 270
+  },
+  {
+    "nombre": "Honor X7d",
+    "precio_original": 229.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/honor-x7d-ram-88gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/10/honor-x7d.jpg",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "Memoria Ram: 6GB , 8GB",
+      "256GB",
+      "6GB",
+      "88gb"
+    ],
+    "imagen": "imagenes/167-honor-x7d.jpg",
+    "precio_final": 270
+  },
+  {
+    "nombre": "Celular Zte Nubia Air 5G –",
+    "precio_original": 235.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/celular-zte-nubia-air-5g-ram-812-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/11/celular-zte-nubia-air-5g.png",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "5G",
+      "256GB"
+    ],
+    "imagen": "imagenes/168-celular-zte-nubia-air-5g.png",
+    "precio_final": 280
+  },
+  {
+    "nombre": "Honor 90 lite",
+    "precio_original": 239.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/honor-90-lite-ram-8gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/05/honor-90-lite-.jpg",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "8GB",
+      "256GB"
+    ],
+    "imagen": "imagenes/169-honor-90-lite.jpg",
+    "precio_final": 280
+  },
+  {
+    "nombre": "Infinix Hot 60 pro plus 8+8GB",
+    "precio_original": 255.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/infinix-hot-60-pro-plus-88gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/07/hot60pro.png",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "Infinix Hot 60 pro plus 8+8GB 256GB",
+      "8GB",
+      "256GB",
+      "88gb"
+    ],
+    "imagen": "imagenes/170-infinix-hot-60-pro-plus-8-8gb.png",
+    "precio_final": 300
+  },
+  {
+    "nombre": "SAMSUNG GALAXY A17",
+    "precio_original": 259.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/samsung-galaxy-a17-4gb-128gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/05/sam-a17-4g.webp",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "Almacenamiento: 128GB , 256GB",
+      "SAMSUNG GALAXY A17 8GB -256GB Androir",
+      "8GB",
+      "256GB",
+      "4gb",
+      "128gb"
+    ],
+    "imagen": "imagenes/171-samsung-galaxy-a17.webp",
+    "precio_final": 300
+  },
+  {
+    "nombre": "Xiaomi Mi 10 lite",
+    "precio_original": 269.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/xiaomi-mi-10-lite-128gb-6gb-ram-5g/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2023/08/logo-sin-fondo-1024x1024.png",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "6gb Ram",
+      "5G",
+      "Peso: 0.19 kg",
+      "128gb",
+      "6gb"
+    ],
+    "imagen": "imagenes/172-xiaomi-mi-10-lite.png",
+    "precio_final": 310
+  },
+  {
+    "nombre": "OPPO A5 5G",
+    "precio_original": 269.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/oppo-a5-ram-8gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/11/oppoa5.png",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "5G",
+      "256GB",
+      "8GB"
+    ],
+    "imagen": "imagenes/173-oppo-a5-5g.png",
+    "precio_final": 310
+  },
+  {
+    "nombre": "Tecno camon 18 premier",
+    "precio_original": 315.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/tecno-camon-18-premier/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2022/04/camon-.jpg",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "Peso: 0.2 kg"
+    ],
+    "imagen": "imagenes/174-tecno-camon-18-premier.jpg",
+    "precio_final": 360
+  },
+  {
+    "nombre": "HONOR X8d",
+    "precio_original": 319.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/honor-x8d-ram-8gb-256gb-512gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/03/honor-x8d.webp",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "Almacenamiento: 256GB , 512GB",
+      "8GB",
+      "256GB",
+      "512GB"
+    ],
+    "imagen": "imagenes/175-honor-x8d.webp",
+    "precio_final": 360
+  },
+  {
+    "nombre": "Realme P3 5G",
+    "precio_original": 329.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/realme-p3-5g-ram-8gb-12gb-256gb-512gb-control/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/09/realmemas-control.jpg",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "Almacenamiento: 256GB , 512GB",
+      "5G",
+      "8GB",
+      "12GB",
+      "256GB",
+      "512GB"
+    ],
+    "imagen": "imagenes/176-realme-p3-5g.jpg",
+    "precio_final": 370
+  },
+  {
+    "nombre": "Tecno Camón 50 pro",
+    "precio_original": 339.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/tecno-camon-50-pro-ram-88-gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/03/camon-con-audifonos.png",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "8 GB",
+      "256GB"
+    ],
+    "imagen": "imagenes/177-tecno-cam-n-50-pro.png",
+    "precio_final": 380
+  },
+  {
+    "nombre": "Samsung Galaxy A36 5G",
+    "precio_original": 349.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/samsung-galaxy-a36-5g-ram-8gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/04/a36-black-mtk.jpg",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "5G",
+      "256GB",
+      "8GB"
+    ],
+    "imagen": "imagenes/178-samsung-galaxy-a36-5g.jpg",
+    "precio_final": 390
+  },
+  {
+    "nombre": "XIAOMI POCO F4",
+    "precio_original": 399.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/xiaomi-poco-f4-ram-8gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2022/08/Nuevo-proyecto-11-1.png",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "Memoria Ram: 6GB , 8GB",
+      "Peso: 0.19 kg",
+      "256GB",
+      "8GB"
+    ],
+    "imagen": "imagenes/179-xiaomi-poco-f4.png",
+    "precio_final": 440
+  },
+  {
+    "nombre": "Honor Magic8 Lite",
+    "precio_original": 409.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/honor-magic8-lite-ram-8gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/01/magi-8lite.webp",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "Almacenamiento: 256GB , 512GB",
+      "8GB",
+      "256GB"
+    ],
+    "imagen": "imagenes/180-honor-magic8-lite.webp",
+    "precio_final": 450
+  },
+  {
+    "nombre": "Motorola Edge 70 Fusion",
+    "precio_original": 419.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/motorola-edge-70-fusion-ram-8gb-256gb-buds-motorola/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/04/70-fushion.png",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "8GB",
+      "256GB"
+    ],
+    "imagen": "imagenes/181-motorola-edge-70-fusion.png",
+    "precio_final": 460
+  },
+  {
+    "nombre": "Samsung Galaxy A37 5G",
+    "precio_original": 419.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/samsung-galaxy-a37-5g-ram-8gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/08/a37.webp",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "5G",
+      "8GB",
+      "256GB"
+    ],
+    "imagen": "imagenes/182-samsung-galaxy-a37-5g.webp",
+    "precio_final": 460
+  },
+  {
+    "nombre": "Samsung Galaxy A56 5G",
+    "precio_original": 439.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/samsung-galaxy-a56-5g-ram-12gb-256gb-2/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/04/a56.jpg",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "Almacenamiento: 128GB , 256GB",
+      "5G",
+      "256GB",
+      "12GB"
+    ],
+    "imagen": "imagenes/183-samsung-galaxy-a56-5g.jpg",
+    "precio_final": 480
+  },
+  {
+    "nombre": "Honor 600E",
+    "precio_original": 449.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/honor-600e-ram-8gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/06/honor-e.webp",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "8GB",
+      "256GB"
+    ],
+    "imagen": "imagenes/184-honor-600e.webp",
+    "precio_final": 490
+  },
+  {
+    "nombre": "Infinix Note 60 Pro 5G",
+    "precio_original": 459.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/infinix-note-60-pro-5g-ram-88-gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/02/note60pro.webp",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "5G",
+      "8 GB",
+      "256GB"
+    ],
+    "imagen": "imagenes/185-infinix-note-60-pro-5g.webp",
+    "precio_final": 500
+  },
+  {
+    "nombre": "Redmi Note 15 Pro Plus 5G",
+    "precio_original": 489.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/redmi-note-15-pro-plus-5g-ram-12gb-512gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/02/xiaomi-redmi-note15-pro-plus.png",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "5G",
+      "12GB",
+      "512GB"
+    ],
+    "imagen": "imagenes/186-redmi-note-15-pro-plus-5g.png",
+    "precio_final": 530
+  },
+  {
+    "nombre": "Oppo Reno13F 5G",
+    "precio_original": 499.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/reno13-f-5g-ram-12gb-512gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/11/reno-13f.jpg",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "5G",
+      "512GB IP69",
+      "12GB",
+      "512GB"
+    ],
+    "imagen": "imagenes/187-oppo-reno13f-5g.jpg",
+    "precio_final": 540
+  },
+  {
+    "nombre": "Oppo Reno14F",
+    "precio_original": 535.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/oppo-reno14f-ram-12gb-512gb-audifonos/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/01/reno.webp",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "12GB",
+      "512GB"
+    ],
+    "imagen": "imagenes/188-oppo-reno14f.webp",
+    "precio_final": 580
+  },
+  {
+    "nombre": "Samsung Galaxy A57",
+    "precio_original": 549.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/samsung-galaxy-a57-ram-8gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/05/a57.png",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "Memoria Ram: 12GB , 8GB",
+      "8GB",
+      "12GB",
+      "256GB"
+    ],
+    "imagen": "imagenes/189-samsung-galaxy-a57.png",
+    "precio_final": 590
+  },
+  {
+    "nombre": "Xiaomi Poco x8 Pro",
+    "precio_original": 569.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/xiaomi-poco-x8-pro-ram-12gb-512gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/05/x8-pro.jpg",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "512GB",
+      "12GB"
+    ],
+    "imagen": "imagenes/190-xiaomi-poco-x8-pro.jpg",
+    "precio_final": 610
+  },
+  {
+    "nombre": "IPHONE 11 PRO MAX OPEN BOX A",
+    "precio_original": 579.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/iphone-11-pro-max-open-box/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2022/09/11-pro-max-p.jpg",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "Peso: 0.22 kg",
+      "IPHONE 11 PRO MAX OPEN BOX A 256GB",
+      "256GB"
+    ],
+    "imagen": "imagenes/191-iphone-11-pro-max-open-box-a.jpg",
+    "precio_final": 620
+  },
+  {
+    "nombre": "Infinix GT 50 Pro HydroFlow y gatillos laterales",
+    "precio_original": 599.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/infinix-gt-50-pro-hydroflow-y-gatillos-laterales-ram-1212-gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/07/infinix-gt-50-pro-launched-in-ph-c.jpg",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "12 GB",
+      "256GB"
+    ],
+    "imagen": "imagenes/192-infinix-gt-50-pro-hydroflow-y-gatillos-laterales.jpg",
+    "precio_final": 640
+  },
+  {
+    "nombre": "Samsung Galaxy S25 FE",
+    "precio_original": 639.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/samsung-galaxy-s25-fe-ram-8gb-256gb-5g/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/12/samsung_galaxy_s25_fe.png",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "256GB 5G",
+      "5G",
+      "8GB",
+      "256GB"
+    ],
+    "imagen": "imagenes/193-samsung-galaxy-s25-fe.png",
+    "precio_final": 680
+  },
+  {
+    "nombre": "Honor 600",
+    "precio_original": 659.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/honor-600-ram-8gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/06/honor-600.webp",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "8GB",
+      "256GB"
+    ],
+    "imagen": "imagenes/194-honor-600.webp",
+    "precio_final": 700
+  },
+  {
+    "nombre": "IPhone 15",
+    "precio_original": 789.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/iphone-15-128gb-sellado/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2024/02/iphone-15-negro-.png",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "128GB (Sellado) SIM FISICO",
+      "6GB",
+      "128GB"
+    ],
+    "imagen": "imagenes/195-iphone-15.png",
+    "precio_final": 830
+  },
+  {
+    "nombre": "Samsung Galaxy Z Flip7 FE",
+    "precio_original": 819.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/samsung-galaxy-z-flip7-fe-ram-8gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/05/flip-7-fe.webp",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "8GB",
+      "256GB"
+    ],
+    "imagen": "imagenes/196-samsung-galaxy-z-flip7-fe.webp",
+    "precio_final": 860
+  },
+  {
+    "nombre": "iPhone 16 SIM-FISICO",
+    "precio_original": 919.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/iphone-16e-e-sim-ram-8gb-128gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/04/iphone16-rosa-mtk.png",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "8GB",
+      "128GB"
+    ],
+    "imagen": "imagenes/197-iphone-16-sim-fisico.png",
+    "precio_final": 960
+  },
+  {
+    "nombre": "Samsung Galaxy S25 Ultra Ram12GB/512 GB",
+    "precio_original": 999.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/samsung-galaxy-s25-ultra-ram12gb-512-gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/01/samsung-galaxy-s25-ultra-mtk.jpg",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "12GB",
+      "512 GB"
+    ],
+    "imagen": "imagenes/198-samsung-galaxy-s25-ultra-ram12gb-512-gb.jpg",
+    "precio_final": 1040
+  },
+  {
+    "nombre": "iPhone 17 esim",
+    "precio_original": 1029.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/iphone-17-ram-8gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/10/iphone-17.webp",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "8GB",
+      "256GB"
+    ],
+    "imagen": "imagenes/199-iphone-17-esim.webp",
+    "precio_final": 1070
+  },
+  {
+    "nombre": "Xiaomi 17",
+    "precio_original": 1089.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/xiaomi-17-ram-12gb-512gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/03/xiaomi-17-12gb512gb-leica.jpg",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "12GB",
+      "512GB"
+    ],
+    "imagen": "imagenes/200-xiaomi-17.jpg",
+    "precio_final": 1130
+  },
+  {
+    "nombre": "Samsung Galaxy S26 Ultra",
+    "precio_original": 1319.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/samsung-galaxy-s26-ultra-ram-12gb-512gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/03/s26-ultra.webp",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "512GB",
+      "12GB"
+    ],
+    "imagen": "imagenes/201-samsung-galaxy-s26-ultra.webp",
+    "precio_final": 1360
+  },
+  {
+    "nombre": "iPhone 17 Pro",
+    "precio_original": 1435.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/iphone-17-pro-ram-8gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/10/iphone-17-pro-mtk.webp",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "12GB",
+      "256GB",
+      "8gb"
+    ],
+    "imagen": "imagenes/202-iphone-17-pro.webp",
+    "precio_final": 1480
+  },
+  {
+    "nombre": "Xiaomi 17 Ultra",
+    "precio_original": 1459.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/xiaomi-17-ultra-ram-16gb-512gb-camara-leica/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/03/xiaomi-17-ultra.avif",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "16GB",
+      "512GB"
+    ],
+    "imagen": "https://mundotek.com.ec/wp-content/uploads/2026/03/xiaomi-17-ultra.avif",
+    "precio_final": 1500
+  },
+  {
+    "nombre": "iPhone 17 Pro Max",
+    "precio_original": 1509.0,
+    "categoria": "Celulares",
+    "url_origen": "https://mundotek.com.ec/producto/iphone-17-pro-max-ram-12gb-256gb/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/10/iphone-17-pro-max-mtk.webp",
+    "fuente": "MundoTek",
+    "caracteristicas": [
+      "12GB",
+      "256GB"
+    ],
+    "imagen": "imagenes/204-iphone-17-pro-max.webp",
+    "precio_final": 1550
+  },
+  {
+    "nombre": "Box Xiaomi Mi Box S 3era Generacion 4K",
+    "precio_original": 89.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/tv-box-xiaomi-mi-box-s/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2021/06/tvbox2.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "TV Box Xiaomi Mi Box S 3era Generacion 4K",
+      "Peso: 0.14 kg"
+    ],
+    "imagen": "imagenes/205-box-xiaomi-mi-box-s-3era-generacion-4k.webp",
+    "precio_final": 160
+  },
+  {
+    "nombre": "House Tv HT-32 32 » hd led",
+    "precio_original": 135.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/smart-tv-house-tv-ht-32-32-fhd-led-android-14-definicion-full-hd/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/07/hausetv.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 32″",
+      "android",
+      "Smart tv"
+    ],
+    "imagen": "imagenes/206-house-tv-ht-32-32-hd-led.jpg",
+    "precio_final": 210
+  },
+  {
+    "nombre": "Philips ph 32gfs fisdb 32",
+    "precio_original": 155.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/smart-tv-philips-ph-32gfs-fisdb-32-hd-led-android-14-google-tv-mando-de-voz-sin-bordes/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/11/tv-philips32.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 32″",
+      "android",
+      "google tv",
+      "Smart tv"
+    ],
+    "imagen": "imagenes/207-philips-ph-32gfs-fisdb-32.jpg",
+    "precio_final": 230
+  },
+  {
+    "nombre": "RCA 32 HDRC",
+    "precio_original": 155.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-rca-32-hdrc/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/08/tvrca.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 32″",
+      "Televisor RCA 32 HDRC"
+    ],
+    "imagen": "imagenes/208-rca-32-hdrc.webp",
+    "precio_final": 230
+  },
+  {
+    "nombre": "Riviera RI-RLED – GLT32TPXM 32 » hd (1366×768) led hdr",
+    "precio_original": 159.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/smart-tv-riviera-ri-rled-glt32tpxm-32-hd-1366x768-led-hdr-android-google-tv-mando-de-voz/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2024/10/ri-rled-glt32tpxm.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "android",
+      "google tv",
+      "Smart tv"
+    ],
+    "imagen": "imagenes/209-riviera-ri-rled-glt32tpxm-32-hd-1366-768-led-hdr.jpg",
+    "precio_final": 230
+  },
+  {
+    "nombre": "Innova IN-LED-32HD-GTV-MP 32 » hd led",
+    "precio_original": 159.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/13477/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/01/in-led32hd-gtv-mp.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 32″",
+      "android",
+      "google tv",
+      "Smart tv"
+    ],
+    "imagen": "imagenes/210-innova-in-led-32hd-gtv-mp-32-hd-led.jpg",
+    "precio_final": 230
+  },
+  {
+    "nombre": "Hisense 32Q4Q Qled sistema operativo Vida",
+    "precio_original": 169.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/tv-hisense-32q4q-qled-sistema-operativo-vida/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/06/hisense-serie-a4-smart-tv-a4q.png",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 32″",
+      "Tv Hisense 32Q4Q Qled sistema operativo Vida"
+    ],
+    "imagen": "imagenes/211-hisense-32q4q-qled-sistema-operativo-vida.png",
+    "precio_final": 240
+  },
+  {
+    "nombre": "Motorola 32Tmkfhd",
+    "precio_original": 170.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/tv-motorola-32tmkgfhd-android-11-32pulgadas/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2024/03/32tmkgfhd.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 32″",
+      "Tv Motorola 32Tmkfhd GOOGLE TV 32PULGADAS",
+      "GOOGLE TV",
+      "android",
+      "32PULGADAS"
+    ],
+    "imagen": "imagenes/212-motorola-32tmkfhd.jpg",
+    "precio_final": 240
+  },
+  {
+    "nombre": "Google QLED Riviera",
+    "precio_original": 175.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-google-qled-riviera-32-glt32tpq10/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/11/ri-rled-glt32tpq10.jpeg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 32″",
+      "Televisor Google QLED Riviera 32″ GLT32TPQ10",
+      "32″"
+    ],
+    "imagen": "imagenes/213-google-qled-riviera.jpg",
+    "precio_final": 250
+  },
+  {
+    "nombre": "Tcl 32S5K 32 » fhd qled",
+    "precio_original": 185.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/smart-tv-tcl-32s5k-32-fhd-qled-android-14-google-tv/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/09/s5k32.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 32″",
+      "android",
+      "google tv",
+      "Smart tv"
+    ],
+    "imagen": "imagenes/214-tcl-32s5k-32-fhd-qled.jpg",
+    "precio_final": 260
+  },
+  {
+    "nombre": "Google LED HD Indurama",
+    "precio_original": 185.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-google-led-hd-indurama-32-32tikgf5hd/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/03/32tikgf5hd.jpeg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 32″",
+      "Televisor Google LED HD Indurama 32″ 32TIKGF5HD",
+      "32″"
+    ],
+    "imagen": "imagenes/215-google-led-hd-indurama.jpg",
+    "precio_final": 260
+  },
+  {
+    "nombre": "HouseTV Televisor HouseTV",
+    "precio_original": 185.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/housetv-televisor-housetv-40-android-14/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/05/tv40.png",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "HouseTV Televisor HouseTV 40″ Android 14",
+      "Pulgadas: 40″",
+      "40″",
+      "Android"
+    ],
+    "imagen": "imagenes/216-housetv-televisor-housetv.png",
+    "precio_final": 260
+  },
+  {
+    "nombre": "Lg 32lr650bpsa",
+    "precio_original": 199.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/pantalla-lg-smart-tv-32-smart-tv-con-thinq-ai-32lr650bpsa/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/01/32lr650bpsa.avif",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 32″",
+      "LG SMART TV 32» SMART TV con ThinQ AI 32LR650BPSA",
+      "SMART TV"
+    ],
+    "imagen": "https://mundotek.com.ec/wp-content/uploads/2025/01/32lr650bpsa.avif",
+    "precio_final": 270
+  },
+  {
+    "nombre": "House Tv HT-43 43 » fhd led",
+    "precio_original": 200.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/smart-tv-house-tv-ht-43-43-fhd-led-android-14-definicion-full-hd/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/07/hausetv.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 43″",
+      "android",
+      "Smart tv"
+    ],
+    "imagen": "imagenes/218-house-tv-ht-43-43-fhd-led.jpg",
+    "precio_final": 270
+  },
+  {
+    "nombre": "Rca 40fhdrc 40",
+    "precio_original": 215.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/tv-rca-40fhdrc-40-fhd-led-android-11-google-tv-dolby-audio-bluetooth/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/11/40fhdrc-full-hd.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Tv Rca 40FHDRC 40 » fhd led google tv dolby audio bluetooth",
+      "Pulgadas: 40″",
+      "google tv",
+      "android"
+    ],
+    "imagen": "imagenes/219-rca-40fhdrc-40.jpg",
+    "precio_final": 290
+  },
+  {
+    "nombre": "Innova in tvled 40gfhd mp",
+    "precio_original": 219.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/mart-tv-innova-in-tvled-40gfhd-mp-40-fhd-led-android-11-google/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/07/40gfhd-mp-google-tv.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "mart tv Innova IN-TVLED-40GFHD-MP 40 » fhd led android 11 google",
+      "Pulgadas: 40″",
+      "android"
+    ],
+    "imagen": "imagenes/220-innova-in-tvled-40gfhd-mp.jpg",
+    "precio_final": 290
+  },
+  {
+    "nombre": "RCA 43 FHDRC",
+    "precio_original": 239.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-rca-43-fhdrc/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/08/43fhdrc.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 43″",
+      "Televisor RCA 43 FHDRC"
+    ],
+    "imagen": "imagenes/221-rca-43-fhdrc.webp",
+    "precio_final": 310
+  },
+  {
+    "nombre": "Motorola 43mknfhd/",
+    "precio_original": 240.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-led-43-google-tv-motorola-43mknfhd/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/05/43mknfhd.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Televisor LED 43″ GOOGLE TV MOTOROLA 43MKNFHD",
+      "Pulgadas: 43″",
+      "43″",
+      "GOOGLE TV"
+    ],
+    "imagen": "imagenes/222-motorola-43mknfhd.jpg",
+    "precio_final": 310
+  },
+  {
+    "nombre": "Philips ph 43gfs fisdb 43",
+    "precio_original": 245.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/smart-tv-philips-ph-43gfs-fisdb-43-fhd-led-android-14-mando-2/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/11/philips-43-gfs-fisdb-1.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 43″",
+      "android",
+      "Smart tv"
+    ],
+    "imagen": "imagenes/223-philips-ph-43gfs-fisdb-43.jpg",
+    "precio_final": 320
+  },
+  {
+    "nombre": "43 Pulgadas TCL (43S5400)",
+    "precio_original": 249.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/tv-32-pulgadas-tcl-43s5400/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2023/08/s5400-front-.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 43″",
+      "Tv 43 Pulgadas TCL (43S5400)",
+      "43 Pulgadas"
+    ],
+    "imagen": "imagenes/224-43-pulgadas-tcl-43s5400.jpg",
+    "precio_final": 320
+  },
+  {
+    "nombre": "Innova in",
+    "precio_original": 249.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/smart-tv-innova-in-led-43fhd-gtv-mp-43-fhd-led-android-14-google-tv/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/12/tvled-43gfhd.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 43″",
+      "android",
+      "google tv",
+      "Smart tv"
+    ],
+    "imagen": "imagenes/225-innova-in.jpg",
+    "precio_final": 320
+  },
+  {
+    "nombre": "Hyundai FHD",
+    "precio_original": 275.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/tv-hyundai-fhd-43-pulgadas-hyled4326g-google-tv/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/06/hyled4326g.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "TV Hyundai FHD 43 pulgadas HYLED4326G Google TV",
+      "Pulgadas: 43″",
+      "43 pulgadas",
+      "Google TV"
+    ],
+    "imagen": "imagenes/226-hyundai-fhd.jpg",
+    "precio_final": 350
+  },
+  {
+    "nombre": "Tcl 43S5K 43 » Qled",
+    "precio_original": 275.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/tv-tcl-43s5k-43-fhd-qled-android-14-google-tv/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/11/43s5k.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "TV Tcl 43S5K 43 » Qled android 14 google tv",
+      "Pulgadas: 43″",
+      "android",
+      "google tv"
+    ],
+    "imagen": "imagenes/227-tcl-43s5k-43-qled.jpg",
+    "precio_final": 350
+  },
+  {
+    "nombre": "Riviera ri rled glt43tpxm 43",
+    "precio_original": 289.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/smart-tv-riviera-ri-rled-glt43tpxm-43-fhd-1920x1080-led-hdr-android-google-tv-mando-de-voz/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2024/10/riviera-43.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 43″",
+      "android",
+      "Smart tv"
+    ],
+    "imagen": "imagenes/228-riviera-ri-rled-glt43tpxm-43.webp",
+    "precio_final": 360
+  },
+  {
+    "nombre": "Tcl 43%e2%80%b3",
+    "precio_original": 299.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/tv-tcl-43%e2%80%b3-4k-hdr-google-tv-p635/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2022/11/Captura-de-pantalla_20221130_173941.png",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "TV TCL 43″ 4K HDR GOOGLE TV (P635)",
+      "Pulgadas: 43″",
+      "43″ 4K",
+      "GOOGLE TV"
+    ],
+    "imagen": "imagenes/229-tcl-43-e2-80-b3.png",
+    "precio_final": 370
+  },
+  {
+    "nombre": "INDURAMA TV 43TIKJ5UHD",
+    "precio_original": 309.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/smart-tv-indurama-tv-43tikjuhd-43pulgadas/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2024/02/tikhudhd.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 43″",
+      "SMART TV",
+      "43Pulgadas"
+    ],
+    "imagen": "imagenes/230-indurama-tv-43tikj5uhd.webp",
+    "precio_final": 380
+  },
+  {
+    "nombre": "Lg 43pulgadas",
+    "precio_original": 325.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-lg-43pulgadas-uhd-ai-43ua75-4k-smart-tv-2025/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/10/43ua75.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 43″",
+      "Televisor LG 43pulgadas UHD AI 43UA75 4K Smart TV 2025",
+      "43pulgadas UHD",
+      "Smart TV",
+      "43pulgadas"
+    ],
+    "imagen": "imagenes/231-lg-43pulgadas.webp",
+    "precio_final": 400
+  },
+  {
+    "nombre": "Samsung 50u8000",
+    "precio_original": 339.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-samsung-led-50%e2%80%b3-pulgadas-crystal-uhd-4k-50u8000/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/04/televisor-samsung-led-50-pulgadas-mtk.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 50″",
+      "Televisor Samsung LED 50″ Pulgadas Crystal UHD 4K 50U8000",
+      "50″"
+    ],
+    "imagen": "imagenes/232-samsung-50u8000.webp",
+    "precio_final": 410
+  },
+  {
+    "nombre": "Rca uhdrc",
+    "precio_original": 340.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-rca-50-pulgadas-uhdrc/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/08/50uhdrc.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 50″",
+      "Televisor RCA 50 Pulgadas UHDRC",
+      "50 Pulgadas UHD"
+    ],
+    "imagen": "imagenes/233-rca-uhdrc.webp",
+    "precio_final": 410
+  },
+  {
+    "nombre": "Innova IN LED 50UHD GTV",
+    "precio_original": 345.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/tv-innova-in-led-50uhd-gtv-50-google-tv/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2024/10/50uhd.png",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Sistema Operativo: : Google TV – Ultra High Definition 4K",
+      "TV Innova IN LED 50UHD GTV 50″ GOOGLE TV",
+      "Pulgadas: : Smart TV de 50»",
+      "Resolución: : 3840 x 2160 Ultra High Definition 4K",
+      "Pulgadas: 50″",
+      "Contraste: : 5000: 1"
+    ],
+    "imagen": "imagenes/234-innova-in-led-50uhd-gtv.png",
+    "precio_final": 420
+  },
+  {
+    "nombre": "Tcl 50S5K 50 » fhd qled",
+    "precio_original": 349.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/smart-tv-tcl-50s5k-50-fhd-qled-android-14-google-tv-panel-hva-qled/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/09/s5k.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 50″",
+      "android",
+      "google tv",
+      "Smart tv"
+    ],
+    "imagen": "imagenes/235-tcl-50s5k-50-fhd-qled.jpg",
+    "precio_final": 420
+  },
+  {
+    "nombre": "RIVIERA QLED 4K -GLT50TPQ10",
+    "precio_original": 369.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/tv-riviera-qled-4k-glt50tpq10-50%e2%80%b3-google-tv/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/11/rled-glt50tpq10.png",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "TV RIVIERA QLED 4K -GLT50TPQ10 50″ GOOGLE TV",
+      "Pulgadas: 50″",
+      "50″",
+      "GOOGLE TV"
+    ],
+    "imagen": "imagenes/236-riviera-qled-4k--glt50tpq10.png",
+    "precio_final": 440
+  },
+  {
+    "nombre": "Crystal UHD DU7000 4K de 50” con sistema operativo Tizen",
+    "precio_original": 369.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-inteligente-crystal-uhd-du7000-4k-de-50-con-sistema-operativo-tizen-oferta-de-verano/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/01/du7000-mtk.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Televisor inteligente Crystal UHD DU7000 4K de 50” con sistema operativo Tizen",
+      "Pulgadas: 50″",
+      "inteligente Crystal UHD DU7000 4K de 50” con siste",
+      "inteligente-crystal-uhd-du7000-4k-de-50-con-sistem"
+    ],
+    "imagen": "imagenes/237-crystal-uhd-du7000-4k-de-50-con-sistema-operativo-tizen.webp",
+    "precio_final": 440
+  },
+  {
+    "nombre": "Indurama LED 4K50 Pulgadas (50TIKGF2GUHD",
+    "precio_original": 379.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/tv-indurama-qled-50-pulgadas-50tikgf2guhd-google-tv/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2023/10/d_nq_np_783527-mec53271187298_012023-o.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Tv Indurama LED 4K50 Pulgadas (50TIKGF2GUHD Google Tv)",
+      "Pulgadas: 50″",
+      "50 Pulgadas",
+      "Google Tv"
+    ],
+    "imagen": "imagenes/238-indurama-led-4k50-pulgadas-50tikgf2guhd.webp",
+    "precio_final": 450
+  },
+  {
+    "nombre": "Innova in",
+    "precio_original": 379.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/smart-tv-innova-in-led-55uhd-gtv-mp-55-4k-uhd-led/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2024/12/in-led55mtk.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 55″",
+      "4k uhd",
+      "Smart tv"
+    ],
+    "imagen": "imagenes/239-innova-in.jpg",
+    "precio_final": 450
+  },
+  {
+    "nombre": "Riviera rled glt55tpx9 55",
+    "precio_original": 399.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/smart-tv-riviera-rled-glt55tpx9-55-4k-uhd-led-android-google-tv-color-negro/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/05/google-tv-glt55px9.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 55″",
+      "4k uhd",
+      "android",
+      "google tv",
+      "Smart tv"
+    ],
+    "imagen": "imagenes/240-riviera-rled-glt55tpx9-55.jpg",
+    "precio_final": 470
+  },
+  {
+    "nombre": "LG UHD AI 50UA7500 4K",
+    "precio_original": 409.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-lg-uhd-ai-50ua7500-4k-smart-tv/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/03/50ua7500.jpeg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 50″",
+      "Televisor LG UHD AI 50UA7500 4K Smart TV",
+      "Smart TV"
+    ],
+    "imagen": "imagenes/241-lg-uhd-ai-50ua7500-4k.jpg",
+    "precio_final": 480
+  },
+  {
+    "nombre": "Tcl v6c televisor",
+    "precio_original": 415.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-led-55-pulgadas-tcl-v6c-televisor-4k-hdr-smart-tv-con-tecnologia-de-google-tv/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/02/tcl_55v6cuk_mtk.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "55 Pulgadas",
+      "Google TV",
+      "Smart TV"
+    ],
+    "imagen": "imagenes/242-tcl-v6c-televisor.jpg",
+    "precio_final": 490
+  },
+  {
+    "nombre": "LG UHD 50» UR7300 4K",
+    "precio_original": 419.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/lg-uhd-50-ur7300-4k-smart-tv-con-thinq-ai-4k-procesador-inteligente/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2023/07/image-1.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "LG UHD 50» UR7300 4K Smart TV con ThinQ AI , 4K Procesador Inteligente",
+      "Pulgadas: 50″",
+      "Smart TV",
+      "Inteligente https",
+      "inteligente"
+    ],
+    "imagen": "imagenes/243-lg-uhd-50-ur7300-4k.jpg",
+    "precio_final": 490
+  },
+  {
+    "nombre": "Hisense 55%e2%80%b3",
+    "precio_original": 419.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-tv-hisense-55%e2%80%b3-led-4k-smart-vidaa/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2024/05/tv-hisense-55-55a6h.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Tv Hisense 55″ LED 4K Smart VIDAA 55A6H",
+      "Pulgadas: 55″",
+      "55″",
+      "Peso: 16910 g",
+      "Dimensiones: 13 × 86 × 86 cm"
+    ],
+    "imagen": "imagenes/244-hisense-55-e2-80-b3.jpg",
+    "precio_final": 490
+  },
+  {
+    "nombre": "Hisense 55Q6QV 55 » 4k uhd QLED Vidaa",
+    "precio_original": 419.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/smart-tv-hisense-55q6qv-55-4k-uhd-qled-vidaa/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/02/55q6qv.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Televisor Hisense 55Q6QV 55 » 4k uhd QLED Vidaa",
+      "Pulgadas: 55″",
+      "4k uhd"
+    ],
+    "imagen": "imagenes/245-hisense-55q6qv-55-4k-uhd-qled-vidaa.jpg",
+    "precio_final": 490
+  },
+  {
+    "nombre": "55Pulgadas TCL P6K 4K UHD",
+    "precio_original": 429.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-55pulgadas-tcl-p6k-4k-uhd/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/04/tv-tcl-55-55p6k.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 55″",
+      "Televisor 55Pulgadas TCL P6K 4K UHD",
+      "4K UHD",
+      "55Pulgadas"
+    ],
+    "imagen": "imagenes/246-55pulgadas-tcl-p6k-4k-uhd.jpg",
+    "precio_final": 500
+  },
+  {
+    "nombre": "Riviera QLED",
+    "precio_original": 429.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-riviera-qled-55-rled-glt55tpq10/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/11/rled-glt55tpq10.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 55″",
+      "Televisor Riviera QLED 55″ RLED-GLT55TPQ10",
+      "55″"
+    ],
+    "imagen": "imagenes/247-riviera-qled.webp",
+    "precio_final": 500
+  },
+  {
+    "nombre": "Motorola 55MGFUHD Google 4K Tv",
+    "precio_original": 439.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-motorola-55tmkuhd-google-tv-55/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2024/10/mtk-tmkuhd.png",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 55″",
+      "Televisor Motorola 55MGFUHD Google 4K Tv 55″",
+      "55″"
+    ],
+    "imagen": "imagenes/248-motorola-55mgfuhd-google-4k-tv.png",
+    "precio_final": 510
+  },
+  {
+    "nombre": "PHILIPS QLED",
+    "precio_original": 439.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-philips-qled-55%e2%80%b3-pulgadas-uhd-4k-google-tv-q55gfu/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/02/55gfu.png",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Televisor PHILIPS QLED 55″ Pulgadas UHD 4K – Google TV – Q55gfu",
+      "Pulgadas: 55″",
+      "55″",
+      "Google TV",
+      "5g"
+    ],
+    "imagen": "imagenes/249-philips-qled.png",
+    "precio_final": 510
+  },
+  {
+    "nombre": "Crystal UHD DU7000 4K de 50” con sistema operativo Tizen",
+    "precio_original": 459.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-inteligente-crystal-uhd-du7000-4k-de-50-con-sistema-operativo-tizen-2024-copia/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/01/du7000-mtk.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Televisor inteligente Crystal UHD DU7000 4K de 50” con sistema operativo Tizen",
+      "Pulgadas: 50″",
+      "inteligente Crystal UHD DU7000 4K de 50” con siste",
+      "inteligente-crystal-uhd-du7000-4k-de-50-con-sistem"
+    ],
+    "imagen": "imagenes/250-crystal-uhd-du7000-4k-de-50-con-sistema-operativo-tizen.webp",
+    "precio_final": 530
+  },
+  {
+    "nombre": "Qled TCL 55T6C",
+    "precio_original": 469.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-qled-tcl-t6c-55-pulgadas/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/05/qled-tcl-t6c.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 55″",
+      "Televisor Qled TCL 55T6C 55 PULGADAS",
+      "55 PULGADAS"
+    ],
+    "imagen": "imagenes/251-qled-tcl-55t6c.webp",
+    "precio_final": 540
+  },
+  {
+    "nombre": "Samsung 50q7faa",
+    "precio_original": 489.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/samsung-50-pulgadas-50q7faa-series-4k-vision-ai-smart-tv/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/04/q7faa-50.avif",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 50″",
+      "Samsung 50 pulgadas 50Q7FAA Series 4K Vision AI Smart TV",
+      "50 pulgadas",
+      "Smart TV"
+    ],
+    "imagen": "https://mundotek.com.ec/wp-content/uploads/2026/04/q7faa-50.avif",
+    "precio_final": 560
+  },
+  {
+    "nombre": "55″ Crystal UHD 4K 55U8000 Tizen OS",
+    "precio_original": 499.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/tv-55-crystal-uhd-4k-u8000-tizen-os-smart-tv-2025/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/09/ue65u8000.png",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "TV 55″ Crystal UHD 4K 55U8000 Tizen OS Smart TV (2026)",
+      "Pulgadas: 55″",
+      "55″",
+      "Smart TV"
+    ],
+    "imagen": "imagenes/253-55-crystal-uhd-4k-55u8000-tizen-os.png",
+    "precio_final": 570
+  },
+  {
+    "nombre": "INNOVA IN-TVLED-65GUHD-MP",
+    "precio_original": 519.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-innova-in-tvled-65guhd-mp-google-tv-65/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/04/tv65.avif",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "TELEVISOR INNOVA IN-TVLED-65GUHD-MP GOOGLE TV 65″",
+      "Pulgadas: 65″",
+      "65″",
+      "GOOGLE TV",
+      "5G"
+    ],
+    "imagen": "https://mundotek.com.ec/wp-content/uploads/2026/04/tv65.avif",
+    "precio_final": 590
+  },
+  {
+    "nombre": "Philips Led 65GFS-FISDB",
+    "precio_original": 525.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-philips-led-65gfs-fisdb-google-tv-65/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/03/philips-65-gfs-fisdb.png",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Televisor Philips Led 65GFS-FISDB Google Tv 65″",
+      "Pulgadas: 65″",
+      "65″",
+      "Google Tv",
+      "5G"
+    ],
+    "imagen": "imagenes/255-philips-led-65gfs-fisdb.png",
+    "precio_final": 600
+  },
+  {
+    "nombre": "55″ LG UHD AI 4K",
+    "precio_original": 530.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/55-lg-uhd-ai-4k-smart-tv-55ua7300-2025/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/10/65ua73.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 55″",
+      "55″ LG UHD AI 4K Smart TV 55ua7300 2025",
+      "55″",
+      "Smart TV"
+    ],
+    "imagen": "imagenes/256-55-lg-uhd-ai-4k.webp",
+    "precio_final": 600
+  },
+  {
+    "nombre": "Samsung 55 mini",
+    "precio_original": 539.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-samsung-55-mini-led-uhd-un55m70hagxpe/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/06/nini-led-sam.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 75″",
+      "Televisor Samsung 55″ Mini LED UHD UN55M70HAGXPE",
+      "55″"
+    ],
+    "imagen": "imagenes/257-samsung-55-mini.webp",
+    "precio_final": 610
+  },
+  {
+    "nombre": "Lg 60",
+    "precio_original": 549.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-lg-60-led-4k-uhd-60ua8500psa/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/05/60ua85.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 60″",
+      "Televisor LG 60″ LED 4K UHD 60UA8500PSA",
+      "60″",
+      "4K UHD"
+    ],
+    "imagen": "imagenes/258-lg-60.webp",
+    "precio_final": 620
+  },
+  {
+    "nombre": "Pantalla LG NanoCell 55» NANO80TSA 4K",
+    "precio_original": 555.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/pantalla-lg-nanocell-55-nano77-4k-smart-tv-con-thinq-ai/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2023/09/55nano77.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 55″",
+      "Pantalla LG NanoCell 55» NANO80TSA 4K SMART TV con ThinQ AI",
+      "SMART TV"
+    ],
+    "imagen": "imagenes/259-pantalla-lg-nanocell-55-nano80tsa-4k.webp",
+    "precio_final": 630
+  },
+  {
+    "nombre": "Motorola 65",
+    "precio_original": 559.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-motorola-65-led-4k-uhd-65mnuhd/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/06/65mnuhd.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 65″",
+      "Televisor Motorola 65″ LED 4K UHD 65MNUHD",
+      "65″",
+      "4K UHD"
+    ],
+    "imagen": "imagenes/260-motorola-65.webp",
+    "precio_final": 630
+  },
+  {
+    "nombre": "Riviera glt65px9 65",
+    "precio_original": 569.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/smart-tv-riviera-glt65px9-65-4k-uhd-led-android-google-tv-sin-borde-mando-de-voz-2025/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/05/tv-glt65px9.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 65″",
+      "4k uhd",
+      "android",
+      "google tv",
+      "Smart tv"
+    ],
+    "imagen": "imagenes/261-riviera-glt65px9-65.jpg",
+    "precio_final": 640
+  },
+  {
+    "nombre": "65″ INDURAMA UHD",
+    "precio_original": 580.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-65-indurama-uhd-google-tv-tikgf2guhd/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/05/65-tikgf2gudh-4k-google-tv.png",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Televisor 65″ INDURAMA UHD Google Tv TIKGF2GUHD",
+      "Pulgadas: 65″",
+      "65″",
+      "Google Tv"
+    ],
+    "imagen": "imagenes/262-65-indurama-uhd.png",
+    "precio_final": 650
+  },
+  {
+    "nombre": "Samsung vision ai",
+    "precio_original": 589.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/55-qled-q7f-4k-samsung-vision-ai-smart-tv-2025/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/09/tv.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 55″",
+      "Tv Samsung 55″ QLED Q7FAA 4K Vision AI Smart TV (2025)",
+      "55″ QLED",
+      "Smart TV"
+    ],
+    "imagen": "imagenes/263-samsung-vision-ai.webp",
+    "precio_final": 660
+  },
+  {
+    "nombre": "65Pulgadas TCL P6K 4K UHD",
+    "precio_original": 599.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-65pulgadas-tcl-p6k-4k-uhd/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/04/p6k.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 65″",
+      "Televisor 65Pulgadas TCL P6K 4K UHD",
+      "4K UHD",
+      "65Pulgadas"
+    ],
+    "imagen": "imagenes/264-65pulgadas-tcl-p6k-4k-uhd.jpg",
+    "precio_final": 670
+  },
+  {
+    "nombre": "Hisense Hi-QLED MiniLED",
+    "precio_original": 599.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/tv-hisense-hi-qled-miniled-55-4k-55u6esg-google-tv-2026/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/06/50u6esg.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "TV Hisense Hi-QLED MiniLED 55″ 4K 55U6ESG Google TV 2026",
+      "Pulgadas: 55″",
+      "55″ 4K",
+      "Google TV"
+    ],
+    "imagen": "imagenes/265-hisense-hi-qled-miniled.webp",
+    "precio_final": 670
+  },
+  {
+    "nombre": "Tcl 55 p8l premium",
+    "precio_original": 610.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-tcl-55-p8l-premium-qled-tv-2026/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/04/p8l-55.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 55″",
+      "Televisor TCL 55″ P8L Premium QLED QD-Mini LED TV 2026",
+      "55″"
+    ],
+    "imagen": "imagenes/266-tcl-55-p8l-premium.webp",
+    "precio_final": 680
+  },
+  {
+    "nombre": "Indurama",
+    "precio_original": 639.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-65-qled-google-tv-65tikgf2gqled/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/05/tikgf2gqled-qled.png",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "TELEVISOR Indurama 65″ QLED GOOGLE TV – 65TIKGF2GQLED",
+      "Pulgadas: 65″",
+      "65″ QLED",
+      "GOOGLE TV"
+    ],
+    "imagen": "imagenes/267-indurama.png",
+    "precio_final": 710
+  },
+  {
+    "nombre": "65″ Crystal UHD 4K 65U8000F Tizen OS",
+    "precio_original": 639.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/tv-65-crystal-uhd-4k-65u8000f-tizen-os-smart-tv-2025/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/09/ue65u8000.png",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "TV 65″ Crystal UHD 4K 65U8000F Tizen OS Smart TV (2025)",
+      "Pulgadas: 65″",
+      "65″",
+      "Smart TV"
+    ],
+    "imagen": "imagenes/268-65-crystal-uhd-4k-65u8000f-tizen-os.png",
+    "precio_final": 710
+  },
+  {
+    "nombre": "Qled TCL 65T6C",
+    "precio_original": 646.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-qled-tcl-t6c-65-pulgadas/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/06/t6c.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 65″",
+      "Televisor Qled TCL 65T6C 65 PULGADAS",
+      "65 PULGADAS"
+    ],
+    "imagen": "imagenes/269-qled-tcl-65t6c.webp",
+    "precio_final": 720
+  },
+  {
+    "nombre": "Tcl v6c televisor",
+    "precio_original": 659.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-led-65-pulgadas-tcl-v6c-televisor-4k-hdr-smart-tv-con-tecnologia-de-google-tv/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/03/v6c65.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Televisor LED 65 Pulgadas TCL V6C, televisor 4K HDR, Smart TV con tecnología de Google TV",
+      "Pulgadas: 65″",
+      "65 Pulgadas",
+      "Google TV",
+      "Smart TV"
+    ],
+    "imagen": "imagenes/270-tcl-v6c-televisor.jpg",
+    "precio_final": 730
+  },
+  {
+    "nombre": "NUEVO TV",
+    "precio_original": 669.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/65-lg-uhd-ai-4k-smart-tv-65ua7300-2025/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/10/65ua73.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 65″",
+      "NUEVO TV 65″ LG UHD AI 4K Smart TV 65ua7300 2025",
+      "65″",
+      "Smart TV"
+    ],
+    "imagen": "imagenes/271-nuevo-tv.webp",
+    "precio_final": 740
+  },
+  {
+    "nombre": "Crystal UHD DU7000 4K de 65” con sistema operativo Tizen (2024)",
+    "precio_original": 679.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-inteligente-crystal-uhd-du7000-4k-de-65-con-sistema-operativo-tizen-2024/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/01/du7000-mtk.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Televisor inteligente Crystal UHD DU7000 4K de 65” con sistema operativo Tizen (2024)",
+      "Pulgadas: 65″",
+      "inteligente Crystal UHD DU7000 4K de 65” con siste",
+      "inteligente-crystal-uhd-du7000-4k-de-65-con-sistem"
+    ],
+    "imagen": "imagenes/272-crystal-uhd-du7000-4k-de-65-con-sistema-operativo-tizen-2024.webp",
+    "precio_final": 750
+  },
+  {
+    "nombre": "Samsung 70",
+    "precio_original": 699.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-samsung-70-4k-led-70u8000f/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/04/u8000f70.png",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 70″",
+      "Televisor Samsung 70″ 4K LED 70U8000F",
+      "70″ 4K"
+    ],
+    "imagen": "imagenes/273-samsung-70.png",
+    "precio_final": 770
+  },
+  {
+    "nombre": "Xiaomi Qled A",
+    "precio_original": 739.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/xiaomi-qled-65-pulgadastv-a-pro-2025/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/03/l65mb-aph-1.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 65″",
+      "65 pulgadas"
+    ],
+    "imagen": "imagenes/274-xiaomi-qled-a.webp",
+    "precio_final": 810
+  },
+  {
+    "nombre": "Tcl 65",
+    "precio_original": 749.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/tcl-65-qled-4k-65c651-smart-tv/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2024/06/65-c651-qled.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "TCL 65″ QLED 4K 65C651 Smart TV",
+      "65″ QLED",
+      "Smart TV"
+    ],
+    "imagen": "imagenes/275-tcl-65.webp",
+    "precio_final": 820
+  },
+  {
+    "nombre": "SAMSUNG QN65Q7FQLED – SAMSUNG",
+    "precio_original": 749.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-samsung-65%e2%80%b3-qled-q7f5/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/07/q7f-mtk-1024x935.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 65″",
+      "TELEVISOR SAMSUNG QN65Q7FQLED – SAMSUNG 65″ QLED",
+      "65″ QLED"
+    ],
+    "imagen": "imagenes/276-samsung-qn65q7fqled-samsung.webp",
+    "precio_final": 820
+  },
+  {
+    "nombre": "Samsung 65 qn65q6faagxpe",
+    "precio_original": 749.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-samsung-65-qn65q6faagxpe-qled-smart-tv-2025/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/03/qn65q6-e1773354971498.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 65″",
+      "Televisor Samsung 65″ QN65Q6FAAGXPE QLED Smart TV (2025)",
+      "65″",
+      "Smart TV"
+    ],
+    "imagen": "imagenes/277-samsung-65-qn65q6faagxpe.webp",
+    "precio_final": 820
+  },
+  {
+    "nombre": "Philips 75gfu q",
+    "precio_original": 789.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/smart-tv-philips-75gfu-q-qled-75-4k-uhd-led-android-14-google-tv/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/02/philips-75-gfu-q-qled-1024x1024.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 75″",
+      "4k uhd",
+      "android",
+      "google tv",
+      "5G",
+      "Smart tv"
+    ],
+    "imagen": "imagenes/278-philips-75gfu-q.webp",
+    "precio_final": 860
+  },
+  {
+    "nombre": "Lg 65 qned",
+    "precio_original": 799.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-lg-65-qned-4k-uhd-65qned70asa/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/01/qned70asa.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 65″",
+      "Televisor LG 65″ QNED 4K UHD 65QNED70ASA",
+      "65″",
+      "4K UHD"
+    ],
+    "imagen": "imagenes/279-lg-65-qned.webp",
+    "precio_final": 870
+  },
+  {
+    "nombre": "LG NanoCell TV 65” NANO80 4K UHD",
+    "precio_original": 819.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/https-mundotek-com-ec/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/10/lg-nanocell-tv-65-nano80.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 65″",
+      "TV LG NanoCell TV 65” NANO80 4K UHD SMART TV con ThinQ AI (Inteligencia Artificial)",
+      "4K UHD",
+      "SMART TV",
+      "Inteligencia Artificial) https"
+    ],
+    "imagen": "imagenes/280-lg-nanocell-tv-65-nano80-4k-uhd.webp",
+    "precio_final": 890
+  },
+  {
+    "nombre": "TCL 65P8K",
+    "precio_original": 819.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-tcl-65p8k-65-4k-google-tv-hdm-usb-wi-fi-bluetooth/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/12/tclp8k.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 65″",
+      "65″",
+      "Google TV",
+      "USB",
+      "Wi-Fi",
+      "Bluetooth"
+    ],
+    "imagen": "imagenes/281-tcl-65p8k.webp",
+    "precio_final": 890
+  },
+  {
+    "nombre": "Televiso TCL",
+    "precio_original": 819.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televiso-tcl-65-p8l-premium-qled-mini-led-tv-2026/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/04/p8l-65.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 65″",
+      "Televiso TCL 65″ 65P8L Premium QLED Mini-Led TV 2026",
+      "65″"
+    ],
+    "imagen": "imagenes/282-televiso-tcl.webp",
+    "precio_final": 890
+  },
+  {
+    "nombre": "Samsung 75%e2%80%b3",
+    "precio_original": 849.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-samsung-75%e2%80%b3-4k-led-75u8000f/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/07/televisor-samsung-75″-4k-led-75u8000f.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Televisor Samsung 75″ 4K LED 75U8000F",
+      "75″ 4K"
+    ],
+    "imagen": "imagenes/283-samsung-75-e2-80-b3.jpg",
+    "precio_final": 920
+  },
+  {
+    "nombre": "Tcl 65c6ks",
+    "precio_original": 899.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/tv-tcl-65-pulgadas-65c6ks-4k-uhd-qd-mini-led-smart-tv-google/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/04/tcl-c6ks.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 65″",
+      "TV TCL 65″ Pulgadas 65C6KS 4K-UHD QD-MINI LED Smart TV Google",
+      "65″",
+      "Smart TV"
+    ],
+    "imagen": "imagenes/284-tcl-65c6ks.webp",
+    "precio_final": 970
+  },
+  {
+    "nombre": "Qled TCL 75T6C",
+    "precio_original": 919.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-qled-tcl-t6c-75-pulgadas/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/06/t6c.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Televisor Qled TCL 75T6C 75 PULGADAS 4K GOOGLE TV",
+      "Pulgadas: 75″",
+      "75 PULGADAS 4K",
+      "GOOGLE TV"
+    ],
+    "imagen": "imagenes/285-qled-tcl-75t6c.webp",
+    "precio_final": 990
+  },
+  {
+    "nombre": "Samsung 75 mini",
+    "precio_original": 1050.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-samsung-75-mini-led-uhd-un75m70hagxpe/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/06/nini-led-sam.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 75″",
+      "Televisor Samsung 75″ Mini LED UHD UN75M70HAGXPE",
+      "75″"
+    ],
+    "imagen": "imagenes/286-samsung-75-mini.webp",
+    "precio_final": 1120
+  },
+  {
+    "nombre": "Samsung 75",
+    "precio_original": 1149.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-samsung-75-qled-4k-uhd-qn75q7faapxpa/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/04/75-q7f.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 75″",
+      "Televisor Samsung 75″ QLED 4K UHD QN75Q7FAAG",
+      "75″ QLED",
+      "4K UHD"
+    ],
+    "imagen": "imagenes/287-samsung-75.webp",
+    "precio_final": 1220
+  },
+  {
+    "nombre": "MOTOROLA 86TMKQLED 86 » 4k UHD Qled",
+    "precio_original": 1239.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-motorola-86tmkqled-86-4k-uhd-qled-android-google-tv-sin-bordes-modo-game/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/04/tvmotorola-86.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Televisor MOTOROLA 86TMKQLED 86 » 4k UHD Qled Android Google TV sin bordes Modo Game",
+      "Pulgadas: 86″",
+      "4k UHD",
+      "Android",
+      "Google TV"
+    ],
+    "imagen": "imagenes/288-motorola-86tmkqled-86-4k-uhd-qled.jpg",
+    "precio_final": 1310
+  },
+  {
+    "nombre": "85″ Crystal UHD 4K 85U8000F Tizen OS",
+    "precio_original": 1339.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/tv-85-crystal-uhd-4k-u8000f-tizen-os-smart-tv-2025/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/09/ue65u8000.png",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "TV 85″ Crystal UHD 4K 85U8000F Tizen OS Smart TV (2025)",
+      "Pulgadas: 85″",
+      "85″",
+      "Smart TV"
+    ],
+    "imagen": "imagenes/289-85-crystal-uhd-4k-85u8000f-tizen-os.png",
+    "precio_final": 1410
+  },
+  {
+    "nombre": "75″ Mini LED M80H 4K Samsung Vision AI",
+    "precio_original": 1449.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-75-mini-led-m80h-4k-samsung-vision-ai-smart-tv-un75m80hapxpa-2026/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/06/mini-led-m80.avif",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 75″",
+      "Televisor 75″ Mini LED M80H 4K Samsung Vision AI Smart TV UN75M80HAPXPA (2026)",
+      "75″",
+      "Smart TV"
+    ],
+    "imagen": "https://mundotek.com.ec/wp-content/uploads/2026/06/mini-led-m80.avif",
+    "precio_final": 1520
+  },
+  {
+    "nombre": "Hisense 85Q7QG 85 » QLED 4K UHD 144HZ sistema operativo GOOGLE U9 FACT",
+    "precio_original": 1469.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-hisense-85q7qg-85-qled-4k-uhd-144hz-sistema-operativo-google-u9-fact/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/02/hisense-85.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 85″",
+      "Televisor Hisense 85Q7QG 85 » QLED 4K UHD 144HZ sistema operativo GOOGLE U9 FACT",
+      "4K UHD"
+    ],
+    "imagen": "imagenes/291-hisense-85q7qg-85-qled-4k-uhd-144hz-sistema-operativo-google.jpg",
+    "precio_final": 1540
+  },
+  {
+    "nombre": "QLED TCL P7K",
+    "precio_original": 1499.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-qled-tcl-p7k-85-85p7k-4k/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/05/p7k.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Televisor QLED TCL P7K 85″ 85p7k 4K GOOGLE TV",
+      "Pulgadas: 85″",
+      "85″",
+      "GOOGLE TV"
+    ],
+    "imagen": "imagenes/292-qled-tcl-p7k.jpg",
+    "precio_final": 1570
+  },
+  {
+    "nombre": "TCL TV 85C6K Premium QD-MiniLED TV",
+    "precio_original": 1899.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/tcl-tv-c6ks-premium-qd-miniled-tv-85pulgadas/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/08/85c6k.png",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 85″",
+      "TCL TV 85C6K Premium QD-MiniLED TV 85Pulgadas 2 AÑOS DE GARANTIA",
+      "85Pulgadas"
+    ],
+    "imagen": "imagenes/293-tcl-tv-85c6k-premium-qd-miniled-tv.png",
+    "precio_final": 1970
+  },
+  {
+    "nombre": "Hisense 98Q6QG 98 » 4k uhd qled",
+    "precio_original": 2129.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-hisense-98q6qg-98-4k-uhd/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/02/smart-tv-hisense-98q6qg-98.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Televisor Hisense 98Q6QG 98 » 4k uhd qled android 14 google tv 144hz game mode pro",
+      "Pulgadas: 98″",
+      "4k uhd",
+      "android",
+      "google tv"
+    ],
+    "imagen": "imagenes/294-hisense-98q6qg-98-4k-uhd-qled.jpg",
+    "precio_final": 2200
+  },
+  {
+    "nombre": "100MINIRC RCA Mini-Led",
+    "precio_original": 2249.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-100minirc-rca-mini-led-google-tv-100%e2%80%b3-4k/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/06/tv100.png",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "TELEVISOR 100MINIRC RCA Mini-Led GOOGLE TV 100″ 4K",
+      "Pulgadas: 100″",
+      "100″ 4K",
+      "GOOGLE TV"
+    ],
+    "imagen": "imagenes/295-100minirc-rca-mini-led.png",
+    "precio_final": 2320
+  },
+  {
+    "nombre": "Tcl 98p8k",
+    "precio_original": 2429.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/tv-tcl-98-pulgadas-98p8k-4k-uhd-qled-smart-tv-google/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2025/06/98p8k.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 98″",
+      "TV TCL 98″ Pulgadas 98P8K 4K-UHD QLED Smart TV Google",
+      "98″",
+      "Smart TV"
+    ],
+    "imagen": "imagenes/296-tcl-98p8k.webp",
+    "precio_final": 2500
+  },
+  {
+    "nombre": "Tcl 98c6k",
+    "precio_original": 2650.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-mini-led-98-tcl-98c6k-uhd-4k-aipq-pro/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/05/98c6k.jpg",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 98″",
+      "Televisor Mini LED 98″ – TCL 98C6K, UHD 4K, AiPQ Pro",
+      "98″"
+    ],
+    "imagen": "imagenes/297-tcl-98c6k.jpg",
+    "precio_final": 2720
+  },
+  {
+    "nombre": "Indurama TIKJQMINLED",
+    "precio_original": 2835.0,
+    "categoria": "Televisores",
+    "url_origen": "https://mundotek.com.ec/producto/televisor-indurama-tikjqminled-100-qled-4k-uhd/",
+    "imagen_candidata": "https://mundotek.com.ec/wp-content/uploads/2026/02/televisor-indurama-tikjqminled-100-qled-4k-uhd-mtk.webp",
+    "fuente": "MundoTek TVs",
+    "caracteristicas": [
+      "Pulgadas: 100″",
+      "Televisor Indurama TIKJQMINLED 100″ QLed 4K UHD",
+      "100″ QLed",
+      "4K UHD"
+    ],
+    "imagen": "imagenes/298-indurama-tikjqminled.webp",
+    "precio_final": 2910
+  }
+]

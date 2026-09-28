@@ -1,0 +1,3863 @@
+[
+    {
+        "nombre":  "ENV Book Pro Max",
+        "precio_original":  319.0,
+        "categoria":  "Laptops",
+        "url_origen":  "https://www.pinsoft.ec/cod-1768-laptop-env-book-pro-max-intel-celeron-n4020-8gb-256gb-ssd-14-1-full-hd-ips-windows-11-preinstalado-wi-fi-5-ac-teclado-espanol-alfanumerico-gris-oscuro/p-9535.html",
+        "imagen_candidata":  "https://www.pinsoft.ec/getimage/products/1%28155%29.png",
+        "codigo":  "a1bd2c52",
+        "fuente":  "Pinsoft",
+        "caracteristicas":  [
+                                "Intel® Celeron® N4020",
+                                "256GB SSD",
+                                "14.1\" Full HD, IPS",
+                                "Windows 11 (Preinstalado)",
+                                "Wi-Fi 5 AC",
+                                "Teclado Español alfanumérico"
+                            ],
+        "imagen":  "https://www.pinsoft.ec/getimage/products/1%28155%29.png",
+        "precio_final":  390
+    },
+    {
+        "nombre":  "ENV BOOK ELITE",
+        "precio_original":  374.0,
+        "categoria":  "Laptops",
+        "url_origen":  "https://www.pinsoft.ec/cod-1780-laptop-env-book-elite-amd-ryzen-5-3500u-2-1ghzhasta-3-7ghz-8gb-256gb-nvme-ssd-15-6-full-hd-windows-11-teclado-espanol-alfanumerico-gris-oscuro/p-9623.html",
+        "imagen_candidata":  "https://www.pinsoft.ec/getimage/products/1%28156%29.png",
+        "codigo":  "f34ee835",
+        "fuente":  "Pinsoft",
+        "caracteristicas":  [
+                                "AMD Ryzen™ 5 3500U ( 2.1GHz hasta 3.7GHz)",
+                                "256GB NVMe™ SSD",
+                                "15.6\" Full HD",
+                                "Windows 11 (Preinstalado)",
+                                "Teclado Español alfanumérico",
+                                "8GB"
+                            ],
+        "imagen":  "https://www.pinsoft.ec/getimage/products/1%28156%29.png",
+        "precio_final":  450
+    },
+    {
+        "nombre":  "HP 14-dq3500la",
+        "precio_original":  405.9,
+        "categoria":  "Laptops",
+        "url_origen":  "https://www.pinsoft.ec/cod-h-1779-hp-14-dq3500la-intel-celeron-n4500-8gb-256gb-pcie-nvme-ssd-14-0-hd-wi-fi-6-bt-5-4-freedos-teclado-espanol-plateado-natural/p-9621.html",
+        "imagen_candidata":  "https://www.pinsoft.ec/getimage/products/thumbs_500_0bb2991cbc8280bc205e%281%29.png",
+        "codigo":  "26fea2a6",
+        "fuente":  "Pinsoft",
+        "caracteristicas":  [
+                                "Intel® Celeron® N4500",
+                                "256GB PCIe® NVMe™ SSD",
+                                "14.0\" HD",
+                                "FreeDOS",
+                                "Wi-Fi 6 \u0026 BT 5.4",
+                                "Teclado Español"
+                            ],
+        "imagen":  "https://www.pinsoft.ec/getimage/products/thumbs_500_0bb2991cbc8280bc205e%281%29.png",
+        "precio_final":  480
+    },
+    {
+        "nombre":  "LENOVO IdeaPad Slim 3 15AMN8",
+        "precio_original":  462.0,
+        "categoria":  "Laptops",
+        "url_origen":  "https://www.pinsoft.ec/cod-1791-lenovo-ideapad-slim-3-15amn8-amd-ryzen-3-7320u-8gb-lpddr5-512gb-nvme-ssd-m-2-15-6-fhd-sin-sistema-os-wi-fi6-2x2-bt5-2-teclado-espanol-alfanumerico-artic-grey/p-9675.html",
+        "imagen_candidata":  "https://www.pinsoft.ec/getimage/products/laptop-ideapad-slim-3-amd-r3-732.png",
+        "codigo":  "032af539",
+        "fuente":  "Pinsoft",
+        "caracteristicas":  [
+                                "AMD Ryzen™ 3 7320U",
+                                "512GB NVMe SSD M.2",
+                                "15.6\" FHD",
+                                "Wi-Fi®6 2x2 \u0026 BT5.2",
+                                "Teclado Español alfanumérico",
+                                "8GB LPDDR5"
+                            ],
+        "imagen":  "https://www.pinsoft.ec/getimage/products/laptop-ideapad-slim-3-amd-r3-732.png",
+        "precio_final":  540
+    },
+    {
+        "nombre":  "ASUS VivoBook Go 15 (E1504F)",
+        "precio_original":  473.0,
+        "categoria":  "Laptops",
+        "url_origen":  "https://www.pinsoft.ec/cod-1795-asus-vivobook-go-15-e1504f-amd-ryzen-37320u-8-gb-lpddr5-512gb-nvme-ssd-15-6-fhd-sin-sistema-os-wi-fi-6e-bt-5-3-lector-de-huellas-teclado-espanol-alfanumerico-mixed-black-incl-mouseasus/p-9701.html",
+        "imagen_candidata":  "https://www.pinsoft.ec/getimage/products/17951111.jpg",
+        "codigo":  "2a57ba27",
+        "fuente":  "Pinsoft",
+        "caracteristicas":  [
+                                "AMD® Ryzen™ 3 7320U",
+                                "512GB NVMe™ SSD",
+                                "15.6\" FHD",
+                                "Wi-Fi 6E\u0026 BT 5.3",
+                                "Teclado Español alfanumérico",
+                                "8 GB LPDDR5"
+                            ],
+        "imagen":  "https://www.pinsoft.ec/getimage/products/17951111.jpg",
+        "precio_final":  550
+    },
+    {
+        "nombre":  "ENV 3500u",
+        "precio_original":  484.0,
+        "categoria":  "Laptops",
+        "url_origen":  "https://www.pinsoft.ec/cod-e-1776-laptop-env-amd-ryzen-5-3500u-2-1ghzhasta-3-7ghz-16gb-512gb-nvme-ssd-15-6-full-hd-windows-11-teclado-espanol-alfanumerico-gris/p-9592.html",
+        "imagen_candidata":  "https://www.pinsoft.ec/getimage/products/pinsoft-env12%288%29.jpg",
+        "codigo":  "0d5e5840",
+        "fuente":  "Pinsoft",
+        "caracteristicas":  [
+                                "AMD Ryzen™ 5 3500U ( 2.1GHz hasta 3.7GHz)",
+                                "512GB NVMe™ SSD",
+                                "15.6\" Full HD",
+                                "Windows 11 (Preinstalado)",
+                                "Teclado Español alfanumérico",
+                                "16GB"
+                            ],
+        "imagen":  "https://www.pinsoft.ec/getimage/products/pinsoft-env12%288%29.jpg",
+        "precio_final":  560
+    },
+    {
+        "nombre":  "ENV 3500u",
+        "precio_original":  484.0,
+        "categoria":  "Laptops",
+        "url_origen":  "https://www.pinsoft.ec/cod-1775-laptop-env-amd-ryzen-5-3500u-2-1ghzhasta-3-7ghz-16gb-512gb-nvme-ssd-14-1-full-hd-windows-11-teclado-espanol-gris/p-9593.html",
+        "imagen_candidata":  "https://www.pinsoft.ec/getimage/products/11%2875%29.jpg",
+        "codigo":  "69fde0ab",
+        "fuente":  "Pinsoft",
+        "caracteristicas":  [
+                                "AMD Ryzen™ 5 3500U ( 2.1GHz hasta 3.7GHz)",
+                                "512GB NVMe™ SSD",
+                                "14.1\" Full HD",
+                                "Windows 11 (Preinstalado)",
+                                "Teclado Español",
+                                "16GB"
+                            ],
+        "imagen":  "https://www.pinsoft.ec/getimage/products/11%2875%29.jpg",
+        "precio_final":  560
+    },
+    {
+        "nombre":  "LENOVO IdeaPad Slim 3 15IAN8",
+        "precio_original":  511.5,
+        "categoria":  "Laptops",
+        "url_origen":  "https://www.pinsoft.ec/cod-1787-lenovo-ideapad-slim-3-15ian8-intel-core-i3-n305-8-nucleos-hasta-3-8-ghz-8gb-lpddr5-512gb-ssd-pcie-4-0-15-6-full-hd-sin-sistema-os-wi-fi-6-bt5-2-teclado-espanol-la-alfanumerico-arctic-grey/p-9649.html",
+        "imagen_candidata":  "https://www.pinsoft.ec/getimage/products/windows10home-64bits%283%29.png",
+        "codigo":  "1445abe7",
+        "fuente":  "Pinsoft",
+        "caracteristicas":  [
+                                "Intel® Core™ i3-N305 (8 núcleos, hasta 3.8 GHz)",
+                                "512GB SSD PCIe® 4.0",
+                                "15.6\" Full HD",
+                                "Wi-Fi 6 \u0026 BT5.2",
+                                "Teclado Español (LA) alfanumérico",
+                                "8GB LPDDR5"
+                            ],
+        "imagen":  "https://www.pinsoft.ec/getimage/products/windows10home-64bits%283%29.png",
+        "precio_final":  590
+    },
+    {
+        "nombre":  "ASUS VivoBook 15 X1504V",
+        "precio_original":  517.0,
+        "categoria":  "Laptops",
+        "url_origen":  "https://www.pinsoft.ec/cod-1766-kit-asus-vivobook-15-x1504v-intel-corei3-1315u-13va-gen-10mb-cache-hasta-4-4-ghz-8gb-512gb-nvme-ssd-15-6-fhd/p-9534.html",
+        "imagen_candidata":  "https://www.pinsoft.ec/getimage/products/pinsoft-1698%283%29.jpg",
+        "codigo":  "87c0ba2b",
+        "fuente":  "Pinsoft",
+        "caracteristicas":  [
+                                "Intel® Core™ i3-1315U 13va. Gen (10MB caché, hasta 4,4 GHz)",
+                                "512GB NVMe™ SSD",
+                                "15.6\" FHD",
+                                "Wi-Fi 6E\u0026 BT 5.3",
+                                "Teclado Español alfanumérico",
+                                "8GB"
+                            ],
+        "imagen":  "https://www.pinsoft.ec/getimage/products/pinsoft-1698%283%29.jpg",
+        "precio_final":  590
+    },
+    {
+        "nombre":  "ASUS VivoBook 15 X1504V",
+        "precio_original":  566.5,
+        "categoria":  "Laptops",
+        "url_origen":  "https://www.pinsoft.ec/cod-1774-kit-asus-vivobook-15-x1504v-intel-corei3-1315u-13va-gen-10mb-cache-hasta-4-4-ghz-16gb-512gb-nvme/p-9588.html",
+        "imagen_candidata":  "https://www.pinsoft.ec/getimage/products/pinsoft-1698%284%29.jpg",
+        "codigo":  "1dc5e1a7",
+        "fuente":  "Pinsoft",
+        "caracteristicas":  [
+                                "Intel® Core™ i3-1315U 13va. Gen (10MB caché, hasta 4,4 GHz)",
+                                "512GB NVMe™ SSD",
+                                "15.6\" FHD",
+                                "Wi-Fi 6E\u0026 BT 5.3",
+                                "Teclado Español alfanumérico",
+                                "16GB"
+                            ],
+        "imagen":  "https://www.pinsoft.ec/getimage/products/pinsoft-1698%284%29.jpg",
+        "precio_final":  640
+    },
+    {
+        "nombre":  "LENOVO V15 G5 IRL",
+        "precio_original":  605.0,
+        "categoria":  "Laptops",
+        "url_origen":  "https://www.pinsoft.ec/cod-1793-lenovo-v15-g5-irl-intel-core-i5-13420h-13va-gen-8gb-ddr5-512gb-ssd-pcie-4-0-15-6-full-hd-sin-sistema-os-wi-fi-6-ax-teclado-alfanumerico-espanol-la-luna-grey/p-9681.html",
+        "imagen_candidata":  "https://www.pinsoft.ec/getimage/products/lenovo_v15_g5_irl_ct1_06%281%29.png",
+        "codigo":  "5f9178cf",
+        "fuente":  "Pinsoft",
+        "caracteristicas":  [
+                                "Intel® Core™ i5-13420H 13va.Gen",
+                                "512GB SSD PCIe 4.0",
+                                "15.6\" Full HD",
+                                "Wi-Fi 6 AX",
+                                "Teclado alfanumérico Español (LA)",
+                                "8GB DDR5"
+                            ],
+        "imagen":  "https://www.pinsoft.ec/getimage/products/lenovo_v15_g5_irl_ct1_06%281%29.png",
+        "precio_final":  680
+    },
+    {
+        "nombre":  "HP 14 I3 N305",
+        "precio_original":  260.0,
+        "categoria":  "Computadoras",
+        "url_origen":  "https://planetadigitalec.com/products/hp-14-i3-n305-12gb-ram-512gb-ssd-14-copia",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/d_nq_np_2x_896627-mlu75842775050_042024-f-52c6dd934d8e53dcad17260675985400-480-0.webp?v=1727213717",
+        "caracteristicas":  [
+                                "Tarjeta de video: Intel® UHD Graphics integrada",
+                                "Procesador: Intel® Core™ i3-N305 (eficiente y adecuado para tareas básicas y uso diario)",
+                                "Memoria RAM: 4 GB DDR4 (suficiente para tareas básicas como navegación y ofimática)",
+                                "Almacenamiento: 128 GB SSD PCIe® NVMe (arranque rápido, ideal para uso ligero)",
+                                "Pantalla",
+                                "Sistema operativo: Windows 11 Home"
+                            ],
+        "fuente":  "Planeta Digital",
+        "imagen":  "imagenes/12-hp-14-i3-n305.jpg",
+        "precio_final":  330
+    },
+    {
+        "nombre":  "GATEWAY",
+        "precio_original":  279.0,
+        "categoria":  "Computadoras",
+        "url_origen":  "https://planetadigitalec.com/products/gateway-intel-n100-128-gb-ssd-4-gb-ram-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/s-l1600_989c1eff-8a42-401c-ba2e-aadac0a841f7.webp?v=1777582649",
+        "caracteristicas":  [
+                                "Intel® UHD Graphics integrada (ideal para multimedia, streaming y uso básico)",
+                                "Procesador",
+                                "Memoria RAM",
+                                "Disco",
+                                "128 GB SSD M.2 (arranque rápido y buena velocidad para tareas diarias)",
+                                "Pantalla"
+                            ],
+        "fuente":  "Planeta Digital",
+        "imagen":  "imagenes/13-gateway.jpg",
+        "precio_final":  350
+    },
+    {
+        "nombre":  "HP 14 N150",
+        "precio_original":  290.0,
+        "categoria":  "Computadoras",
+        "url_origen":  "https://planetadigitalec.com/products/hp-14-n150-4gb-ram-128gb-ssd-14",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/D_NQ_NP_705083-MLA87064978485_072025-O.webp?v=1790020963",
+        "caracteristicas":  [
+                                "Procesador",
+                                "Intel Processor N150",
+                                "Intel Graphics integrados",
+                                "Memoria RAM",
+                                "Almacenamiento",
+                                "128 GB SSD"
+                            ],
+        "fuente":  "Planeta Digital",
+        "imagen":  "imagenes/14-hp-14-n150.jpg",
+        "precio_final":  360
+    },
+    {
+        "nombre":  "Hp 15",
+        "precio_original":  299.0,
+        "categoria":  "Computadoras",
+        "url_origen":  "https://planetadigitalec.com/products/hp-15-intel-200-4gb-ram-128gb-ssd-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/f0050123-0f6d-426d-adbf-795802bc5f74.ce05477936a0350f585f3b1bedcf1bba.avif?v=1790019631",
+        "caracteristicas":  [
+                                "Intel UHD Graphics integrados",
+                                "Procesador",
+                                "Intel Processor N200",
+                                "Memoria RAM",
+                                "Almacenamiento",
+                                "128 GB SSD"
+                            ],
+        "fuente":  "Planeta Digital",
+        "imagen":  "imagenes/15-hp-15.jpg",
+        "precio_final":  370
+    },
+    {
+        "nombre":  "ASUS VIVIBOOK GO",
+        "precio_original":  360.0,
+        "categoria":  "Computadoras",
+        "url_origen":  "https://planetadigitalec.com/products/asus-vivibook-go-intel-core-i3-12va-8gb-ram-512gb-ssd-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/s-l1600_7acd3a5a-51f2-4140-b795-4c7f32d52d68.webp?v=1762471471",
+        "caracteristicas":  [
+                                "Gráficos Intel UHD integrados, perfectos para uso casual",
+                                "Procesador",
+                                "Intel Core i3 N305 hasta 3,80 GHz: energía eficiente para las tareas diarias",
+                                "Tamaño de RAM",
+                                "Capacidad SSD",
+                                "Tamaño de la pantalla"
+                            ],
+        "fuente":  "Planeta Digital",
+        "imagen":  "imagenes/16-asus-vivibook-go.jpg",
+        "precio_final":  430
+    },
+    {
+        "nombre":  "DELL INSPIRON 3530 I3-13VA",
+        "precio_original":  380.0,
+        "categoria":  "Computadoras",
+        "url_origen":  "https://planetadigitalec.com/products/dell-inspiron-3530-i3-13va-8gb-ram-512gb-ssd-15-7",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/71iIEPk5qOL._AC_SX466.jpg?v=1772555363",
+        "caracteristicas":  [
+                                "Coprocesador de gráficos Intel UHD Graphics",
+                                "Procesador ‎1.2 GHz core_i3_13va",
+                                "Marca Chipset ‎Intel",
+                                "Marca del procesador Intel",
+                                "RAM 8GB DDR4",
+                                "Disco Duro 512 GB SSD"
+                            ],
+        "fuente":  "Planeta Digital",
+        "imagen":  "imagenes/17-dell-inspiron-3530-i3-13va.jpg",
+        "precio_final":  450
+    },
+    {
+        "nombre":  "DELL LATITUDE 3540 I3-12VA",
+        "precio_original":  380.0,
+        "categoria":  "Computadoras",
+        "url_origen":  "https://planetadigitalec.com/products/dell-latitude-3540-i3-13va-8gb-ram-256gb-ssd-win-11-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/71e_cWKIj9L._AC_SX679_e2f13c4e-3a81-4fdf-8024-dca743d5656e.jpg?v=1721934705",
+        "caracteristicas":  [
+                                "Coprocesador de gráficos ‎Gráficos integrados Intel",
+                                "Marca Chipset ‎Intel",
+                                "Marca del procesador Intel",
+                                "RAM 8GB DDR4",
+                                "Disco 256 GBSSD",
+                                "Tamaño del área de visualización de la pantalla con pie ‎15,6 Pulgadas"
+                            ],
+        "fuente":  "Planeta Digital",
+        "imagen":  "imagenes/18-dell-latitude-3540-i3-12va.jpg",
+        "precio_final":  450
+    },
+    {
+        "nombre":  "ACER ASPIRE I3 N305",
+        "precio_original":  399.0,
+        "categoria":  "Computadoras",
+        "url_origen":  "https://planetadigitalec.com/products/acer-aspire-i3-n305-8gb-ram-256gb-ssd-touch-windows-11-14",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/71VoWFZXjWL._AC_SX466.jpg?v=1760479917",
+        "caracteristicas":  [
+                                "Coprocesador de gráficos Intel UHD Graphics",
+                                "Interfaz de la unidad de disco duro USB 3.0",
+                                "Procesador ‎3,8 GHz core_i3 N305",
+                                "Marca Chipset ‎Intel",
+                                "Marca del procesador Intel",
+                                "RAM ‎8 GB Lpddr 5"
+                            ],
+        "fuente":  "Planeta Digital",
+        "imagen":  "imagenes/19-acer-aspire-i3-n305.jpg",
+        "precio_final":  470
+    },
+    {
+        "nombre":  "LENOVO IDEAPAD 3 SLIM I3-13VA TOUCH 15IRU8",
+        "precio_original":  399.0,
+        "categoria":  "Computadoras",
+        "url_origen":  "https://planetadigitalec.com/products/lenovo-ideapad-3-slim-i3-13va-8gb-ram-256gb-ssd-win-11-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/71nl05XKNbL._AC_SX522.jpg?v=1721162141",
+        "caracteristicas":  [
+                                "Coprocesador de gráficos Intel UHD Graphics",
+                                "Marca del procesador Intel",
+                                "Tipo de procesador Intel Core i3 13va",
+                                "Velocidad del procesador 4,5GHz",
+                                "Marca de la tarjeta gráfica Intel",
+                                "Tamaño de RAM ‎8"
+                            ],
+        "fuente":  "Planeta Digital",
+        "imagen":  "imagenes/20-lenovo-ideapad-3-slim-i3-13va-touch-15iru8.jpg",
+        "precio_final":  470
+    },
+    {
+        "nombre":  "HP 15 I3-13VA",
+        "precio_original":  399.99,
+        "categoria":  "Computadoras",
+        "url_origen":  "https://planetadigitalec.com/products/hp-15-i3-n305-128gb-ssd-4gb-ram-touch-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/617pp3O9rxL._AC_SL1280.jpg?v=1778522484",
+        "caracteristicas":  [
+                                "Tarjeta de video: Intel® UHD Graphics integrada",
+                                "Memoria RAM: 8 GB DDR4 (rendimiento fluido para navegación, ofimática y multitarea básica)",
+                                "Almacenamiento: 256 GB SSD PCIe® NVMe (arranque rápido y buena capacidad para uso diario)",
+                                "Pantalla",
+                                "Sistema operativo: Windows 11 Home",
+                                "USB-C (solo datos)"
+                            ],
+        "fuente":  "Planeta Digital",
+        "imagen":  "imagenes/21-hp-15-i3-13va.jpg",
+        "precio_final":  470
+    },
+    {
+        "nombre":  "ACER SPIN I3-12VA",
+        "precio_original":  420.0,
+        "categoria":  "Computadoras",
+        "url_origen":  "https://planetadigitalec.com/products/acer-spin-i3-12va-8gb-ram-256gb-ssd-touch-windows-11-14",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/descarga_64dcc938-3d00-428a-b4b9-11ed8b73182f.png?v=1740076331",
+        "caracteristicas":  [
+                                "Coprocesador de gráficos Intel UHD Graphics",
+                                "Interfaz de la unidad de disco duro USB 3.0",
+                                "Procesador ‎3,8 GHz apple core i3 _ 12va",
+                                "Marca Chipset ‎Intel",
+                                "Marca del procesador Intel",
+                                "RAM ‎8 GB Lpddr 5"
+                            ],
+        "fuente":  "Planeta Digital",
+        "imagen":  "imagenes/22-acer-spin-i3-12va.png",
+        "precio_final":  490
+    },
+    {
+        "nombre":  "DELL CORE 3 100U",
+        "precio_original":  420.0,
+        "categoria":  "Computadoras",
+        "url_origen":  "https://planetadigitalec.com/products/dell-core-3-100u-8gb-ram-512gb-ssd-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/71d6CcN8Q5L._AC_SX466.jpg?v=1784063615",
+        "caracteristicas":  [
+                                "Intel® UHD Graphics Integrada",
+                                "Procesador",
+                                "Intel® Core™ i3-100U",
+                                "Caché Intel Smart Cache",
+                                "Memoria RAM",
+                                "Memoria compartida con la RAM"
+                            ],
+        "fuente":  "Planeta Digital",
+        "imagen":  "imagenes/23-dell-core-3-100u.jpg",
+        "precio_final":  490
+    },
+    {
+        "nombre":  "ASUS VIVOBOOK I5-13VA",
+        "precio_original":  460.0,
+        "categoria":  "Computadoras",
+        "url_origen":  "https://planetadigitalec.com/products/asus-vivobook-i5-13va-12gb-256b-14",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/descarga-4-2-2048x2048.png?v=1766863433",
+        "caracteristicas":  [
+                                "Procesador",
+                                "Intel Core i5-1334U (hasta 4.6 GHz, 12 MB caché)",
+                                "Gráficos Intel integrados",
+                                "Memoria RAM",
+                                "Almacenamiento",
+                                "256 GB SSD"
+                            ],
+        "fuente":  "Planeta Digital",
+        "imagen":  "imagenes/24-asus-vivobook-i5-13va.png",
+        "precio_final":  530
+    },
+    {
+        "nombre":  "HP Pavilion 16\u0027\u0027,",
+        "precio_original":  479.75,
+        "categoria":  "Computadoras",
+        "url_origen":  "https://planetadigitalec.com/products/hp-pavilion-16-amd-ryzen-5-8540u-ai-pc-8gb-ram-512gb-ssd",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/HP-Pavilion-16-inch-Windows-Laptop-AMD-Ryzen-5-8540U-AI-PC-8GB-RAM-512GB-SSD-Meteor-Silver_4c5b41b3-eff8-48e9-8b1a-658f1180b415.aaf6b4d4f1aeddec4545db00020721b3.jpg?v=1756842099",
+        "caracteristicas":  [
+                                "8 GB LPDDR5 RAM, 512 GB PCIe Gen4 NVMe M.2 unidad de estado sólido",
+                                "Windows 11 Home, procesador AMD Ryzen 5 8540U, gráficos AMD Radeon",
+                                "Cámara IR FHD con obturador, tecla de silencio del micrófono",
+                                "Portátil HP Pavilion de 16\" con pantalla IPS micro-borde, anti-reflejo",
+                                "Tarjeta inalámbrica Wi-Fi 6 y Bluetooth 5.3",
+                                "HP Pavilion 16-ag0052wm"
+                            ],
+        "fuente":  "Planeta Digital",
+        "imagen":  "imagenes/25-hp-pavilion-16.jpg",
+        "precio_final":  550
+    },
+    {
+        "nombre":  "HP ENVY",
+        "precio_original":  489.99,
+        "categoria":  "Computadoras",
+        "url_origen":  "https://planetadigitalec.com/products/hp-envy-ryzen-5-5500-8gb-ram-512gb-ssd-windows-11-touch-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/61SxOcEECgL._AC_SL1500_29484842-8ff8-4d2b-8ee2-95d2a6244ebd.jpg?v=1713558068",
+        "caracteristicas":  [
+                                "Procesador ‎2,3 GHz amd_r_series",
+                                "Coprocesador de gráficos AMD",
+                                "Marca Chipset ‎AMD",
+                                "Marca del procesador AMD",
+                                "RAM 8GB DDR4",
+                                "Tamaño de RAM de la tarjeta gráfica ‎8 GB"
+                            ],
+        "fuente":  "Planeta Digital",
+        "imagen":  "imagenes/26-hp-envy.jpg",
+        "precio_final":  560
+    },
+    {
+        "nombre":  "HP ENVY",
+        "precio_original":  499.0,
+        "categoria":  "Computadoras",
+        "url_origen":  "https://planetadigitalec.com/products/hp-envy-ryzen-5-7000-8gb-ram-512gb-ssd-windows-11-touch-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/611zdkfj20L._AC_SL1500_1d4803c1-ca11-4d12-a927-519ebce5cf01.jpg?v=1713646377",
+        "caracteristicas":  [
+                                "Memoria: 8 GB LPDDR4x-4266 MHz RAM (integrada) - Disco duro: 256GB PCIe NVMe M.2 SSD",
+                                "Inicio de Windows 11",
+                                "2 USB tipo C de supervelocidad",
+                                "2 USB SuperSpeed tipo A",
+                                "1 HDMI 2.1",
+                                "HP ENVY X360 TOUCH 15-FH0013DX"
+                            ],
+        "fuente":  "Planeta Digital",
+        "imagen":  "imagenes/27-hp-envy.jpg",
+        "precio_final":  570
+    },
+    {
+        "nombre":  "LENOVO FLEX 5I I5-13VA",
+        "precio_original":  499.75,
+        "categoria":  "Computadoras",
+        "url_origen":  "https://planetadigitalec.com/products/lenovo-flex-5i-i5-13va-8gb-ram-512gb-ssd-touch-16",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/51c0FVw9cQL._AC_SX466.jpg?v=1775687335",
+        "caracteristicas":  [
+                                "Processor: Intel® Core™ i5-1335U, 10C (2P + 8E)",
+                                "Graphics: Integrated Intel® Iris® Xe Graphics",
+                                "Storage: 512GB SSD M.2 2242 PCIe® 4.0×4 NVMe®",
+                                "Display: 16″(1920×1200) IPS 300nits Glossy, 45% NTSC",
+                                "Camera: FHD 1080p with Privacy Shutter",
+                                "OS: Windows® 11 Home + Office Home \u0026 Student 2021"
+                            ],
+        "fuente":  "Planeta Digital",
+        "imagen":  "imagenes/28-lenovo-flex-5i-i5-13va.jpg",
+        "precio_final":  570
+    },
+    {
+        "nombre":  "HP OMNIBOOK 5",
+        "precio_original":  529.99,
+        "categoria":  "Computadoras",
+        "url_origen":  "https://planetadigitalec.com/products/hp-omnibook-5-ryzen-5-8540-u-8-gb-ram-512gb-ssd-16",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/25C1_OmniBook5_16_GlacierSilver_T_NT_IRCam_nonFPR_Win11_CoreSet_Front_TransparentBG_3378800.png?v=1765232732",
+        "caracteristicas":  [
+                                "Familia del procesador",
+                                "Procesador AMD Ryzen™ 5",
+                                "Procesador",
+                                "SoC integrado AMD",
+                                "Gráficos AMD Radeon™ 740M 3",
+                                "Almacenamiento interno"
+                            ],
+        "fuente":  "Planeta Digital",
+        "imagen":  "imagenes/29-hp-omnibook-5.png",
+        "precio_final":  600
+    },
+    {
+        "nombre":  "ASUS VIVOBOOK GO",
+        "precio_original":  530.0,
+        "categoria":  "Computadoras",
+        "url_origen":  "https://planetadigitalec.com/products/asus-vivobook-go-ryzen-5-7500u-16gb-ram-512gb-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/descarga-4-550x550.png?v=1721323710",
+        "caracteristicas":  [
+                                "Memoria RAM: 12GB LPDDR5 en placa capacidad máxima",
+                                "Tarjeta de vídeo: AMD Radeon™ Graphics Integrados",
+                                "Almacenamiento: SSD M.2 NVMe™ PCIe® 3.0 de 512 GB",
+                                "Pantalla: 15,6 pulgadas, FHD (1920 x 1080) 16: 9",
+                                "1x USB 2.0 tipo A",
+                                "1x USB 3.2 Gen 1 Tipo A"
+                            ],
+        "fuente":  "Planeta Digital",
+        "imagen":  "imagenes/30-asus-vivobook-go.png",
+        "precio_final":  600
+    },
+    {
+        "nombre":  "LENOVO IDEAPAD SLIM 3",
+        "precio_original":  530.0,
+        "categoria":  "Computadoras",
+        "url_origen":  "https://planetadigitalec.com/products/lenovo-ideapad-slim-3-ryzen-5-7520u-8gb-ram-512gb-ssd-16",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/lenovo-ideapad-slim-3-15amn8-frente-pantalla-fhd-tn-color-arctic-grey-cemco.webp?v=1782339257",
+        "caracteristicas":  [
+                                "Procesador",
+                                "AMD Radeon™ 610M Graphics Integrada",
+                                "Memoria RAM",
+                                "Almacenamiento",
+                                "512 GB SSD NVMe PCIe® (arranque rápido, excelente velocidad de lectura y escritura)",
+                                "Compatible con reproducción de video en alta resolución"
+                            ],
+        "fuente":  "Planeta Digital",
+        "imagen":  "imagenes/31-lenovo-ideapad-slim-3.png",
+        "precio_final":  600
+    },
+    {
+        "nombre":  "LENOVO IDEAPAD SLIM 3 - I5-13VA",
+        "precio_original":  549.95,
+        "categoria":  "Computadoras",
+        "url_origen":  "https://planetadigitalec.com/products/lenovo-ideapad-slim-5-i5-13va-8gb-ram-512gb-ssd-16",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/lenovo-ideapad-slim-5-16iah8-83bg001xvn-chinh-hang-2.webp?v=1711056201",
+        "caracteristicas":  [
+                                "Tarjeta Gráfica Intel® Iris® Xe Graphics",
+                                "Memoria RAM 8 GB de RAM",
+                                "Disco Duro 512GB M.2 2242 PCIe® 4.0 x4 (Disco Sólido – SSD)",
+                                "Pantalla",
+                                "Pantalla de 16″ WUXGA (1920×1200). IPS, 120Hz",
+                                "Sistema Operativo Windows 11"
+                            ],
+        "fuente":  "Planeta Digital",
+        "imagen":  "imagenes/32-lenovo-ideapad-slim-3---i5-13va.png",
+        "precio_final":  620
+    },
+    {
+        "nombre":  "ASUS VIVOBOOK I5 - 13VA",
+        "precio_original":  550.0,
+        "categoria":  "Computadoras",
+        "url_origen":  "https://planetadigitalec.com/products/asus-vivobook-i5-13va-16-gb-1tb-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/4_54.webp?v=1760652065",
+        "caracteristicas":  [
+                                "Gráficos Gráficos Intel®",
+                                "Almacenamiento 512Gb SSD M.2 2280 NVMe™ PCIe® 4.0, x4",
+                                "Pantalla",
+                                "Wi-Fi 6E (802.11ax) (banda dual) 1*1",
+                                "1x USB 2.0 Tipo-A (velocidad de datos de hasta 480Mbps)",
+                                "1x USB 3.2 Gen 1 Tipo-C (velocidad de datos de hasta 5Gbps)"
+                            ],
+        "fuente":  "Planeta Digital",
+        "imagen":  "imagenes/33-asus-vivobook-i5---13va.jpg",
+        "precio_final":  620
+    },
+    {
+        "nombre":  "HP I5-13VA",
+        "precio_original":  599.0,
+        "categoria":  "Computadoras",
+        "url_origen":  "https://planetadigitalec.com/products/hp-i5-13va-16gb-ram-512gb-ssd-windows-11",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/612KwwQKUGL._AC_SX355.jpg?v=1744841525",
+        "caracteristicas":  [
+                                "Coprocesador de gráficos Intel UHD Graphics",
+                                "Procesador ‎1,3 GHz core_i5_13VA",
+                                "Marca Chipset ‎Intel",
+                                "Marca del procesador Intel",
+                                "RAM ‎12 GB SO-DIMM",
+                                "Disco Duro ‎512 GB SSD PCIe NVMe"
+                            ],
+        "fuente":  "Planeta Digital",
+        "imagen":  "imagenes/34-hp-i5-13va.jpg",
+        "precio_final":  670
+    },
+    {
+        "nombre":  "LENOVO IDEAPA SLIM 3 I5-13VA",
+        "precio_original":  599.0,
+        "categoria":  "Computadoras",
+        "url_origen":  "https://planetadigitalec.com/products/lenovo-ideapa-slim-3-i5-13va-16gb-ram-512gb-ssd-touch-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/51Iym2s47NL._AC_SY355.jpg?v=1732570485",
+        "caracteristicas":  [
+                                "Máxima resolución de pantalla ‎1920x1080 MP",
+                                "Procesador ‎4.6 GHz core_i5_13va",
+                                "Marca Chipset ‎Intel",
+                                "Marca del procesador ‎Intel",
+                                "RAM ‎16 GB SDRAM",
+                                "Tamaño de RAM de la tarjeta gráfica ‎1.00"
+                            ],
+        "fuente":  "Planeta Digital",
+        "imagen":  "imagenes/35-lenovo-ideapa-slim-3-i5-13va.jpg",
+        "precio_final":  670
+    },
+    {
+        "nombre":  "HP OMNIBOOK FLIP",
+        "precio_original":  599.77,
+        "categoria":  "Computadoras",
+        "url_origen":  "https://planetadigitalec.com/products/hp-omnibook-flip-ryzen-5-220w-ai-8gb-ram-512gb-ssd-16",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/61IFZawdmdL._AC_SX466.jpg?v=1756748995",
+        "caracteristicas":  [
+                                "procesador: AMD Ryzen™ 5 220 (hasta 4,9 GHz, 16 MB de caché L3, 6 núcleos)",
+                                "Coprocesador de gráficos Gráficos AMD Radeon 740M",
+                                "Marca Chipset ‎AMD",
+                                "Marca del procesador AMD",
+                                "RAM ‎8 GB Lpddr 5",
+                                "Disco duro ‎512 GB SSD"
+                            ],
+        "fuente":  "Planeta Digital",
+        "imagen":  "imagenes/36-hp-omnibook-flip.jpg",
+        "precio_final":  670
+    },
+    {
+        "nombre":  "MSI CLAW GAMING HANDHELD ULTRA 7-155H",
+        "precio_original":  620.0,
+        "categoria":  "Computadoras",
+        "url_origen":  "https://planetadigitalec.com/products/msi-claw-gaming-handheld-ultra-7-155h-7-120hz-fhd-16gb-ram-512gb-ssd",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/510WjZAovxL._AC_SX466.jpg?v=1755290289",
+        "caracteristicas":  [
+                                "Procesador ‎1,4 GHz Intel_Mobile_CPU",
+                                "Marca Chipset ‎Intel",
+                                "Marca del procesador Intel",
+                                "RAM ‎16GB LPDDR5",
+                                "Tipo de memoria del equipo ‎DDR5 RAM",
+                                "Disco Duro 512 GB SSD"
+                            ],
+        "fuente":  "Planeta Digital",
+        "imagen":  "imagenes/37-msi-claw-gaming-handheld-ultra-7-155h.jpg",
+        "precio_final":  690
+    },
+    {
+        "nombre":  "Lenovo V15,",
+        "precio_original":  629.0,
+        "categoria":  "Computadoras",
+        "url_origen":  "https://planetadigitalec.com/products/lenovo-v15-ryzen-7-7730u-16gb-512gb-ssd",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/81aQUyiv4iL._AC_SX466.jpg?v=1731620120",
+        "caracteristicas":  [
+                                "Procesador",
+                                "AMD Ryzen™ 7 7730U (4,5 GHz Max Boost, 16MB Cache, 8 núcleos y 16 subprocesos)",
+                                "Tarjeta de video: AMD Radeon™ Graphics",
+                                "Ram: 16GB DDR5",
+                                "Almacenamiento 512GB SSD M.2",
+                                "Pantalla"
+                            ],
+        "fuente":  "Planeta Digital",
+        "imagen":  "imagenes/38-lenovo-v15.jpg",
+        "precio_final":  700
+    },
+    {
+        "nombre":  "LENOVO YOGA 7 I5-13VA",
+        "precio_original":  630.0,
+        "categoria":  "Computadoras",
+        "url_origen":  "https://planetadigitalec.com/products/lenovo-yoga-7-i5-13va-8gb-ram-512gbssd-windows-11-x360-touch-16",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/51OlGWavS2L._AC_SX466.jpg?v=1748113770",
+        "caracteristicas":  [
+                                "Coprocesador de gráficos Intel UHD Graphics 620",
+                                "Resolución máxima de pantalla 1920x1200 MP",
+                                "Procesador ‎4,6 GHz core_i5_13VA",
+                                "Marca Chipset ‎Intel",
+                                "Marca del procesador Intel",
+                                "Memoria RAM 8 GB SDRAM"
+                            ],
+        "fuente":  "Planeta Digital",
+        "imagen":  "imagenes/39-lenovo-yoga-7-i5-13va.jpg",
+        "precio_final":  700
+    },
+    {
+        "nombre":  "Infinix SMART 6 HD",
+        "precio_original":  69.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/infinix-smart-6-hd-ram-2gb-32gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/08/infinix-smart-6-hd-azul.webp",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "Infinix SMART 6 HD Ram 2GB- 32GB"
+                            ],
+        "imagen":  "imagenes/40-infinix-smart-6-hd.webp",
+        "precio_final":  110
+    },
+    {
+        "nombre":  "Xiaomi 15 Ultra",
+        "precio_original":  99.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/kit-fotografico-del-xiaomi-15-ultra/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/04/kit15.webp",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+
+                            ],
+        "imagen":  "imagenes/41-xiaomi-15-ultra.webp",
+        "precio_final":  140
+    },
+    {
+        "nombre":  "Realme C21Y Ram4GB/64GB",
+        "precio_original":  99.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/realme-c21y-ram4gb-64gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/09/rmc21y-464gb-blu-9-1000x1000-1.jpg",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "Realme C21Y Ram4GB/64GB"
+                            ],
+        "imagen":  "imagenes/42-realme-c21y-ram4gb-64gb.jpg",
+        "precio_final":  140
+    },
+    {
+        "nombre":  "Realme C11 (2021)",
+        "precio_original":  102.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/realme-c11/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2021/07/Realme-C11.jpg",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "Realme C11 (2021) RAM 2GB/32GB"
+                            ],
+        "imagen":  "imagenes/43-realme-c11-2021.jpg",
+        "precio_final":  150
+    },
+    {
+        "nombre":  "Infinix Hot 20i",
+        "precio_original":  129.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/infinix-hot-20i-ram-43-gb-128gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/08/hot-20i.webp",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "Infinix Hot 20i RAM 4+3 GB 128GB"
+                            ],
+        "imagen":  "imagenes/44-infinix-hot-20i.webp",
+        "precio_final":  170
+    },
+    {
+        "nombre":  "Tecno Spark Go 3 Ram4+4GB-128GB",
+        "precio_original":  135.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/tecno-spark-go-3-ram44gb-64gb-128gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/03/tecno-spark-go-3.webp",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "Tecno Spark Go 3 Ram4+4GB-128GB"
+                            ],
+        "imagen":  "imagenes/45-tecno-spark-go-3-ram4-4gb-128gb.webp",
+        "precio_final":  180
+    },
+    {
+        "nombre":  "Logic G1L GAMING PHONE+GAME PAD+BUDS",
+        "precio_original":  139.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/logic-g1l-gaming-phonegame-padbuds-ram-410gb-128gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/08/logi.png",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "LOGIC G1L GAMING PHONE+GAME PAD+BUDS RAM 4+10GB",
+                                "128GB"
+                            ],
+        "imagen":  "imagenes/46-logic-g1l-gaming-phone-game-pad-buds.png",
+        "precio_final":  180
+    },
+    {
+        "nombre":  "Samsung A07",
+        "precio_original":  139.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/samsung-a07-ram-4gb-128gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/02/a07.webp",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "Samsung A07 Ram 4GB- 128GB"
+                            ],
+        "imagen":  "imagenes/47-samsung-a07.webp",
+        "precio_final":  180
+    },
+    {
+        "nombre":  "Infinix smart 20",
+        "precio_original":  139.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/infinix-smart-20-ram-4-4-gb-64gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/04/infinix-smart-20.jpg",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "Infinix Smart 20 Ram 4 +4 GB -128GB-256GB"
+                            ],
+        "imagen":  "imagenes/48-infinix-smart-20.jpg",
+        "precio_final":  180
+    },
+    {
+        "nombre":  "Xiaomi Redmi A7 Pro",
+        "precio_original":  145.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/xiaomi-redmi-a7-pro-ram-4gb-128gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/08/xiaomi-redmi-a7-pro.webp",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "Xiaomi Redmi A7 Pro Ram 4GB-128GB"
+                            ],
+        "imagen":  "imagenes/49-xiaomi-redmi-a7-pro.webp",
+        "precio_final":  190
+    },
+    {
+        "nombre":  "Motorola G06",
+        "precio_original":  149.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/motorola-g06-ram-4gb4gb-256gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/03/g06.jpeg",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "MOTOROLA G06 Ram 4GB+4GB-256GB"
+                            ],
+        "imagen":  "imagenes/50-motorola-g06.jpg",
+        "precio_final":  190
+    },
+    {
+        "nombre":  "Tcl L10+",
+        "precio_original":  150.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/l10/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2021/04/1062.jpg",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "TCL L10+"
+                            ],
+        "imagen":  "imagenes/51-tcl-l10.jpg",
+        "precio_final":  190
+    },
+    {
+        "nombre":  "Oppo A5 4G",
+        "precio_original":  165.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/oppo-a5-4g-ram-4gb-256gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/05/a5-4g.png",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "OPPO A5 4G RAM 4GB-256GB"
+                            ],
+        "imagen":  "imagenes/52-oppo-a5-4g.png",
+        "precio_final":  210
+    },
+    {
+        "nombre":  "Tecno Spark 9 Pro",
+        "precio_original":  175.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/tecno-spark-9-pro/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2022/11/Tecno-Spark-9-Pro-4.jpg",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "Tecno Spark 9 Pro"
+                            ],
+        "imagen":  "imagenes/53-tecno-spark-9-pro.jpg",
+        "precio_final":  220
+    },
+    {
+        "nombre":  "Motorola G17",
+        "precio_original":  185.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/motorola-g17-ram-4gb-256gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/05/moto-g17.jpg",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "Motorola G17 Ram 4GB- 256GB"
+                            ],
+        "imagen":  "imagenes/54-motorola-g17.jpg",
+        "precio_final":  230
+    },
+    {
+        "nombre":  "Xiaomi Redmi 15c",
+        "precio_original":  189.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/xiaomi-redmi-15c-ram-8gb-256gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/09/redmi15c.webp",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "Xiaomi Redmi 15c Ram 8gb",
+                                "256gb"
+                            ],
+        "imagen":  "imagenes/55-xiaomi-redmi-15c.webp",
+        "precio_final":  230
+    },
+    {
+        "nombre":  "Realme Narzo 30 (5G)",
+        "precio_original":  195.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/realme-narzo-30-5g/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2021/11/719tm7l723L._SL1500_.jpg",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "Realme Narzo 30 (5G)"
+                            ],
+        "imagen":  "imagenes/56-realme-narzo-30-5g.jpg",
+        "precio_final":  240
+    },
+    {
+        "nombre":  "Zte Nubia V80 Max",
+        "precio_original":  199.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/zte-nubia-v80-max-ram-812-gb-256gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/04/zte-v80-max.jpg",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "ZTE Nubia V80 Max Ram 8+12 GB-256GB"
+                            ],
+        "imagen":  "imagenes/57-zte-nubia-v80-max.jpg",
+        "precio_final":  240
+    },
+    {
+        "nombre":  "Motorola G56 5G",
+        "precio_original":  229.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/motorola-g56-5g-8gb8gb-256gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/12/moto-56.png",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "MOTOROLA G56 5G 8GB+8GB-256GB"
+                            ],
+        "imagen":  "imagenes/58-motorola-g56-5g.png",
+        "precio_final":  270
+    },
+    {
+        "nombre":  "Samsung Galaxy A17",
+        "precio_original":  259.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/samsung-galaxy-a17-4gb-128gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/05/sam-a17-4g.webp",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "SAMSUNG GALAXY A17 8GB -256GB Androir"
+                            ],
+        "imagen":  "imagenes/59-samsung-galaxy-a17.webp",
+        "precio_final":  300
+    },
+    {
+        "nombre":  "Xiaomi Mi 10 lite",
+        "precio_original":  269.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/xiaomi-mi-10-lite-128gb-6gb-ram-5g/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2023/01/1-15.svg",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "Xiaomi Mi 10 lite 128gb 6gb Ram 5G"
+                            ],
+        "imagen":  "imagenes/60-xiaomi-mi-10-lite.jpg",
+        "precio_final":  310
+    },
+    {
+        "nombre":  "Oppo A5 5G",
+        "precio_original":  269.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/oppo-a5-ram-8gb-256gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/11/oppoa5.png",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "OPPO A5 5G Ram 8GB",
+                                "256GB"
+                            ],
+        "imagen":  "imagenes/61-oppo-a5-5g.png",
+        "precio_final":  310
+    },
+    {
+        "nombre":  "Tecno camon 18 premier",
+        "precio_original":  315.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/tecno-camon-18-premier/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2022/04/camon-.jpg",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "Tecno camon 18 premier"
+                            ],
+        "imagen":  "imagenes/62-tecno-camon-18-premier.jpg",
+        "precio_final":  360
+    },
+    {
+        "nombre":  "Honor X8d",
+        "precio_original":  319.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/honor-x8d-ram-8gb-256gb-512gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/03/honor-x8d.webp",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "HONOR X8d Ram 8GB- 256GB/512GB"
+                            ],
+        "imagen":  "imagenes/63-honor-x8d.webp",
+        "precio_final":  360
+    },
+    {
+        "nombre":  "Realme P3 5G",
+        "precio_original":  329.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/realme-p3-5g-ram-8gb-12gb-256gb-512gb-control/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/09/realmemas-control.jpg",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "Realme P3 5G RAM 8GB/12GB- 256GB/512GB +control"
+                            ],
+        "imagen":  "imagenes/64-realme-p3-5g.jpg",
+        "precio_final":  370
+    },
+    {
+        "nombre":  "Tecno Camón 50 pro",
+        "precio_original":  339.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/tecno-camon-50-pro-ram-88-gb-256gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/03/camon-con-audifonos.png",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "Tecno Camón 50 pro Ram 8+8 GB/256GB+audifonos tipo diadema"
+                            ],
+        "imagen":  "imagenes/65-tecno-cam-n-50-pro.png",
+        "precio_final":  380
+    },
+    {
+        "nombre":  "Xiaomi Poco F4",
+        "precio_original":  399.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/xiaomi-poco-f4-ram-8gb-256gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2022/08/Nuevo-proyecto-11-1.png",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "XIAOMI POCO F4 Ram 8GB",
+                                "256GB"
+                            ],
+        "imagen":  "imagenes/66-xiaomi-poco-f4.png",
+        "precio_final":  440
+    },
+    {
+        "nombre":  "Samsung Galaxy A37 5G",
+        "precio_original":  399.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/samsung-galaxy-a37-5g-ram-8gb-256gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/08/a37.webp",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "Samsung Galaxy A37 5G Ram 8GB- 256GB"
+                            ],
+        "imagen":  "imagenes/67-samsung-galaxy-a37-5g.webp",
+        "precio_final":  440
+    },
+    {
+        "nombre":  "Honor Magic8 Lite",
+        "precio_original":  409.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/honor-magic8-lite-ram-8gb-256gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/01/magi-8lite.webp",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "Honor Magic8 Lite Ram 8GB/256GB"
+                            ],
+        "imagen":  "imagenes/68-honor-magic8-lite.webp",
+        "precio_final":  450
+    },
+    {
+        "nombre":  "Motorola Edge 70 Fusion",
+        "precio_original":  419.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/motorola-edge-70-fusion-ram-8gb-256gb-buds-motorola/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/04/70-fushion.png",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "Motorola Edge 70 Fusion Ram 8GB-256GB +Buds motorola"
+                            ],
+        "imagen":  "imagenes/69-motorola-edge-70-fusion.png",
+        "precio_final":  460
+    },
+    {
+        "nombre":  "Tecno CAMON 50 Ultra 5G",
+        "precio_original":  429.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/tecno-camon-50-ultra-5g-ram-88gb-256gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/06/camon-50-ultra-1.jpg",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "TECNO CAMON 50 Ultra 5G Ram 8+8GB – 256GB"
+                            ],
+        "imagen":  "imagenes/70-tecno-camon-50-ultra-5g.jpg",
+        "precio_final":  470
+    },
+    {
+        "nombre":  "Samsung Galaxy A56 5G",
+        "precio_original":  439.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/samsung-galaxy-a56-5g-ram-12gb-256gb-2/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/04/a56.jpg",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "Samsung Galaxy A56 5G Ram 12GB",
+                                "256GB"
+                            ],
+        "imagen":  "imagenes/71-samsung-galaxy-a56-5g.jpg",
+        "precio_final":  480
+    },
+    {
+        "nombre":  "Honor 600E",
+        "precio_original":  449.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/honor-600e-ram-8gb-256gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/06/honor-e.webp",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "Honor 600E Ram 8GB-256GB"
+                            ],
+        "imagen":  "imagenes/72-honor-600e.webp",
+        "precio_final":  490
+    },
+    {
+        "nombre":  "Samsung Galaxy A57",
+        "precio_original":  469.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/samsung-galaxy-a57-ram-8gb-256gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/05/a57.png",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "Samsung Galaxy A57 Ram 8GB-256GB IA"
+                            ],
+        "imagen":  "imagenes/73-samsung-galaxy-a57.png",
+        "precio_final":  510
+    },
+    {
+        "nombre":  "Xiaomi Redmi Note 15 Pro Plus 5G",
+        "precio_original":  489.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/redmi-note-15-pro-plus-5g-ram-12gb-512gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/02/xiaomi-redmi-note15-pro-plus.png",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "Redmi Note 15 Pro Plus 5G Ram 12GB- 512GB"
+                            ],
+        "imagen":  "imagenes/74-redmi-note-15-pro-plus-5g.png",
+        "precio_final":  530
+    },
+    {
+        "nombre":  "Oppo Reno13F 5G",
+        "precio_original":  499.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/reno13-f-5g-ram-12gb-512gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/11/reno-13f.jpg",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "Oppo Reno13F 5G Ram 12GB",
+                                "512GB IP69"
+                            ],
+        "imagen":  "imagenes/75-oppo-reno13f-5g.jpg",
+        "precio_final":  540
+    },
+    {
+        "nombre":  "Oppo Reno14F",
+        "precio_original":  535.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/oppo-reno14f-ram-12gb-512gb-audifonos/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/01/reno.webp",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "Oppo Reno14F Ram 12GB-512GB +AUDIFONOS"
+                            ],
+        "imagen":  "imagenes/76-oppo-reno14f.webp",
+        "precio_final":  580
+    },
+    {
+        "nombre":  "Xiaomi Poco x8 Pro",
+        "precio_original":  569.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/xiaomi-poco-x8-pro-ram-12gb-512gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/05/x8-pro.jpg",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "Xiaomi Poco x8 Pro Ram 12GB",
+                                "512GB"
+                            ],
+        "imagen":  "imagenes/77-xiaomi-poco-x8-pro.jpg",
+        "precio_final":  610
+    },
+    {
+        "nombre":  "Apple iPhone 11 PRO MAX OPEN BOX A",
+        "precio_original":  579.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/iphone-11-pro-max-open-box/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2022/09/11-pro-max-p.jpg",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "IPHONE 11 PRO MAX OPEN BOX A 256GB"
+                            ],
+        "imagen":  "imagenes/78-iphone-11-pro-max-open-box-a.jpg",
+        "precio_final":  620
+    },
+    {
+        "nombre":  "Infinix GT 50 Pro HydroFlow y gatillos laterales",
+        "precio_original":  599.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/infinix-gt-50-pro-hydroflow-y-gatillos-laterales-ram-1212-gb-256gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/07/infinix-gt-50-pro-launched-in-ph-c.jpg",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "Infinix GT 50 Pro HydroFlow y gatillos laterales Ram 12+12 GB-256GB"
+                            ],
+        "imagen":  "imagenes/79-infinix-gt-50-pro-hydroflow-y-gatillos-laterales.jpg",
+        "precio_final":  640
+    },
+    {
+        "nombre":  "Honor 600",
+        "precio_original":  659.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://mundotek.com.ec/producto/honor-600-ram-8gb-256gb/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/06/honor-600.webp",
+        "fuente":  "MundoTek",
+        "caracteristicas":  [
+                                "HONOR 600 Ram 8GB-256GB"
+                            ],
+        "imagen":  "imagenes/80-honor-600.webp",
+        "precio_final":  700
+    },
+    {
+        "nombre":  "OnePlus Nord N200 5G – Open box",
+        "precio_original":  90.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/nord-n200-5g/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/09/One-Plus-N200-5G.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Nord N200 5G – Open box"
+                            ],
+        "imagen":  "imagenes/81-nord-n200-5g-open-box.png",
+        "precio_final":  160
+    },
+    {
+        "nombre":  "Honor play 10/",
+        "precio_original":  115.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/honor-play-10/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/06/Honor-Play-10-1.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Honor Play 10"
+                            ],
+        "imagen":  "imagenes/82-honor-play-10.png",
+        "precio_final":  190
+    },
+    {
+        "nombre":  "Blackview BV4800 Pro",
+        "precio_original":  125.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/bv4800/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/08/BKACKVIEW-BV4800-NEGRO.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "BV4800 Pro"
+                            ],
+        "imagen":  "imagenes/83-bv4800-pro.png",
+        "precio_final":  200
+    },
+    {
+        "nombre":  "Samsung Galaxy A16 – Open Box",
+        "precio_original":  150.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/galaxy-a16-open-box/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/02/IMG_3845.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Galaxy A16 – Open Box"
+                            ],
+        "imagen":  "imagenes/84-galaxy-a16-open-box.png",
+        "precio_final":  220
+    },
+    {
+        "nombre":  "Motorola G17",
+        "precio_original":  170.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/motorola-g17/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/08/MOTOROLA-G17-AZUL.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Motorola G17"
+                            ],
+        "imagen":  "imagenes/85-motorola-g17.png",
+        "precio_final":  240
+    },
+    {
+        "nombre":  "Xiaomi Redmi 15C 4G",
+        "precio_original":  190.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/redmi-15c/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/08/REDMI-15C-AZUL.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Redmi 15C 4G"
+                            ],
+        "imagen":  "imagenes/86-redmi-15c-4g.png",
+        "precio_final":  260
+    },
+    {
+        "nombre":  "Honor X6C",
+        "precio_original":  190.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/honor-x6c-2/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/07/HONOR-X6C-NEGRO-8.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Honor X6C"
+                            ],
+        "imagen":  "imagenes/87-honor-x6c.png",
+        "precio_final":  260
+    },
+    {
+        "nombre":  "Samsung Galaxy A17",
+        "precio_original":  190.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/galaxy-a17-2/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/11/GALAXY-A17-4G-NEGRO.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Galaxy A17"
+                            ],
+        "imagen":  "imagenes/88-galaxy-a17.png",
+        "precio_final":  260
+    },
+    {
+        "nombre":  "Samsung Galaxy A54 – Open Box",
+        "precio_original":  195.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/open-box-samsung-galaxy-a54/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/01/A54-NEGRO.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Galaxy A54 – Open Box"
+                            ],
+        "imagen":  "imagenes/89-galaxy-a54-open-box.png",
+        "precio_final":  270
+    },
+    {
+        "nombre":  "OPPO A6C",
+        "precio_original":  205.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/a6c/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/08/OPPO-A6C-BLANCO.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "A6C"
+                            ],
+        "imagen":  "imagenes/90-a6c.png",
+        "precio_final":  280
+    },
+    {
+        "nombre":  "Xiaomi Redmi Note 15 4G",
+        "precio_original":  220.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/redmi-note-15-4g/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/01/remi-note-15-4g-negro.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Redmi Note 15 4G"
+                            ],
+        "imagen":  "imagenes/91-redmi-note-15-4g.png",
+        "precio_final":  290
+    },
+    {
+        "nombre":  "Motorola G56",
+        "precio_original":  225.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/moto-g56/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/03/MOTO-G56-AZUL-1.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Moto G56"
+                            ],
+        "imagen":  "imagenes/92-moto-g56.png",
+        "precio_final":  300
+    },
+    {
+        "nombre":  "Xiaomi Redmi Note 15 NFC",
+        "precio_original":  225.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/redmi-note-15-4g-nfc/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/01/remi-note-15-4g-negro.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Redmi Note 15 NFC"
+                            ],
+        "imagen":  "imagenes/93-redmi-note-15-nfc.png",
+        "precio_final":  300
+    },
+    {
+        "nombre":  "Honor X7D",
+        "precio_original":  230.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/honor-x7d-2/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/12/HONOR-X7D-PLATA.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Honor X7D"
+                            ],
+        "imagen":  "imagenes/94-honor-x7d.png",
+        "precio_final":  300
+    },
+    {
+        "nombre":  "Xiaomi Redmi Note 14 Pro 4G",
+        "precio_original":  265.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/redmi-note-14-pro-4g/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/01/Mesa-de-trabajo-1-copia-19-2.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Redmi Note 14 Pro 4G"
+                            ],
+        "imagen":  "imagenes/95-redmi-note-14-pro-4g.png",
+        "precio_final":  340
+    },
+    {
+        "nombre":  "Apple iPhone 12 – Open Box",
+        "precio_original":  275.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/iphone-12-open-box/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/01/Mesa-de-trabajo-1-copia-4-1.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "iPhone 12 – Open Box"
+                            ],
+        "imagen":  "imagenes/96-iphone-12-open-box.png",
+        "precio_final":  350
+    },
+    {
+        "nombre":  "Samsung Galaxy S22 5G – Open Box",
+        "precio_original":  280.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/samsung-galaxy-s22-5g/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/01/Mesa-de-trabajo-1-copia-52-1.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Galaxy S22 5G – Open Box"
+                            ],
+        "imagen":  "imagenes/97-galaxy-s22-5g-open-box.png",
+        "precio_final":  350
+    },
+    {
+        "nombre":  "Samsung Galaxy A26 5G",
+        "precio_original":  290.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/galaxy-a26-5g/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/01/SAMSUNG-A26-NEGRO.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Galaxy A26 5G"
+                            ],
+        "imagen":  "imagenes/98-galaxy-a26-5g.png",
+        "precio_final":  360
+    },
+    {
+        "nombre":  "Xiaomi Redmi Note 15 5G",
+        "precio_original":  290.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/redmi-note-15-5g/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/03/Redmi-note-15-pro-5g-morado-niebla.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Redmi Note 15 5G"
+                            ],
+        "imagen":  "imagenes/99-redmi-note-15-5g.png",
+        "precio_final":  360
+    },
+    {
+        "nombre":  "Xiaomi Redmi Note 15 Pro 4G",
+        "precio_original":  295.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/redmi-note-15-pro-4g/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/01/redmi-note-15-pro-negro.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Redmi Note 15 Pro 4G"
+                            ],
+        "imagen":  "imagenes/100-redmi-note-15-pro-4g.png",
+        "precio_final":  370
+    },
+    {
+        "nombre":  "OPPO A6X",
+        "precio_original":  295.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/a6x/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/09/OPPO-A6X-NEGRO.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "A6X"
+                            ],
+        "imagen":  "imagenes/101-a6x.png",
+        "precio_final":  370
+    },
+    {
+        "nombre":  "Honor X8D",
+        "precio_original":  310.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/honor-x8d/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/02/Honor-X8D-CELESTE-1.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Honor X8D"
+                            ],
+        "imagen":  "imagenes/102-honor-x8d.png",
+        "precio_final":  380
+    },
+    {
+        "nombre":  "Google Pixel 8 A- Open Box",
+        "precio_original":  310.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/pixel-8-a-open-box/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/05/Pixel-8-Gris.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Pixel 8 A- Open Box"
+                            ],
+        "imagen":  "imagenes/103-pixel-8-a--open-box.png",
+        "precio_final":  380
+    },
+    {
+        "nombre":  "Motorola Edge 60 Fusion",
+        "precio_original":  315.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/motorola-edge-60-fusion/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/03/MOTO-EDGE-60-FUSION-AZUL-VIBRANTE.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Moto Edge 60 Fusion"
+                            ],
+        "imagen":  "imagenes/104-moto-edge-60-fusion.png",
+        "precio_final":  390
+    },
+    {
+        "nombre":  "Samsung Galaxy S22+ 5G – Open Box",
+        "precio_original":  320.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/samsung-galaxy-s22/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/01/Mesa-de-trabajo-1-copia-55-1.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Galaxy S22+ 5G – Open Box"
+                            ],
+        "imagen":  "imagenes/105-galaxy-s22-5g-open-box.png",
+        "precio_final":  390
+    },
+    {
+        "nombre":  "Xiaomi Redmi Note 14 Pro 5G",
+        "precio_original":  320.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/redmi-note-14-pro-5g-2/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/02/REDMI-NOTE-14-PRO-5G-MORADO.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Redmi Note 14 Pro 5G"
+                            ],
+        "imagen":  "imagenes/106-redmi-note-14-pro-5g.png",
+        "precio_final":  390
+    },
+    {
+        "nombre":  "Samsung Galaxy S23 5G – Open Box",
+        "precio_original":  325.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/galaxy-s23-5g-open-box/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/05/GALAXY-S23.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Galaxy S23 5G – Open Box"
+                            ],
+        "imagen":  "imagenes/107-galaxy-s23-5g-open-box.png",
+        "precio_final":  400
+    },
+    {
+        "nombre":  "Samsung Galaxy S23 FE 5G – Open Box",
+        "precio_original":  335.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/galaxy-s23fe-5g-open-box/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/05/S23FE-MORADO.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Galaxy S23 FE 5G – Open Box"
+                            ],
+        "imagen":  "imagenes/108-galaxy-s23-fe-5g-open-box.png",
+        "precio_final":  410
+    },
+    {
+        "nombre":  "Apple iPhone 13 – Open Box",
+        "precio_original":  340.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/iphone-13-open-box/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/01/Mesa-de-trabajo-1-copia-5-2.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "iPhone 13 – Open Box"
+                            ],
+        "imagen":  "imagenes/109-iphone-13-open-box.png",
+        "precio_final":  410
+    },
+    {
+        "nombre":  "Apple iPhone 12 Pro – Open Box",
+        "precio_original":  350.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/iphone-12-pro-open-box/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/01/Mesa-de-trabajo-1-copia-59.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "iPhone 12 Pro – Open Box"
+                            ],
+        "imagen":  "imagenes/110-iphone-12-pro-open-box.png",
+        "precio_final":  420
+    },
+    {
+        "nombre":  "Samsung Galaxy A36 5G",
+        "precio_original":  350.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/galaxy-a36-5g/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/01/SAMSUNG-A36-A56-AZUL.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Galaxy A36 5G"
+                            ],
+        "imagen":  "imagenes/111-galaxy-a36-5g.png",
+        "precio_final":  420
+    },
+    {
+        "nombre":  "Xiaomi Poco X7 Pro 5G",
+        "precio_original":  350.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/poco-x7-pro-5g/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/01/Mesa-de-trabajo-1-copia-17-2.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Poco X7 Pro 5G"
+                            ],
+        "imagen":  "imagenes/112-poco-x7-pro-5g.png",
+        "precio_final":  420
+    },
+    {
+        "nombre":  "Google Pixel 8 – Open Box",
+        "precio_original":  350.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/pixel-8-open-box-2/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/01/Mesa-de-trabajo-1-copia-11-2.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Pixel 8 – Open Box"
+                            ],
+        "imagen":  "imagenes/113-pixel-8-open-box.png",
+        "precio_final":  420
+    },
+    {
+        "nombre":  "Samsung Galaxy S24 FE – Open Box",
+        "precio_original":  360.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/galaxy-s24-fe-open-box/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/01/Mesa-de-trabajo-1-1.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Galaxy S24 FE – Open Box"
+                            ],
+        "imagen":  "imagenes/114-galaxy-s24-fe-open-box.png",
+        "precio_final":  430
+    },
+    {
+        "nombre":  "OPPO A6",
+        "precio_original":  360.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/a6c-copia/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/09/oppo-a6-azul.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+
+                            ],
+        "imagen":  "imagenes/115-a6.png",
+        "precio_final":  430
+    },
+    {
+        "nombre":  "Samsung Galaxy S23+ 5G – Open Box",
+        "precio_original":  380.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/galaxy-s23-plus-5g-open-box/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/09/Galaxy-S23-Plus-Negro.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Galaxy S23+ 5G – Open Box"
+                            ],
+        "imagen":  "imagenes/116-galaxy-s23-5g-open-box.png",
+        "precio_final":  450
+    },
+    {
+        "nombre":  "Xiaomi Redmi Note 15 Pro 5G",
+        "precio_original":  385.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/redmi-note-15-pro-5g/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/03/Redmi-Note-15-Pro-5g-Azul-1.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Redmi Note 15 Pro 5G"
+                            ],
+        "imagen":  "imagenes/117-redmi-note-15-pro-5g.png",
+        "precio_final":  460
+    },
+    {
+        "nombre":  "Google Pixel 8 Pro – Open Box",
+        "precio_original":  390.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/pixel-8-pro-open-box/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/01/Mesa-de-trabajo-1-copia-11-2.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Pixel 8 Pro – Open Box"
+                            ],
+        "imagen":  "imagenes/118-pixel-8-pro-open-box.png",
+        "precio_final":  460
+    },
+    {
+        "nombre":  "Honor Magic 8 Lite 5G",
+        "precio_original":  400.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/honor-magic-8-lite-5g/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/01/Magic-8-lite-crema.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Honor Magic 8 Lite 5G"
+                            ],
+        "imagen":  "imagenes/119-honor-magic-8-lite-5g.png",
+        "precio_final":  470
+    },
+    {
+        "nombre":  "Google Pixel 9A – Open Box",
+        "precio_original":  400.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/pixel-9a-open-box/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/06/Pixel-9A-Negro.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Pixel 9A – Open Box"
+                            ],
+        "imagen":  "imagenes/120-pixel-9a-open-box.png",
+        "precio_final":  470
+    },
+    {
+        "nombre":  "Apple iPhone 14 – Open Box",
+        "precio_original":  420.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/iphone-14-open-box/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/01/Mesa-de-trabajo-1-copia-6-1.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "iPhone 14 – Open Box"
+                            ],
+        "imagen":  "imagenes/121-iphone-14-open-box.png",
+        "precio_final":  490
+    },
+    {
+        "nombre":  "Apple iPhone 12 Pro Max – Open Box",
+        "precio_original":  425.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/iphone-12-pro-max-openbox/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/01/Mesa-de-trabajo-1-copia-60-1.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "iPhone 12 Pro Max – Open Box"
+                            ],
+        "imagen":  "imagenes/122-iphone-12-pro-max-open-box.png",
+        "precio_final":  500
+    },
+    {
+        "nombre":  "Motorola Edge 70 Fusion",
+        "precio_original":  430.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/moto-edge-70-fusion/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/05/Motorola-Edge-70-Fusion-Negro.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Moto Edge 70 Fusion"
+                            ],
+        "imagen":  "imagenes/123-moto-edge-70-fusion.png",
+        "precio_final":  500
+    },
+    {
+        "nombre":  "Samsung Galaxy A37 5G",
+        "precio_original":  430.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/galaxy-a37-5g/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/06/Galaxy-A37-Negro.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Galaxy A37 5G"
+                            ],
+        "imagen":  "imagenes/124-galaxy-a37-5g.png",
+        "precio_final":  500
+    },
+    {
+        "nombre":  "Xiaomi Poco X8 Pro 5G",
+        "precio_original":  440.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/poco-x8-pro-5g/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/03/POCO-X8-PRO-NEGRO1.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Poco X8 Pro 5G"
+                            ],
+        "imagen":  "imagenes/125-poco-x8-pro-5g.png",
+        "precio_final":  510
+    },
+    {
+        "nombre":  "OPPO A6 PRO",
+        "precio_original":  440.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/a6-pro/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/09/OPPO-A6-PRO-ROSA.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "A6 PRO"
+                            ],
+        "imagen":  "imagenes/126-a6-pro.png",
+        "precio_final":  510
+    },
+    {
+        "nombre":  "Samsung Galaxy A56 5G",
+        "precio_original":  445.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/galaxy-a56/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/01/IMG_6655.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Galaxy A56 5G"
+                            ],
+        "imagen":  "imagenes/127-galaxy-a56-5g.png",
+        "precio_final":  520
+    },
+    {
+        "nombre":  "Google Pixel 9 – Open Box",
+        "precio_original":  450.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/google-pixel-9/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/01/Mesa-de-trabajo-1-copia-12-2.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Pixel 9 – Open Box"
+                            ],
+        "imagen":  "imagenes/128-pixel-9-open-box.png",
+        "precio_final":  520
+    },
+    {
+        "nombre":  "Honor 600e",
+        "precio_original":  450.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/honor-600e/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/07/HONOR-600-E-DORADO.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Honor 600e"
+                            ],
+        "imagen":  "imagenes/129-honor-600e.png",
+        "precio_final":  520
+    },
+    {
+        "nombre":  "Apple iPhone 14 Plus – Open Box",
+        "precio_original":  460.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/iphone-14-plus-openbox/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/01/Mesa-de-trabajo-1-copia-6-1.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "iPhone 14 Plus – Open Box"
+                            ],
+        "imagen":  "imagenes/130-iphone-14-plus-open-box.png",
+        "precio_final":  530
+    },
+    {
+        "nombre":  "Samsung Galaxy S22 Ultra – Open Box",
+        "precio_original":  460.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/open-box-samsung-galaxy-s22-ultra/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/01/S22-ULTRA-VERDE.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Galaxy S22 Ultra – Open Box"
+                            ],
+        "imagen":  "imagenes/131-galaxy-s22-ultra-open-box.png",
+        "precio_final":  530
+    },
+    {
+        "nombre":  "Samsung Galaxy S24 – Open Box",
+        "precio_original":  490.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/galaxy-s24-open-box/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/11/S24-NEGRO.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Galaxy S24 – Open Box"
+                            ],
+        "imagen":  "imagenes/132-galaxy-s24-open-box.png",
+        "precio_final":  560
+    },
+    {
+        "nombre":  "Samsung Galaxy S24 FE",
+        "precio_original":  500.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/galaxy-s24-fe-256gb-8gb/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/01/Mesa-de-trabajo-1-1.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Galaxy S24 FE"
+                            ],
+        "imagen":  "imagenes/133-galaxy-s24-fe.png",
+        "precio_final":  570
+    },
+    {
+        "nombre":  "Xiaomi Redmi Note 15 Pro Plus 5G",
+        "precio_original":  500.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/redmi-note-15-pro-plus-5g/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/02/redmi-note-15-pro-cafe-moca.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Redmi Note 15 Pro Plus 5G"
+                            ],
+        "imagen":  "imagenes/134-redmi-note-15-pro-plus-5g.png",
+        "precio_final":  570
+    },
+    {
+        "nombre":  "Samsung Galaxy A57 5G",
+        "precio_original":  500.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/galaxy-a57-5g/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/06/Galaxy-A57-Lila.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Galaxy A57 5G"
+                            ],
+        "imagen":  "imagenes/135-galaxy-a57-5g.png",
+        "precio_final":  570
+    },
+    {
+        "nombre":  "Apple iPhone 13 Pro – Open Box",
+        "precio_original":  510.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/iphone-13-pro-open-box-2/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/02/iphone-13-pro-plata.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "iPhone 13 Pro – Open Box"
+                            ],
+        "imagen":  "imagenes/136-iphone-13-pro-open-box.png",
+        "precio_final":  580
+    },
+    {
+        "nombre":  "Motorola Edge 60 Pro",
+        "precio_original":  510.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/moto-edge-60-pro/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/03/MOTO-EDGE-60-PRO-AZUL.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Moto Edge 60 Pro"
+                            ],
+        "imagen":  "imagenes/137-moto-edge-60-pro.png",
+        "precio_final":  580
+    },
+    {
+        "nombre":  "Apple iPhone 13",
+        "precio_original":  520.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/iphone-13/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/01/IPHONE-13-ROJO.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "iPhone 13"
+                            ],
+        "imagen":  "imagenes/138-iphone-13.png",
+        "precio_final":  590
+    },
+    {
+        "nombre":  "Apple iPhone 13 Pro Max – Open Box",
+        "precio_original":  525.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/open-box-iphone-13-pro-max/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/01/Mesa-de-trabajo-1-copia-58-1.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "iPhone 13 Pro Max – Open Box"
+                            ],
+        "imagen":  "imagenes/139-iphone-13-pro-max-open-box.png",
+        "precio_final":  600
+    },
+    {
+        "nombre":  "Samsung Galaxy S24 Plus – Open Box",
+        "precio_original":  535.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/galaxy-s24/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/02/IMG_2799.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Galaxy S24 Plus – Open Box"
+                            ],
+        "imagen":  "imagenes/140-galaxy-s24-plus-open-box.png",
+        "precio_final":  610
+    },
+    {
+        "nombre":  "Samsung Galaxy S23 Ultra – Open Box",
+        "precio_original":  550.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/galaxy-s23-ultra-open-box/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/09/Galaxy-S23-Ultra-Negro.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Galaxy S23 Ultra – Open Box"
+                            ],
+        "imagen":  "imagenes/141-galaxy-s23-ultra-open-box.png",
+        "precio_final":  620
+    },
+    {
+        "nombre":  "Samsung Galaxy S25 FE",
+        "precio_original":  550.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/galaxy-s25-fe/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/10/Galaxy-S25-Fe-negro-azabache.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Galaxy S25 FE"
+                            ],
+        "imagen":  "imagenes/142-galaxy-s25-fe.png",
+        "precio_final":  620
+    },
+    {
+        "nombre":  "Apple iPhone 15 – Open Box",
+        "precio_original":  550.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/iphone-15/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/02/iphone-15-celeste.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "iPhone 15 – Open Box"
+                            ],
+        "imagen":  "imagenes/143-iphone-15-open-box.png",
+        "precio_final":  620
+    },
+    {
+        "nombre":  "Samsung Galaxy Z Flip 6 5G – Open Box",
+        "precio_original":  550.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/galaxy-z-flip-6-5g-open-box/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/03/Galaxy-Z-Flip-6-Negro.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Galaxy Z Flip 6 5G – Open Box"
+                            ],
+        "imagen":  "imagenes/144-galaxy-z-flip-6-5g-open-box.png",
+        "precio_final":  620
+    },
+    {
+        "nombre":  "Xiaomi Poco X8 Pro Max 5G",
+        "precio_original":  560.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/poco-x8-pro-max-5g/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/04/Poco-X8-Pro-Max-Negro.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Poco X8 Pro Max 5G"
+                            ],
+        "imagen":  "imagenes/145-poco-x8-pro-max-5g.png",
+        "precio_final":  630
+    },
+    {
+        "nombre":  "Xiaomi Poco X8 Pro 5G Version Iron Man",
+        "precio_original":  560.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/poco-x8-pro-5g-version-iron-man-2/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/06/X8-PRO-VERSION-IRON-MAN.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Poco X8 Pro 5G Version Iron Man"
+                            ],
+        "imagen":  "imagenes/146-poco-x8-pro-5g-version-iron-man.png",
+        "precio_final":  630
+    },
+    {
+        "nombre":  "Google Pixel 9A",
+        "precio_original":  570.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/pixel-9a/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2026/06/Pixel-9A-Negro.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "Pixel 9A"
+                            ],
+        "imagen":  "imagenes/147-pixel-9a.png",
+        "precio_final":  640
+    },
+    {
+        "nombre":  "Apple iPhone 14 Pro – Open Box",
+        "precio_original":  600.0,
+        "categoria":  "Celulares",
+        "url_origen":  "https://altagamastore.ec/producto/iphone-14-pro-open-box/",
+        "imagen_candidata":  "https://altagamastore.ec/wp-content/uploads/2025/11/IPHONE-14-PRO-NEGRO.png",
+        "fuente":  "Alta Gama Store",
+        "caracteristicas":  [
+                                "iPhone 14 Pro – Open Box"
+                            ],
+        "imagen":  "imagenes/148-iphone-14-pro-open-box.png",
+        "precio_final":  670
+    },
+    {
+        "nombre":  "Box Xiaomi Mi Box S 3era Generacion 4K",
+        "precio_original":  89.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/tv-box-xiaomi-mi-box-s/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2021/06/tvbox2.webp",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "TV Box Xiaomi Mi Box S 3era Generacion 4K"
+                            ],
+        "imagen":  "imagenes/149-box-xiaomi-mi-box-s-3era-generacion-4k.webp",
+        "precio_final":  160
+    },
+    {
+        "nombre":  "House Tv HT-32 32 » hd led",
+        "precio_original":  135.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/smart-tv-house-tv-ht-32-32-fhd-led-android-14-definicion-full-hd/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/07/hausetv.jpg",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Smart tv House Tv HT-32 32 » hd led android 14 definición hd"
+                            ],
+        "imagen":  "imagenes/150-house-tv-ht-32-32-hd-led.jpg",
+        "precio_final":  210
+    },
+    {
+        "nombre":  "Philips ph 32gfs fisdb 32",
+        "precio_original":  155.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/smart-tv-philips-ph-32gfs-fisdb-32-hd-led-android-14-google-tv-mando-de-voz-sin-bordes/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/11/tv-philips32.jpg",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Smart tv Philips PH-32GFS-FISDB 32 » hd led android 14 google tv mando de voz sin bordes"
+                            ],
+        "imagen":  "imagenes/151-philips-ph-32gfs-fisdb-32.jpg",
+        "precio_final":  230
+    },
+    {
+        "nombre":  "RCA 32 HDRC",
+        "precio_original":  155.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/televisor-rca-32-hdrc/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/08/tvrca.webp",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Televisor RCA 32 HDRC"
+                            ],
+        "imagen":  "imagenes/152-rca-32-hdrc.webp",
+        "precio_final":  230
+    },
+    {
+        "nombre":  "Riviera RI-RLED – GLT32TPXM 32 » hd (1366×768) led hdr",
+        "precio_original":  159.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/smart-tv-riviera-ri-rled-glt32tpxm-32-hd-1366x768-led-hdr-android-google-tv-mando-de-voz/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2024/10/ri-rled-glt32tpxm.jpg",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+
+                            ],
+        "imagen":  "imagenes/153-riviera-ri-rled-glt32tpxm-32-hd-1366-768-led-hdr.jpg",
+        "precio_final":  230
+    },
+    {
+        "nombre":  "Innova IN-LED-32HD-GTV-MP 32 » hd led",
+        "precio_original":  159.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/13477/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/01/in-led32hd-gtv-mp.jpg",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Smart tv Innova IN-LED-32HD-GTV-MP 32 » hd led android google tv"
+                            ],
+        "imagen":  "imagenes/154-innova-in-led-32hd-gtv-mp-32-hd-led.jpg",
+        "precio_final":  230
+    },
+    {
+        "nombre":  "Hisense 32Q4Q Qled sistema operativo Vida",
+        "precio_original":  169.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/tv-hisense-32q4q-qled-sistema-operativo-vida/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/06/hisense-serie-a4-smart-tv-a4q.png",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Tv Hisense 32Q4Q Qled sistema operativo Vida"
+                            ],
+        "imagen":  "imagenes/155-hisense-32q4q-qled-sistema-operativo-vida.png",
+        "precio_final":  240
+    },
+    {
+        "nombre":  "Motorola 32Tmkfhd",
+        "precio_original":  170.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/tv-motorola-32tmkgfhd-android-11-32pulgadas/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2024/03/32tmkgfhd.jpg",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Tv Motorola 32Tmkfhd GOOGLE TV 32PULGADAS"
+                            ],
+        "imagen":  "imagenes/156-motorola-32tmkfhd.jpg",
+        "precio_final":  240
+    },
+    {
+        "nombre":  "Google QLED Riviera",
+        "precio_original":  175.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/televisor-google-qled-riviera-32-glt32tpq10/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/11/ri-rled-glt32tpq10.jpeg",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Televisor Google QLED Riviera 32″ GLT32TPQ10"
+                            ],
+        "imagen":  "imagenes/157-google-qled-riviera.jpg",
+        "precio_final":  250
+    },
+    {
+        "nombre":  "Tcl 32S5K 32 » fhd qled",
+        "precio_original":  185.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/smart-tv-tcl-32s5k-32-fhd-qled-android-14-google-tv/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/09/s5k32.jpg",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Smart tv Tcl 32S5K 32 » fhd qled android 14 google tv"
+                            ],
+        "imagen":  "imagenes/158-tcl-32s5k-32-fhd-qled.jpg",
+        "precio_final":  260
+    },
+    {
+        "nombre":  "Google LED HD Indurama",
+        "precio_original":  185.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/televisor-google-led-hd-indurama-32-32tikgf5hd/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/03/32tikgf5hd.jpeg",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Televisor Google LED HD Indurama 32″ 32TIKGF5HD"
+                            ],
+        "imagen":  "imagenes/159-google-led-hd-indurama.jpg",
+        "precio_final":  260
+    },
+    {
+        "nombre":  "HouseTV Televisor HouseTV",
+        "precio_original":  185.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/housetv-televisor-housetv-40-android-14/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/05/tv40.png",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "HouseTV Televisor HouseTV 40″ Android 14"
+                            ],
+        "imagen":  "imagenes/160-housetv-televisor-housetv.png",
+        "precio_final":  260
+    },
+    {
+        "nombre":  "Lg 32lr650bpsa",
+        "precio_original":  199.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/pantalla-lg-smart-tv-32-smart-tv-con-thinq-ai-32lr650bpsa/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/01/32lr650bpsa.avif",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "LG SMART TV 32» SMART TV con ThinQ AI 32LR650BPSA"
+                            ],
+        "imagen":  "https://mundotek.com.ec/wp-content/uploads/2025/01/32lr650bpsa.avif",
+        "precio_final":  270
+    },
+    {
+        "nombre":  "House Tv HT-43 43 » fhd led",
+        "precio_original":  200.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/smart-tv-house-tv-ht-43-43-fhd-led-android-14-definicion-full-hd/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/07/hausetv.jpg",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Smart tv House Tv HT-43 43 » fhd led android 14 definición full hd"
+                            ],
+        "imagen":  "imagenes/162-house-tv-ht-43-43-fhd-led.jpg",
+        "precio_final":  270
+    },
+    {
+        "nombre":  "Rca 40fhdrc 40",
+        "precio_original":  215.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/tv-rca-40fhdrc-40-fhd-led-android-11-google-tv-dolby-audio-bluetooth/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/11/40fhdrc-full-hd.jpg",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Tv Rca 40FHDRC 40 » fhd led google tv dolby audio bluetooth"
+                            ],
+        "imagen":  "imagenes/163-rca-40fhdrc-40.jpg",
+        "precio_final":  290
+    },
+    {
+        "nombre":  "Motorola 43mknfhd/",
+        "precio_original":  240.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/televisor-led-43-google-tv-motorola-43mknfhd/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/05/43mknfhd.jpg",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Televisor LED 43″ GOOGLE TV MOTOROLA 43MKNFHD"
+                            ],
+        "imagen":  "imagenes/164-motorola-43mknfhd.jpg",
+        "precio_final":  310
+    },
+    {
+        "nombre":  "Philips ph 43gfs fisdb 43",
+        "precio_original":  245.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/smart-tv-philips-ph-43gfs-fisdb-43-fhd-led-android-14-mando-2/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/11/philips-43-gfs-fisdb-1.jpg",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Smart tv Philips PH-43GFS-FISDB 43 » fhd led android 14 mando"
+                            ],
+        "imagen":  "imagenes/165-philips-ph-43gfs-fisdb-43.jpg",
+        "precio_final":  320
+    },
+    {
+        "nombre":  "43 Pulgadas TCL (43S5400)",
+        "precio_original":  249.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/tv-32-pulgadas-tcl-43s5400/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2023/08/s5400-front-.jpg",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Tv 43 Pulgadas TCL (43S5400)"
+                            ],
+        "imagen":  "imagenes/166-43-pulgadas-tcl-43s5400.jpg",
+        "precio_final":  320
+    },
+    {
+        "nombre":  "Innova in",
+        "precio_original":  249.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/smart-tv-innova-in-led-43fhd-gtv-mp-43-fhd-led-android-14-google-tv/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/12/tvled-43gfhd.jpg",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Smart tv Innova IN-LED-43FHD-GTV-MP 43 » fhd led android 14 google tv"
+                            ],
+        "imagen":  "imagenes/167-innova-in.jpg",
+        "precio_final":  320
+    },
+    {
+        "nombre":  "Hyundai FHD",
+        "precio_original":  275.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/tv-hyundai-fhd-43-pulgadas-hyled4326g-google-tv/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/06/hyled4326g.jpg",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "TV Hyundai FHD 43 pulgadas HYLED4326G Google TV"
+                            ],
+        "imagen":  "imagenes/168-hyundai-fhd.jpg",
+        "precio_final":  350
+    },
+    {
+        "nombre":  "Tcl 43S5K 43 » Qled",
+        "precio_original":  275.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/tv-tcl-43s5k-43-fhd-qled-android-14-google-tv/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/11/43s5k.jpg",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "TV Tcl 43S5K 43 » Qled android 14 google tv"
+                            ],
+        "imagen":  "imagenes/169-tcl-43s5k-43-qled.jpg",
+        "precio_final":  350
+    },
+    {
+        "nombre":  "Riviera ri rled glt43tpxm 43",
+        "precio_original":  289.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/smart-tv-riviera-ri-rled-glt43tpxm-43-fhd-1920x1080-led-hdr-android-google-tv-mando-de-voz/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2024/10/riviera-43.webp",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Smart tv Riviera RI-RLED-GLT43TPQ10 43 » QLED 43"
+                            ],
+        "imagen":  "imagenes/170-riviera-ri-rled-glt43tpxm-43.webp",
+        "precio_final":  360
+    },
+    {
+        "nombre":  "Tcl 43%e2%80%b3",
+        "precio_original":  299.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/tv-tcl-43%e2%80%b3-4k-hdr-google-tv-p635/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2022/11/Captura-de-pantalla_20221130_173941.png",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "TV TCL 43″ 4K HDR GOOGLE TV (P635)"
+                            ],
+        "imagen":  "imagenes/171-tcl-43-e2-80-b3.png",
+        "precio_final":  370
+    },
+    {
+        "nombre":  "INDURAMA TV 43TIKJ5UHD",
+        "precio_original":  309.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/smart-tv-indurama-tv-43tikjuhd-43pulgadas/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2024/02/tikhudhd.webp",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "SMART TV INDURAMA TV 43TIKJ5UHD 43Pulgadas"
+                            ],
+        "imagen":  "imagenes/172-indurama-tv-43tikj5uhd.webp",
+        "precio_final":  380
+    },
+    {
+        "nombre":  "Lg 43pulgadas",
+        "precio_original":  325.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/televisor-lg-43pulgadas-uhd-ai-43ua75-4k-smart-tv-2025/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/10/43ua75.webp",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Televisor LG 43pulgadas UHD AI 43UA75 4K Smart TV 2025"
+                            ],
+        "imagen":  "imagenes/173-lg-43pulgadas.webp",
+        "precio_final":  400
+    },
+    {
+        "nombre":  "Samsung 50u8000",
+        "precio_original":  339.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/televisor-samsung-led-50%e2%80%b3-pulgadas-crystal-uhd-4k-50u8000/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/04/televisor-samsung-led-50-pulgadas-mtk.webp",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Televisor Samsung LED 50″ Pulgadas Crystal UHD 4K 50U8000"
+                            ],
+        "imagen":  "imagenes/174-samsung-50u8000.webp",
+        "precio_final":  410
+    },
+    {
+        "nombre":  "Rca uhdrc",
+        "precio_original":  340.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/televisor-rca-50-pulgadas-uhdrc/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/08/50uhdrc.webp",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Televisor RCA 50 Pulgadas UHDRC"
+                            ],
+        "imagen":  "imagenes/175-rca-uhdrc.webp",
+        "precio_final":  410
+    },
+    {
+        "nombre":  "Innova IN LED 50UHD GTV",
+        "precio_original":  345.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/tv-innova-in-led-50uhd-gtv-50-google-tv/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2024/10/50uhd.png",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "TV Innova IN LED 50UHD GTV 50″ GOOGLE TV"
+                            ],
+        "imagen":  "imagenes/176-innova-in-led-50uhd-gtv.png",
+        "precio_final":  420
+    },
+    {
+        "nombre":  "RIVIERA QLED 4K -GLT50TPQ10",
+        "precio_original":  369.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/tv-riviera-qled-4k-glt50tpq10-50%e2%80%b3-google-tv/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/11/rled-glt50tpq10.png",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "TV RIVIERA QLED 4K -GLT50TPQ10 50″ GOOGLE TV"
+                            ],
+        "imagen":  "imagenes/177-riviera-qled-4k--glt50tpq10.png",
+        "precio_final":  440
+    },
+    {
+        "nombre":  "Crystal UHD DU7000 4K de 50” con sistema operativo Tizen",
+        "precio_original":  369.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/televisor-inteligente-crystal-uhd-du7000-4k-de-50-con-sistema-operativo-tizen-oferta-de-verano/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/01/du7000-mtk.webp",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Televisor inteligente Crystal UHD DU7000 4K de 50” con sistema operativo Tizen"
+                            ],
+        "imagen":  "imagenes/178-crystal-uhd-du7000-4k-de-50-con-sistema-operativo-tizen.webp",
+        "precio_final":  440
+    },
+    {
+        "nombre":  "Indurama LED 4K50 Pulgadas (50TIKGF2GUHD",
+        "precio_original":  379.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/tv-indurama-qled-50-pulgadas-50tikgf2guhd-google-tv/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2023/10/d_nq_np_783527-mec53271187298_012023-o.webp",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Tv Indurama LED 4K50 Pulgadas (50TIKGF2GUHD Google Tv)"
+                            ],
+        "imagen":  "imagenes/179-indurama-led-4k50-pulgadas-50tikgf2guhd.webp",
+        "precio_final":  450
+    },
+    {
+        "nombre":  "Innova in",
+        "precio_original":  379.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/smart-tv-innova-in-led-55uhd-gtv-mp-55-4k-uhd-led/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2024/12/in-led55mtk.jpg",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Smart tv Innova IN-LED-55UHD-GTV-MP 55 » 4k uhd led"
+                            ],
+        "imagen":  "imagenes/180-innova-in.jpg",
+        "precio_final":  450
+    },
+    {
+        "nombre":  "Riviera rled glt55tpx9 55",
+        "precio_original":  399.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/smart-tv-riviera-rled-glt55tpx9-55-4k-uhd-led-android-google-tv-color-negro/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/05/google-tv-glt55px9.jpg",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Smart tv Riviera RLED-GLT55PX9 55 » 4k uhd led android google tv color negro 2025"
+                            ],
+        "imagen":  "imagenes/181-riviera-rled-glt55tpx9-55.jpg",
+        "precio_final":  470
+    },
+    {
+        "nombre":  "LG UHD AI 50UA7500 4K",
+        "precio_original":  409.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/televisor-lg-uhd-ai-50ua7500-4k-smart-tv/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/03/50ua7500.jpeg",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Televisor LG UHD AI 50UA7500 4K Smart TV"
+                            ],
+        "imagen":  "imagenes/182-lg-uhd-ai-50ua7500-4k.jpg",
+        "precio_final":  480
+    },
+    {
+        "nombre":  "Tcl v6c televisor",
+        "precio_original":  415.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/televisor-led-55-pulgadas-tcl-v6c-televisor-4k-hdr-smart-tv-con-tecnologia-de-google-tv/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/02/tcl_55v6cuk_mtk.jpg",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+
+                            ],
+        "imagen":  "imagenes/183-tcl-v6c-televisor.jpg",
+        "precio_final":  490
+    },
+    {
+        "nombre":  "Hisense 55%e2%80%b3",
+        "precio_original":  419.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/televisor-tv-hisense-55%e2%80%b3-led-4k-smart-vidaa/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2024/05/tv-hisense-55-55a6h.jpg",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Tv Hisense 55″ LED 4K Smart VIDAA 55A6H"
+                            ],
+        "imagen":  "imagenes/184-hisense-55-e2-80-b3.jpg",
+        "precio_final":  490
+    },
+    {
+        "nombre":  "Hisense 55Q6QV 55 » 4k uhd QLED Vidaa",
+        "precio_original":  419.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/smart-tv-hisense-55q6qv-55-4k-uhd-qled-vidaa/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/02/55q6qv.jpg",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Televisor Hisense 55Q6QV 55 » 4k uhd QLED Vidaa"
+                            ],
+        "imagen":  "imagenes/185-hisense-55q6qv-55-4k-uhd-qled-vidaa.jpg",
+        "precio_final":  490
+    },
+    {
+        "nombre":  "Riviera QLED",
+        "precio_original":  429.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/televisor-riviera-qled-55-rled-glt55tpq10/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/11/rled-glt55tpq10.webp",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Televisor Riviera QLED 55″ RLED-GLT55TPQ10"
+                            ],
+        "imagen":  "imagenes/186-riviera-qled.webp",
+        "precio_final":  500
+    },
+    {
+        "nombre":  "Motorola 55MGFUHD Google 4K Tv",
+        "precio_original":  439.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/televisor-motorola-55tmkuhd-google-tv-55/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2024/10/mtk-tmkuhd.png",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Televisor Motorola 55MGFUHD Google 4K Tv 55″"
+                            ],
+        "imagen":  "imagenes/187-motorola-55mgfuhd-google-4k-tv.png",
+        "precio_final":  510
+    },
+    {
+        "nombre":  "PHILIPS QLED",
+        "precio_original":  439.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/televisor-philips-qled-55%e2%80%b3-pulgadas-uhd-4k-google-tv-q55gfu/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/02/55gfu.png",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Televisor PHILIPS QLED 55″ Pulgadas UHD 4K – Google TV – Q55gfu"
+                            ],
+        "imagen":  "imagenes/188-philips-qled.png",
+        "precio_final":  510
+    },
+    {
+        "nombre":  "Crystal UHD DU7000 4K de 50” con sistema operativo Tizen",
+        "precio_original":  459.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/televisor-inteligente-crystal-uhd-du7000-4k-de-50-con-sistema-operativo-tizen-2024-copia/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/01/du7000-mtk.webp",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Televisor inteligente Crystal UHD DU7000 4K de 50” con sistema operativo Tizen"
+                            ],
+        "imagen":  "imagenes/189-crystal-uhd-du7000-4k-de-50-con-sistema-operativo-tizen.webp",
+        "precio_final":  530
+    },
+    {
+        "nombre":  "Qled TCL 55T6C",
+        "precio_original":  469.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/televisor-qled-tcl-t6c-55-pulgadas/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/05/qled-tcl-t6c.webp",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Televisor Qled TCL 55T6C 55 PULGADAS"
+                            ],
+        "imagen":  "imagenes/190-qled-tcl-55t6c.webp",
+        "precio_final":  540
+    },
+    {
+        "nombre":  "Samsung 50q7faa",
+        "precio_original":  489.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/samsung-50-pulgadas-50q7faa-series-4k-vision-ai-smart-tv/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/04/q7faa-50.avif",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Samsung 50 pulgadas 50Q7FAA Series 4K Vision AI Smart TV"
+                            ],
+        "imagen":  "https://mundotek.com.ec/wp-content/uploads/2026/04/q7faa-50.avif",
+        "precio_final":  560
+    },
+    {
+        "nombre":  "55″ Crystal UHD 4K 55U8000 Tizen OS",
+        "precio_original":  499.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/tv-55-crystal-uhd-4k-u8000-tizen-os-smart-tv-2025/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/09/ue65u8000.png",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "TV 55″ Crystal UHD 4K 55U8000 Tizen OS Smart TV (2026)"
+                            ],
+        "imagen":  "imagenes/192-55-crystal-uhd-4k-55u8000-tizen-os.png",
+        "precio_final":  570
+    },
+    {
+        "nombre":  "INNOVA IN-TVLED-65GUHD-MP",
+        "precio_original":  519.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/televisor-innova-in-tvled-65guhd-mp-google-tv-65/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/04/tv65.avif",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "TELEVISOR INNOVA IN-TVLED-65GUHD-MP GOOGLE TV 65″"
+                            ],
+        "imagen":  "https://mundotek.com.ec/wp-content/uploads/2026/04/tv65.avif",
+        "precio_final":  590
+    },
+    {
+        "nombre":  "Philips Led 65GFS-FISDB",
+        "precio_original":  525.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/televisor-philips-led-65gfs-fisdb-google-tv-65/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/03/philips-65-gfs-fisdb.png",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Televisor Philips Led 65GFS-FISDB Google Tv 65″"
+                            ],
+        "imagen":  "imagenes/194-philips-led-65gfs-fisdb.png",
+        "precio_final":  600
+    },
+    {
+        "nombre":  "55″ LG UHD AI 4K",
+        "precio_original":  530.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/55-lg-uhd-ai-4k-smart-tv-55ua7300-2025/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/10/65ua73.webp",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "55″ LG UHD AI 4K Smart TV 55ua7300 2025"
+                            ],
+        "imagen":  "imagenes/195-55-lg-uhd-ai-4k.webp",
+        "precio_final":  600
+    },
+    {
+        "nombre":  "Samsung 55 mini",
+        "precio_original":  539.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/televisor-samsung-55-mini-led-uhd-un55m70hagxpe/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/06/nini-led-sam.webp",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Televisor Samsung 55″ Mini LED UHD UN55M70HAGXPE"
+                            ],
+        "imagen":  "imagenes/196-samsung-55-mini.webp",
+        "precio_final":  610
+    },
+    {
+        "nombre":  "Lg 60",
+        "precio_original":  549.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/televisor-lg-60-led-4k-uhd-60ua8500psa/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/05/60ua85.webp",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Televisor LG 60″ LED 4K UHD 60UA8500PSA"
+                            ],
+        "imagen":  "imagenes/197-lg-60.webp",
+        "precio_final":  620
+    },
+    {
+        "nombre":  "Pantalla LG NanoCell 55» NANO80TSA 4K",
+        "precio_original":  555.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/pantalla-lg-nanocell-55-nano77-4k-smart-tv-con-thinq-ai/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2023/09/55nano77.webp",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Pantalla LG NanoCell 55» NANO80TSA 4K SMART TV con ThinQ AI"
+                            ],
+        "imagen":  "imagenes/198-pantalla-lg-nanocell-55-nano80tsa-4k.webp",
+        "precio_final":  630
+    },
+    {
+        "nombre":  "Motorola 65",
+        "precio_original":  559.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/televisor-motorola-65-led-4k-uhd-65mnuhd/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/06/65mnuhd.webp",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Televisor Motorola 65″ LED 4K UHD 65MNUHD"
+                            ],
+        "imagen":  "imagenes/199-motorola-65.webp",
+        "precio_final":  630
+    },
+    {
+        "nombre":  "Riviera glt65px9 65",
+        "precio_original":  569.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/smart-tv-riviera-glt65px9-65-4k-uhd-led-android-google-tv-sin-borde-mando-de-voz-2025/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/05/tv-glt65px9.jpg",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Smart tv Riviera GLT65PX9 65 » 4k uhd led android google tv sin borde mando de voz 2025"
+                            ],
+        "imagen":  "imagenes/200-riviera-glt65px9-65.jpg",
+        "precio_final":  640
+    },
+    {
+        "nombre":  "65″ INDURAMA UHD",
+        "precio_original":  580.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/televisor-65-indurama-uhd-google-tv-tikgf2guhd/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/05/65-tikgf2gudh-4k-google-tv.png",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Televisor 65″ INDURAMA UHD Google Tv TIKGF2GUHD"
+                            ],
+        "imagen":  "imagenes/201-65-indurama-uhd.png",
+        "precio_final":  650
+    },
+    {
+        "nombre":  "Samsung vision ai",
+        "precio_original":  589.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/55-qled-q7f-4k-samsung-vision-ai-smart-tv-2025/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/09/tv.webp",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Tv Samsung 55″ QLED Q7FAA 4K Vision AI Smart TV (2025)"
+                            ],
+        "imagen":  "imagenes/202-samsung-vision-ai.webp",
+        "precio_final":  660
+    },
+    {
+        "nombre":  "65Pulgadas TCL P6K 4K UHD",
+        "precio_original":  599.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/televisor-65pulgadas-tcl-p6k-4k-uhd/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2025/04/p6k.jpg",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Televisor 65Pulgadas TCL P6K 4K UHD"
+                            ],
+        "imagen":  "imagenes/203-65pulgadas-tcl-p6k-4k-uhd.jpg",
+        "precio_final":  670
+    },
+    {
+        "nombre":  "Hisense Hi-QLED MiniLED",
+        "precio_original":  599.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/tv-hisense-hi-qled-miniled-55-4k-55u6esg-google-tv-2026/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/06/50u6esg.webp",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "TV Hisense Hi-QLED MiniLED 55″ 4K 55U6ESG Google TV 2026"
+                            ],
+        "imagen":  "imagenes/204-hisense-hi-qled-miniled.webp",
+        "precio_final":  670
+    },
+    {
+        "nombre":  "Tcl 55 p8l premium",
+        "precio_original":  610.0,
+        "categoria":  "Televisores",
+        "url_origen":  "https://mundotek.com.ec/producto/televisor-tcl-55-p8l-premium-qled-tv-2026/",
+        "imagen_candidata":  "https://mundotek.com.ec/wp-content/uploads/2026/04/p8l-55.webp",
+        "fuente":  "MundoTek TVs",
+        "caracteristicas":  [
+                                "Televisor TCL 55″ P8L Premium QLED QD-Mini LED TV 2026"
+                            ],
+        "imagen":  "imagenes/205-tcl-55-p8l-premium.webp",
+        "precio_final":  680
+    },
+    {
+        "nombre":  "HP VICTUS RYZEN 5 7535HS, 16GB RAM, 512GB SSD, VIDEO RTX 2050 4GB 15.6",
+        "precio_original":  799.99,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/hp-victus-ryzen-5-7535hs16gb-ram-512gb-ssd-nvidia-2050-4gb-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/51XtjSj8REL._AC_SX679.jpg?v=1716931826",
+        "codigo":  "PD-8776667463844",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "HP VICTUS RYZEN 5 7535HS",
+                                "16GB RAM",
+                                "512GB SSD",
+                                "VIDEO RTX 2050 4GB 15.6"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/51XtjSj8REL._AC_SX679.jpg?v=1716931826",
+        "precio_final":  870
+    },
+    {
+        "nombre":  "LENOVO ESENTIAL LOQ I5 12VA 16GB RAM 512GB SSD RTX 3050 15,6\"",
+        "precio_original":  860,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/lenovo-loq-i5-12va-16gb-ram-512gb-ssd-rtx-3050-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/81Uhu1v0kdL._AC_SX466.jpg?v=1788548676",
+        "codigo":  "PD-10385905451172",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "8 núcleos (4P + 4E)",
+                                "12 hilos",
+                                "Hasta 4.4 GHz",
+                                "12 MB de caché",
+                                "2 × 8 GB",
+                                "Doble canal"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/81Uhu1v0kdL._AC_SX466.jpg?v=1788548676",
+        "precio_final":  930
+    },
+    {
+        "nombre":  "LENOVO LOQ I5 12VA 8GB RAM 512GB SSD RTX 4050 15,6\"",
+        "precio_original":  960,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/lenovo-loq-i5-12va-8gb-ram-512gb-ssd-rtx-4050-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/61vmL_luODL._AC_SX466.jpg?v=1784661691",
+        "codigo":  "PD-10363803205796",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "Wi-Fi 6",
+                                "Bluetooth 5.2 o superior",
+                                "USB-C",
+                                "3 × USB-A 3.2",
+                                "HDMI 2.1",
+                                "Puerto RJ-45 (Ethernet)"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/61vmL_luODL._AC_SX466.jpg?v=1784661691",
+        "precio_final":  1030
+    },
+    {
+        "nombre":  "MSI Thin, Nvidia 4060 8GB, Ryzen 5 7535HS, 16GB, 512GB",
+        "precio_original":  969.75,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/msi-thin-nvidia-4060-8gb-ryzen-7535hs-16gb-512gb",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/b279b728-bb0b-4aab-9c87-ef03886f.png?v=1767823295",
+        "codigo":  "PD-10314416357540",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "MSI Thin",
+                                "Nvidia 4060 8GB",
+                                "Ryzen 5 7535HS",
+                                "16GB",
+                                "512GB"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/b279b728-bb0b-4aab-9c87-ef03886f.png?v=1767823295",
+        "precio_final":  1040
+    },
+    {
+        "nombre":  "HP VICTUS GAMING, 16GB RAM, 512GB SSD, Intel Core i5-13420H RTX 4050, T.Video 6GB",
+        "precio_original":  980,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/hp-victus-gaming-16gb-ram-512gb-ssd-intel-core-i5-13420h-rtx-4050-t-video-6gb",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/81T5GijquOL._AC_SX466.jpg?v=1738350210",
+        "codigo":  "PD-10182187352228",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "HP VICTUS GAMING",
+                                "16GB RAM",
+                                "512GB SSD",
+                                "Intel Core i5-13420H RTX 4050",
+                                "T.Video 6GB"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/81T5GijquOL._AC_SX466.jpg?v=1738350210",
+        "precio_final":  1050
+    },
+    {
+        "nombre":  "ASUS VIVOBOOK PRO ULTRA 7 16GB RAM 1TB SSD  RTX 6GB OLED 15.6\"",
+        "precio_original":  1030,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/asus-vivobook-pro-ultra-7-16gb-ram-1tb-ssd-rtx-6gb-oled-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/61e9lwZE90L._AC_SX355.jpg?v=1738261640",
+        "codigo":  "PD-10181238587556",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "ASUS VIVOBOOK PRO ULTRA 7 16GB RAM 1TB SSD  RTX 6GB OLED 15.6\""
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/61e9lwZE90L._AC_SX355.jpg?v=1738261640",
+        "precio_final":  1100
+    },
+    {
+        "nombre":  "LENOVO LOQ GAMING, RYZEN 5-7235HS, NVIDIA 4050 , 12GB RAM, 512GB SSD 15,6 \"",
+        "precio_original":  1050,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/lenovo-loq-gaming-ryzen-5-7235hs-nvidia-4050-16gb-ram-512gb-ssd-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/loq.png?v=1764777831",
+        "codigo":  "PD-10309442797732",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "Marca: Lenovo",
+                                "Serie y modelo: LOQ 83JC00GKUS",
+                                "Color: Gris",
+                                "Tipo: Laptop Gaming",
+                                "Marca: AMD",
+                                "Línea: Ryzen 5"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/loq.png?v=1764777831",
+        "precio_final":  1120
+    },
+    {
+        "nombre":  "HP VICTUS RYZEN 5 8645HS, 16GB RAM, 512GB SSD, VIDEO RTX 4050 6GB 15.6\u0027\u0027",
+        "precio_original":  1080,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/hp-victus-ryzen-5-8645hs-16gb-ram-512gb-ssd-video-rtx-4050-6gb-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/51XtjSj8REL._AC_SX679.jpg?v=1716931826",
+        "codigo":  "PD-10126419198116",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "HP VICTUS RYZEN 5 8645HS",
+                                "16GB RAM",
+                                "512GB SSD",
+                                "VIDEO RTX 4050 6GB 15.6\u0027\u0027"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/51XtjSj8REL._AC_SX679.jpg?v=1716931826",
+        "precio_final":  1150
+    },
+    {
+        "nombre":  "HP VICTUS RYZEN 7 7445 HS 16GB RAM 512GB SSD RTX 4050 15,6 \"",
+        "precio_original":  1150,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/hp-victus-ryzen-7-7445-hs-16gb-ram-512gb-ssd-rtx-4050-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/FOTOS-WEB-3.jpg?v=1780771116",
+        "codigo":  "PD-10355478167716",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "HP VICTUS RYZEN 7 7445 HS 16GB RAM 512GB SSD RTX 4050 15",
+                                "6 \""
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/FOTOS-WEB-3.jpg?v=1780771116",
+        "precio_final":  1220
+    },
+    {
+        "nombre":  "Acer Nitro V15, I7-13th, Nvidia 4050 6GB, 16GB, 512GB SSD, 15.6Pulg",
+        "precio_original":  1160,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/acer-nitro-v15-i7-13th-nvidia-4050-8gb-16gb-512gb-ssd-15-6pulg",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/download_2_960x_4a19f5a0-70d7-449a-a34f-e02f7eb4fa05.webp?v=1740593882",
+        "codigo":  "PD-10200878776484",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "Acer Nitro V15",
+                                "I7-13th",
+                                "Nvidia 4050 6GB",
+                                "16GB",
+                                "512GB SSD",
+                                "15.6Pulg"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/download_2_960x_4a19f5a0-70d7-449a-a34f-e02f7eb4fa05.webp?v=1740593882",
+        "precio_final":  1230
+    },
+    {
+        "nombre":  "ACER PREDATOR HELIOS I7-13VA 16GB RAM 512GB SSD RTX 4050 16\u0027\u0027",
+        "precio_original":  1169.99,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/acer-predator-helios-i7-13va-16gb-ram-512gb-ssd-rtx-4050-16",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/714W9MZUjXL._AC_SX466.jpg?v=1717190236",
+        "codigo":  "PD-8674902474916",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "ACER PREDATOR HELIOS I7-13VA 16GB RAM 512GB SSD RTX 4050 16\u0027\u0027"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/714W9MZUjXL._AC_SX466.jpg?v=1717190236",
+        "precio_final":  1240
+    },
+    {
+        "nombre":  "MSI KATANA 15 I7 13VA 512GB SSD 16GB RAM , RTX 4050 15,6\u0027\u0027",
+        "precio_original":  1180,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/msi-katana-15-b13v-intel-core-i7-13-va-1tb-ssd-32gb-t-video-6gb-gaming-15-6-copia",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/71q1tX7SB3L._AC_SL1500.jpg?v=1759175804",
+        "codigo":  "PD-10293727559844",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "MSI KATANA 15 I7 13VA 512GB SSD 16GB RAM",
+                                "RTX 4050 15",
+                                "6\u0027\u0027"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/71q1tX7SB3L._AC_SL1500.jpg?v=1759175804",
+        "precio_final":  1250
+    },
+    {
+        "nombre":  "MSI CYBORG I7-12va, 16GB RAM, 512GB SSD, Nvidia 4060 8GB, 15,6pulg",
+        "precio_original":  1180,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/msi-cyborg-i7-12va-32gb-ram-512gb-ssd-nvidia-4060-8gb-15-6pulg",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/614ZMzgvyiL.__AC_SY300_SX300_QL70_FMwebp.webp?v=1727560597",
+        "codigo":  "PD-8806246613156",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "MSI CYBORG I7-12va",
+                                "16GB RAM",
+                                "512GB SSD",
+                                "Nvidia 4060 8GB",
+                                "6pulg"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/614ZMzgvyiL.__AC_SY300_SX300_QL70_FMwebp.webp?v=1727560597",
+        "precio_final":  1250
+    },
+    {
+        "nombre":  "HP VICTUS I7-13VA, Nvidia 5050 8GB, 15.6Pulg 16GB RAM, 512GB SSD",
+        "precio_original":  1189.75,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/hp-victus-i7-13va-nvidia-5050-8gb-15-6pulg-16gb-ram-512gb-ssd",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/1761668974_1925489.jpg?v=1784669357",
+        "codigo":  "PD-10363848392868",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "Procesador: Intel Core i7-13620H de 13.ª Generación (10 núcleos, hasta 4.9 GHz)",
+                                "Memoria RAM: 16GB DDR5 5200 MHz (2 x 8GB, expandible)",
+                                "Almacenamiento: 512GB PCIe 4.0 NVMe M.2 SSD",
+                                "Pantalla: 15.6\" IPS Full HD (1920 × 1080)",
+                                "Frecuencia de actualización: 144Hz",
+                                "Brillo: 300 nits"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/1761668974_1925489.jpg?v=1784669357",
+        "precio_final":  1260
+    },
+    {
+        "nombre":  "MSI CYBORG I7-13va, 16GB RAM, 512GB SSD, Nvidia 4050 6GB, 15,6pulg",
+        "precio_original":  1199,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/msi-cyborg-i7-13va-32gb-ram-512gb-ssd-nvidia-4050-6gb-15-6pulg",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/614ZMzgvyiL.__AC_SY300_SX300_QL70_FMwebp.webp?v=1727560597",
+        "codigo":  "PD-10183816609956",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "MSI CYBORG I7-13va",
+                                "16GB RAM",
+                                "512GB SSD",
+                                "Nvidia 4050 6GB",
+                                "6pulg"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/614ZMzgvyiL.__AC_SY300_SX300_QL70_FMwebp.webp?v=1727560597",
+        "precio_final":  1270
+    },
+    {
+        "nombre":  "ASUS TUF A16 RYZEN 7 - 7445HS 16GB RAM 512GB SSD RTX 4050 16\"",
+        "precio_original":  1220,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/asus-tuf-a16-ryzen-7-7445hs-16gb-ram-512gb-ssd-rtx-4050-16",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/51FT1Fy-LqL._AC_SL1080_600x600_3ca00deb-f13f-4056-bb5e-d4756a1c87ad.webp?v=1761242322",
+        "codigo":  "PD-10301308436644",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "ASUS TUF A16 RYZEN 7 - 7445HS 16GB RAM 512GB SSD RTX 4050 16\""
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/51FT1Fy-LqL._AC_SL1080_600x600_3ca00deb-f13f-4056-bb5e-d4756a1c87ad.webp?v=1761242322",
+        "precio_final":  1290
+    },
+    {
+        "nombre":  "ASUS CREATOR OLED I9-13VA 24GB RAM 1TB SSD RTX 6GB GAMING 15.6\"",
+        "precio_original":  1220,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/asus-creator-i9-13va-40gb-ram-1tb-ssd-rtx-3050-gaming-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/download.jpg?v=1702587006",
+        "codigo":  "PD-8343314923684",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "ASUS CREATOR OLED I9-13VA 24GB RAM 1TB SSD RTX 6GB GAMING 15.6\""
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/download.jpg?v=1702587006",
+        "precio_final":  1290
+    },
+    {
+        "nombre":  "Acer Nitro V15, Ryzen 7-7735HS, Nvidia 4060 6GB, 16GB, 1TB SSD, 15.6Pulg",
+        "precio_original":  1229.75,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/acer-nitro-v15-ryzen-7-7735hs-nvidia-4060-8gb-16gb-1tb-ssd-15-6pulg",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/download_1_a5233636-86fc-4935-a16a-a941364e409a.png?v=1731624143",
+        "codigo":  "PD-10125781074084",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "Sistema operativo: Windows 11 Home",
+                                "Procesador: AMD Ryzen™ 7 7735HS Octa-core (8 núcleos) 3,20 GHz",
+                                "Tarjeta de video: NVIDIA® GeForce RTX™ 4060 con 8 GB de memoria dedicada",
+                                "Pantalla: 39,6 cm (15,6\") Full HD (1920 x 1080) 16:9 IPS 165 Hz",
+                                "RAM: 16 GB, DDR5 SDRAM",
+                                "Almacenamiento: 1TB SSD"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/download_1_a5233636-86fc-4935-a16a-a941364e409a.png?v=1731624143",
+        "precio_final":  1300
+    },
+    {
+        "nombre":  "ASUS VIVOBOOK PRO I7-13VA 16GB RAM 1TB SSD RTX 4050 GAMING - 16",
+        "precio_original":  1230,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/asus-vivobook-pro-i7-13va-16gb-ram-1tb-ssd-rtx-4050-gaming-16",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/61VsVEBnjHL._AC_SX466.jpg?v=1749937298",
+        "codigo":  "PD-10256677404836",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "ASUS VIVOBOOK PRO I7-13VA 16GB RAM 1TB SSD RTX 4050 GAMING - 16"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/61VsVEBnjHL._AC_SX466.jpg?v=1749937298",
+        "precio_final":  1300
+    },
+    {
+        "nombre":  "ACER NITRO V15 I7-13VA 16GB RAM 512GB SSD RTX 4060  GAMING - 15.6",
+        "precio_original":  1269,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/acer-nitro-v-i7-13va-16gb-ram-512gb-ssd-rtx-4060-gaming-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/61JyxiKucCL._AC_SX466.jpg?v=1750102609",
+        "codigo":  "PD-10257779130532",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "ACER NITRO V15 I7-13VA 16GB RAM 512GB SSD RTX 4060  GAMING - 15.6"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/61JyxiKucCL._AC_SX466.jpg?v=1750102609",
+        "precio_final":  1340
+    },
+    {
+        "nombre":  "MSI CYBORG I7-13va, 16GB RAM, 512GB SSD, Nvidia 4060 8GB, 15,6pulg",
+        "precio_original":  1269,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/msi-cyborg-i7-13va-16gb-ram-512gb-ssd-nvidia-4060-8gb-15-6pulg",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/614ZMzgvyiL.__AC_SY300_SX300_QL70_FMwebp.webp?v=1727560597",
+        "codigo":  "PD-10260606714020",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "MSI CYBORG I7-13va",
+                                "16GB RAM",
+                                "512GB SSD",
+                                "Nvidia 4060 8GB",
+                                "6pulg"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/614ZMzgvyiL.__AC_SY300_SX300_QL70_FMwebp.webp?v=1727560597",
+        "precio_final":  1340
+    },
+    {
+        "nombre":  "HP OMEN SLIM ULTRA 5 225H 16GB RAM 1TB SSD RTX 5050 16\"",
+        "precio_original":  1270,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/hp-omen-slim-ultra-5-225h-16gb-ram-1-tb-ssd-rtx-5050-16",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/HP-16-Slim-Gaming-Laptop-Intel-Core-Ultra-5-225h-16GB-RAM-1-TB-SSD-Nvidia-5050-Black_3f3481c3-547c-48e9-ad29-17e0227b92a5.43fb.avif?v=1787763116",
+        "codigo":  "PD-10383195832484",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "Marca: Intel",
+                                "Procesador: Intel Core Ultra 5 225H",
+                                "Generación: Intel Core Ultra Serie 2 — Arrow Lake",
+                                "Núcleos: 14 núcleos 4 Performance Cores",
+                                "8 Efficient Cores",
+                                "2 Low Power Efficient Cores"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/HP-16-Slim-Gaming-Laptop-Intel-Core-Ultra-5-225h-16GB-RAM-1-TB-SSD-Nvidia-5050-Black_3f3481c3-547c-48e9-ad29-17e0227b92a5.43fb.avif?v=1787763116",
+        "precio_final":  1340
+    },
+    {
+        "nombre":  "ASUS VIVOBOOK PRO ULTRA 9 16GB RAM 512Gb SSD  RTX 6GB OLED 15.6\"",
+        "precio_original":  1280,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/asus-vivobook-pro-ultra-9-24gb-ram-2tb-ssd-rtx-6gb-oled-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/61e9lwZE90L._AC_SX466.jpg?v=1738263041",
+        "codigo":  "PD-10181248614564",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "ASUS VIVOBOOK PRO ULTRA 9 16GB RAM 512Gb SSD  RTX 6GB OLED 15.6\""
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/61e9lwZE90L._AC_SX466.jpg?v=1738263041",
+        "precio_final":  1350
+    },
+    {
+        "nombre":  "ASUS TUF A16 RYZEN 7 170 16GB RAM 512GB SSD RTX 4050 15,6\"",
+        "precio_original":  1280,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/asus-tuf-a16-ryzen-7-170-16gb-ram-512gb-ssd-rtx-4050-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/198ff5b3-dc27-487a-b44f-90133198c6d9.webp?v=1788894243",
+        "codigo":  "PD-10388341588132",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "ASUS TUF A16 RYZEN 7 170 16GB RAM 512GB SSD RTX 4050 15"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/198ff5b3-dc27-487a-b44f-90133198c6d9.webp?v=1788894243",
+        "precio_final":  1350
+    },
+    {
+        "nombre":  "LENOVO LOQ RYZEN 7-8000HS 16GB RAM 512GB SSD RTX 4050 WINDOWS 11 - 15.6",
+        "precio_original":  1299,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/lenovo-loq-ryzen-7-8000hs-16gb-ram-512gb-ssd-rtx-4050-windows-11-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/81oevc8aUkL._AC_SY355.jpg?v=1742336865",
+        "codigo":  "PD-10213785370788",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "LENOVO LOQ RYZEN 7-8000HS 16GB RAM 512GB SSD RTX 4050 WINDOWS 11 - 15.6"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/81oevc8aUkL._AC_SY355.jpg?v=1742336865",
+        "precio_final":  1370
+    },
+    {
+        "nombre":  "ASUS TUF F16 I7 13VA 16GB RAM 512GB SSD RTX 4050 15,6\"",
+        "precio_original":  1299,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/asus-tuf-f16-i7-13vav16gb-ram-512gb-ssd-rtx-4050-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/71ZEi4fMrzL._AC_SX466.jpg?v=1785791569",
+        "codigo":  "PD-10368139788452",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "Procesador: Intel® Core™ i7-13620H de 13.ª generación (alto rendimiento para gaming, edición y multitarea)",
+                                "Núcleos / Hilos: 10 núcleos (6 de rendimiento + 4 de eficiencia) / 16 hilos",
+                                "Frecuencia Máxima: Hasta 4.90 GHz",
+                                "Memoria Caché: 24 MB Intel Smart Cache",
+                                "Memoria RAM: 16 GB DDR5",
+                                "Almacenamiento: 512 GB SSD M.2 NVMe PCIe 4.0"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/71ZEi4fMrzL._AC_SX466.jpg?v=1785791569",
+        "precio_final":  1370
+    },
+    {
+        "nombre":  "Acer Nitro V16 AI Ryzen 7 260, Nvidia 5050 8GB, 16GB Ram, 512GB SSD, 16\u0027\u0027",
+        "precio_original":  1299.75,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/acer-nitro-v16-ai-ryzen-7-260-nvidia-5050-8gb-16gb-ram-512gb-ssd-16",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/Acer-Nitro-V-16-1920-x-1200-WUXGA-180Hz-Gaming-Laptop-AMD-Ryzen-5-16GB-RAM-512GB-Obsidian-Black.b7fe9f9a122e8e83c9a01ba3e05c5b95_aaa619ab-b103-4640-9fdc-d7f811735757.png?v=1764794664",
+        "codigo":  "PD-10309484380324",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "1× USB-C 4.0 Gen 1",
+                                "2× USB-A 3.2 Gen 2",
+                                "1× USB-A 3.2 Gen 1",
+                                "1× conector de audio 3.5 mm",
+                                "1× HDMI 2.1",
+                                "1× LAN RJ-45"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/Acer-Nitro-V-16-1920-x-1200-WUXGA-180Hz-Gaming-Laptop-AMD-Ryzen-5-16GB-RAM-512GB-Obsidian-Black.b7fe9f9a122e8e83c9a01ba3e05c5b95_aaa619ab-b103-4640-9fdc-d7f811735757.png?v=1764794664",
+        "precio_final":  1370
+    },
+    {
+        "nombre":  "MSI KATANA A15 RYZEN 7 - 8000 16GB RAM 1TB SSD RTX 4060 - 15.6",
+        "precio_original":  1300,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/msi-katana-a15-ryzen-7-8000-32gb-ram-1tb-ssd-rtx-4060-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/41qQxjCTxhL._AC_SX355.jpg?v=1743716034",
+        "codigo":  "PD-10270001856676",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "MSI KATANA A15 RYZEN 7 - 8000 16GB RAM 1TB SSD RTX 4060 - 15.6"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/41qQxjCTxhL._AC_SX355.jpg?v=1743716034",
+        "precio_final":  1370
+    },
+    {
+        "nombre":  "Acer Nitro V15, Ryzen 7-7735HS, Nvidia 4050 8GB, 32GB, 1TB SSD, 15.6Pulg",
+        "precio_original":  1339.75,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/acer-nitro-v15-ryzen-7-7735hs-nvidia-4060-8gb-32gb-1tb-ssd-15-6pulg",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/download_1_a5233636-86fc-4935-a16a-a941364e409a.png?v=1731624143",
+        "codigo":  "PD-10270002184356",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "Sistema operativo: Windows 11 Home",
+                                "Procesador: AMD Ryzen™ 7 7735HS Octa-core (8 núcleos) 3,20 GHz",
+                                "Tarjeta de video: NVIDIA® GeForce RTX™ 4060 con 8 GB de memoria dedicada",
+                                "Pantalla: 39,6 cm (15,6\") Full HD (1920 x 1080) 16:9 IPS 165 Hz",
+                                "RAM: 32GB, DDR5 SDRAM",
+                                "Almacenamiento: 1TB SSD"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/download_1_a5233636-86fc-4935-a16a-a941364e409a.png?v=1731624143",
+        "precio_final":  1410
+    },
+    {
+        "nombre":  "MSI KATANA I7 - 14VA 512GB SSD 16GB RAM, NVIDIA 5050 GAMING 15,6\"",
+        "precio_original":  1349.99,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/msi-katana-15-i7-14va-512gb-ssd-16gb-ram-nvidia-5050-gaming-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/MSI-KATANA-15-HX-i7-5050-WEB-600x600.png?v=1764794156",
+        "codigo":  "PD-10309483036836",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "MSI KATANA I7 - 14VA 512GB SSD 16GB RAM",
+                                "NVIDIA 5050 GAMING 15"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/MSI-KATANA-15-HX-i7-5050-WEB-600x600.png?v=1764794156",
+        "precio_final":  1420
+    },
+    {
+        "nombre":  "MSI STEALTH I9-12VA 32GB RAM 1TB SSD RTX 3060 GAMING - 17\"",
+        "precio_original":  1350,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/msi-stealth-i9-12va-32gb-ram-1tb-ssd-rtx-3060-gaming-17",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/51mcq-tKFCL._AC_SX466.jpg?v=1730841457",
+        "codigo":  "PD-10119310311588",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "MSI STEALTH I9-12VA 32GB RAM 1TB SSD RTX 3060 GAMING - 17\""
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/51mcq-tKFCL._AC_SX466.jpg?v=1730841457",
+        "precio_final":  1420
+    },
+    {
+        "nombre":  "DELL ALIENWARE 15 RYZEN 5 220 16GB RAM 512GB SSD RTX 4050 15,3\"",
+        "precio_original":  1350,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/dell-alienware-15-ryzen-5-220-16gb-ram-512gb-ssd-rtx-4050-15-3",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/71H9l9lZDAL._AC_SX466.jpg?v=1790017923",
+        "codigo":  "PD-10391862902948",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "6 núcleos / 12 hilos",
+                                "Frecuencia máxima de hasta 4.9 GHz",
+                                "22 MB de caché total",
+                                "TDP de 28 W",
+                                "Gráficos integrados AMD Radeon 740M",
+                                "16 GB DDR5"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/71H9l9lZDAL._AC_SX466.jpg?v=1790017923",
+        "precio_final":  1420
+    },
+    {
+        "nombre":  "MSI CYBORG I7-13va, 16GB RAM, 1TB SSD, Nvidia 4060 8GB, 15,6pulg",
+        "precio_original":  1380,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/msi-cyborg-i7-13va-32gb-ram-1tb-ssd-nvidia-4060-8gb-15-6pulg",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/614ZMzgvyiL.__AC_SY300_SX300_QL70_FMwebp.webp?v=1727560597",
+        "codigo":  "PD-10270002020516",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "MSI CYBORG I7-13va",
+                                "16GB RAM",
+                                "1TB SSD",
+                                "Nvidia 4060 8GB",
+                                "6pulg"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/614ZMzgvyiL.__AC_SY300_SX300_QL70_FMwebp.webp?v=1727560597",
+        "precio_final":  1450
+    },
+    {
+        "nombre":  "DELL INSPIRON 16 7640 ULTRA 7 24 GB RAM 1 TB SSD RTX 4060 16\"",
+        "precio_original":  1380,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/dell-inspiron-16-7640-ultra-7-24-gb-ram-1-tb-ssd-16",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/71gsS9LIKsL._AC_SX466.jpg?v=1769278433",
+        "codigo":  "PD-10316433162404",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "DELL INSPIRON 16 7640 ULTRA 7 24 GB RAM 1 TB SSD RTX 4060 16\""
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/71gsS9LIKsL._AC_SX466.jpg?v=1769278433",
+        "precio_final":  1450
+    },
+    {
+        "nombre":  "HP VICTUS I7-13VA 32GB RAM 1TB SSD RTX 4060 WINDOWS 11 - 16\"",
+        "precio_original":  1399,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/hp-victus-i7-13va-32gb-ram-1tb-ssd-rtx-4060-windows-11-16",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/16-r0073cl_png.webp?v=1743101531",
+        "codigo":  "PD-10218352738468",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "Procesador Intel® Core™ i7 13520H de 13va generación",
+                                "Windows 11 Home",
+                                "Unidad de estado sólido PCIe® Gen4 NVMe™ TLC M.2 de 1 TB",
+                                "16.1",
+                                "NVIDIA® GeForce RTX™ 4060"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/16-r0073cl_png.webp?v=1743101531",
+        "precio_final":  1470
+    },
+    {
+        "nombre":  "ACER PREDATOR HELIOS I7-13VA 32GB RAM 512GB SSD RTX 4050 16\u0027\u0027",
+        "precio_original":  1399,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/acer-predator-helios-i7-13va-32gb-ram-512gb-ssd-rtx-4050-16",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/61aVzm_ib5L._AC_SX466_73600e68-4587-40d0-af14-af50a649f2e9.jpg?v=1717190933",
+        "codigo":  "PD-8674903851172",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "ACER PREDATOR HELIOS I7-13VA 32GB RAM 512GB SSD RTX 4050 16\u0027\u0027"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/61aVzm_ib5L._AC_SX466_73600e68-4587-40d0-af14-af50a649f2e9.jpg?v=1717190933",
+        "precio_final":  1470
+    },
+    {
+        "nombre":  "ACER NITRO V15 I7 13VA 512GB SSD 16GB RAM RTX 5050 15,6\"",
+        "precio_original":  1399,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/acer-nitro-v15-i7-13va-1tb-ssd-16gb-ram-rtx-5050-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/acer-nitro-v-15-anv15-52-non-fingerprint-with-backlit-on-wp-black-02_10.webp?v=1778274381",
+        "codigo":  "PD-10350107656356",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "ACER NITRO V15 I7 13VA 512GB SSD 16GB RAM RTX 5050 15"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/acer-nitro-v-15-anv15-52-non-fingerprint-with-backlit-on-wp-black-02_10.webp?v=1778274381",
+        "precio_final":  1470
+    },
+    {
+        "nombre":  "HP VICTUS I7-13VA, Nvidia 5050 8GB, 15.6Pulg 32GB RAM, 512GB SSD",
+        "precio_original":  1399.75,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/hp-victus-i7-13va-nvidia-5050-8gb-15-6pulg-32gb-ram-512gb-ssd",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/1761668974_1925489.jpg?v=1784669357",
+        "codigo":  "PD-10385131241636",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "Procesador: Intel Core i7-13620H de 13.ª Generación (10 núcleos, hasta 4.9 GHz)",
+                                "Memoria RAM: 32GB DDR5 5200 MHz",
+                                "Almacenamiento: 512GB PCIe 4.0 NVMe M.2 SSD",
+                                "Pantalla: 15.6\" IPS Full HD (1920 × 1080)",
+                                "Frecuencia de actualización: 144Hz",
+                                "Brillo: 300 nits"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/1761668974_1925489.jpg?v=1784669357",
+        "precio_final":  1470
+    },
+    {
+        "nombre":  "MSI CYBORG A17 RYZEN 7 260W 16GB RAM 1TB SSD RTX 5050 17\"",
+        "precio_original":  1400,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/msi-cyborg-a17-ryzen-7-260w-16gb-ram-1tb-ssd-rtx-5050-17",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/826342b4-9e74-4e75-ae6a-0329b0d29dd0.jpg?v=1786031341",
+        "codigo":  "PD-10368544538788",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "AMD Ryzen™ 7 260",
+                                "8 núcleos / 16 hilos",
+                                "Frecuencia base: 3.8 GHz",
+                                "Frecuencia máxima: Hasta 5.1 GHz",
+                                "Caché total: 24 MB",
+                                "17.3 pulgadas"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/826342b4-9e74-4e75-ae6a-0329b0d29dd0.jpg?v=1786031341",
+        "precio_final":  1470
+    },
+    {
+        "nombre":  "ALIENWARE 16 AURORA CORE 7 16GB RAM 1TB SSD RTX 5050 WINDOWS 11 16\"",
+        "precio_original":  1420,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/alienware-16-aurora-core-7-16gb-ram-1tb-ssd-rtx-5050-windows-11-16",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/71oM7NX7_yL._AC_SX466.jpg?v=1768940959",
+        "codigo":  "PD-10315957043364",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "Procesador: Intel Core 7 240H, 10 núcleos, 16 hilos, hasta 5.2 GHz",
+                                "Memoria RAM: 16GB DDR5 5600 MT/s",
+                                "Disco: 1TB SSD PCIe NVMe M.2",
+                                "Tarjeta de video: NVIDIA GeForce RTX 5050 8GB GDDR7",
+                                "Sistema operativo: Windows 11 Home",
+                                "Pantalla: 16\" WQXGA (2560 x 1600), 120Hz, 300 nits, 100% sRGB, ComfortView Plus"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/71oM7NX7_yL._AC_SX466.jpg?v=1768940959",
+        "precio_final":  1490
+    },
+    {
+        "nombre":  "ASUS VIVOBOOK 16X I9-13VA   32GB RAM 1TB SSD RTX 4050 - 16\"",
+        "precio_original":  1450,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/asus-vivobook-16x-i9-13va-32gb-ram-1tb-ssd-rtx-4050-16",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/71tCc_B4KeL._AC_SX466.jpg?v=1746814676",
+        "codigo":  "PD-10238703042724",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "ASUS VIVOBOOK 16X I9-13VA   32GB RAM 1TB SSD RTX 4050 - 16\""
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/71tCc_B4KeL._AC_SX466.jpg?v=1746814676",
+        "precio_final":  1520
+    },
+    {
+        "nombre":  "MSI CYBORG 15 CORE 7 240H 32GB RAM 1TB SSD RTX 5050 15,6 \"",
+        "precio_original":  1450,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/msi-cyborg-15-core-7-240h-32gb-ram-1tb-ssd-rtx-5050c15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/mtec_msi_cyborg_15_b2rwekg_laptop_gaming_1.webp?v=1780771932",
+        "codigo":  "PD-10355479019684",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "MSI CYBORG 15 CORE 7 240H 32GB RAM 1TB SSD RTX 5050 15",
+                                "6 \""
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/mtec_msi_cyborg_15_b2rwekg_laptop_gaming_1.webp?v=1780771932",
+        "precio_final":  1520
+    },
+    {
+        "nombre":  "HP OMEN 17 - RYZEN Al 7 350W 16GB RAM 512GB SSD RTX 5050 GAMING 17,3\"",
+        "precio_original":  1450,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/hp-omen-17-ryzen-al-7-350w-16gb-ram-512gb-ssd-rtx-5050-gaming-17-3",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/71SS_Tt28hL._AC_SX466.jpg?v=1757623520",
+        "codigo":  "PD-10287243165860",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "HP OMEN 17 - RYZEN Al 7 350W 16GB RAM 512GB SSD RTX 5050 GAMING 17"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/71SS_Tt28hL._AC_SX466.jpg?v=1757623520",
+        "precio_final":  1520
+    },
+    {
+        "nombre":  "Acer Nitro 17, i7-13VA, 32GB, 1TB, Nvidia 4060 8GB 18\"",
+        "precio_original":  1460,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/acer-predator-helios-neo-18-i7-13va-32gb-1tb-nvidia-4060-8gb-18",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/71nz3cIcFOL._AC_SX466.jpg?v=1759515770",
+        "codigo":  "PD-10294277865636",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "Acer Nitro 17",
+                                "i7-13VA",
+                                "32GB",
+                                "1TB",
+                                "Nvidia 4060 8GB 18\""
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/71nz3cIcFOL._AC_SX466.jpg?v=1759515770",
+        "precio_final":  1530
+    },
+    {
+        "nombre":  "ASUS ROG G16 ZEPHYRUS I7-13VA 16GB RAM 512GB SSD RTX 4070 - 16",
+        "precio_original":  1460,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/asus-rog-g16-zephyrus-i7-13va-32gb-ram-512gb-ssd-rtx-4060-16-copia",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/61PEBTiIq6L._AC_SX355.jpg?v=1740605388",
+        "codigo":  "PD-10273983791268",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "ASUS ROG G16 ZEPHYRUS I7-13VA 16GB RAM 512GB SSD RTX 4070 - 16"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/61PEBTiIq6L._AC_SX355.jpg?v=1740605388",
+        "precio_final":  1530
+    },
+    {
+        "nombre":  "ASUS TUF F15 I7-13VA 16GB RAM 1TB SSD RTX 4070 GAMING 15.6",
+        "precio_original":  1480,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/asus-tuf-f15-i7-13va-32gb-ram-1tb-ssd-rtx-4070-gaming-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/61C0Zq8g0iL.jpg?v=1748721933",
+        "codigo":  "PD-10241877344420",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "ASUS TUF F15 I7-13VA 16GB RAM 1TB SSD RTX 4070 GAMING 15.6"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/61C0Zq8g0iL.jpg?v=1748721933",
+        "precio_final":  1550
+    },
+    {
+        "nombre":  "HP VICTUS RYZEN AI 7 350 16GB RAM 1TB SSD RTX 5060 15,6\"",
+        "precio_original":  1480,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/hp-victus-ryzen-ai-7-350-16gb-ram-1tb-ssd-rtx-5060-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/614OLGZtdtL._AC_SX466_ae6787c0-8046-4934-950a-6385408a8c3b.jpg?v=1784229534",
+        "codigo":  "PD-10363040891044",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "Wi-Fi 6E",
+                                "Bluetooth® 5.3",
+                                "1 × USB-C (10 Gbps, DisplayPort™ 1.4, HP Sleep \u0026 Charge)",
+                                "2 × USB-A (5 Gbps)",
+                                "1 × HDMI 2.1",
+                                "1 × RJ-45 Ethernet"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/614OLGZtdtL._AC_SX466_ae6787c0-8046-4934-950a-6385408a8c3b.jpg?v=1784229534",
+        "precio_final":  1550
+    },
+    {
+        "nombre":  "MSI KATANA A17 RYZEN 9 - 8945HS 32 GB RAM 1TB SSD RTX 4050 - 17",
+        "precio_original":  1489,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/msi-katana-a17-ryzen-9-8945hs-32-gb-ram-1tb-ssd-rtx-4050-17",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/71Zcl_FFsSL._AC_SY355_1200x1200_e5ae0e96-a1ca-4914-9c78-4ec1824a2cca.jpg?v=1758911435",
+        "codigo":  "PD-10292582056100",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "MSI KATANA A17 RYZEN 9 - 8945HS 32 GB RAM 1TB SSD RTX 4050 - 17"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/71Zcl_FFsSL._AC_SY355_1200x1200_e5ae0e96-a1ca-4914-9c78-4ec1824a2cca.jpg?v=1758911435",
+        "precio_final":  1560
+    },
+    {
+        "nombre":  "Lenovo LOQ Gaming, Ryzen 7-7840HS, Nvidia 4050 6GB, 32GB Ram, 1TB",
+        "precio_original":  1499,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/lenovo-loq-gaming-laptop-ryzen-7-7840hs-nvidia-4050-8gb-32gb-ram-1tb",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/Laptop-Lenovo-Loq-15aph8-82xt001nus-008345-3_png_73826b94-d732-4d18-9f9a-a49e621dd8fa.webp?v=1730231304",
+        "codigo":  "PD-10115268214948",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "USB-C 3.2 Gen 2 (10Gbps, DisplayPort™ 1.4, 140W power delivery)",
+                                "Headphone / mic combo",
+                                "USB-A 2.0",
+                                "Ethernet (RJ45)",
+                                "2x USB-A 3.2 Gen 2 (10Gbps)",
+                                "HDMI 2.1"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/Laptop-Lenovo-Loq-15aph8-82xt001nus-008345-3_png_73826b94-d732-4d18-9f9a-a49e621dd8fa.webp?v=1730231304",
+        "precio_final":  1570
+    },
+    {
+        "nombre":  "ACER NITRO V16 Core 7 240H, Nvidia 5060, 16GB, 1TB",
+        "precio_original":  1520,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/acer-nitro-core-7-240h-nvidia-5060-16gb-1tb",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/61AEP51n1eL._AC_SL1500.jpg?v=1779316272",
+        "codigo":  "PD-10352062136484",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "ACER NITRO V16 Core 7 240H",
+                                "Nvidia 5060",
+                                "16GB",
+                                "1TB"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/61AEP51n1eL._AC_SL1500.jpg?v=1779316272",
+        "precio_final":  1590
+    },
+    {
+        "nombre":  "DELL INSPIRON 7630 I7-13VA 32GB RAM 2TB SSD, Nvidia 4060 8GB 16\u0027\u0027",
+        "precio_original":  1539.75,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/dell-inspiron-7630-i7-13va-32gb-ram-2tb-ssd-nvidia-4060-16",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/1-5.webp?v=1753476985",
+        "codigo":  "PD-10269996941476",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "DELL INSPIRON 7630 I7-13VA 32GB RAM 2TB SSD",
+                                "Nvidia 4060 8GB 16\u0027\u0027"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/1-5.webp?v=1753476985",
+        "precio_final":  1610
+    },
+    {
+        "nombre":  "HP OMEN SLIM  ULTRA 7 32 GB RAM - 1 TB SSD RTX 5060 - 15,6",
+        "precio_original":  1549.99,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/hp-omen-slim-ultra-7-64-gb-ram-1-tb-ssd-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/25C1_OMEN_16_Thin_ShadowBlack_NT_nonFPR_LoL_ArtScreen_CoreSet_Front_WhiteBG_4020453.webp?v=1766775270",
+        "codigo":  "PD-10312177975460",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "HP OMEN SLIM  ULTRA 7 32 GB RAM - 1 TB SSD RTX 5060 - 15"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/25C1_OMEN_16_Thin_ShadowBlack_NT_nonFPR_LoL_ArtScreen_CoreSet_Front_WhiteBG_4020453.webp?v=1766775270",
+        "precio_final":  1620
+    },
+    {
+        "nombre":  "ASUS VIVOBOOK PRO 16 I9-13VA 32GB RAM 1TB SSD RTX 4060 GAMING - 16\"",
+        "precio_original":  1550,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/asus-vivobook-pro-16-i9-13va-32gb-ram-1tb-ssd-rtx-4060-gaming-16",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/51EagZz_-rL._AC_SX466.jpg?v=1747326322",
+        "codigo":  "PD-10241877967012",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "ASUS VIVOBOOK PRO 16 I9-13VA 32GB RAM 1TB SSD RTX 4060 GAMING - 16\""
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/51EagZz_-rL._AC_SX466.jpg?v=1747326322",
+        "precio_final":  1620
+    },
+    {
+        "nombre":  "ASUS ROG FLOW Z13 I9-13VA 16GB RAM 1TB SSD RTX 4050 - 13.3\"",
+        "precio_original":  1550,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/asus-rog-flow-z13-i9-13va-16gb-ram-1tb-ssd-rtx-4050-13-3-copia",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/617sKVfH4qL._UF894_1000_QL80.jpg?v=1753977127",
+        "codigo":  "PD-10272216154276",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "ASUS ROG FLOW Z13 I9-13VA 16GB RAM 1TB SSD RTX 4050 - 13.3\""
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/617sKVfH4qL._UF894_1000_QL80.jpg?v=1753977127",
+        "precio_final":  1620
+    },
+    {
+        "nombre":  "DELL ALIENWARE 16  AURORA , CORE 7 240H , 16 GB RAM , 1TB SSD RTX 5060 16 \"",
+        "precio_original":  1550,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/dell-alienware-16-aurora-core-7-240h-16-gb-ram-1tb-ssd-rtx-5060-16",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/ALIENWARE.png?v=1773180510",
+        "codigo":  "PD-10336766623908",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "Marca: Dell Alienware",
+                                "Serie y modelo: 16 AURORA AC16250",
+                                "Color: Azul",
+                                "Tipo: Laptop Gaming",
+                                "Marca: Intel",
+                                "Línea: Core 7"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/ALIENWARE.png?v=1773180510",
+        "precio_final":  1620
+    },
+    {
+        "nombre":  "MSI KATANA RYZEN 9 - 8900HS 32GB RAM 1TB SSD  RTX 4070 WINDOWS 11- 15.6\"",
+        "precio_original":  1599,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/msi-katana-ryzen-9-8900hs-32gb-ram-1tb-ssd-rtx-4070-windows-11-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/715S_XXuydL._AC_SX466.jpg?v=1736535989",
+        "codigo":  "PD-10166461661348",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "MSI KATANA RYZEN 9 - 8900HS 32GB RAM 1TB SSD  RTX 4070 WINDOWS 11- 15.6\""
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/715S_XXuydL._AC_SX466.jpg?v=1736535989",
+        "precio_final":  1670
+    },
+    {
+        "nombre":  "LENOVO LEGION SLIM 5 RYZEN 7-7700H 32GB RAM 1TB SSD RTX 4070 - 15.6\"",
+        "precio_original":  1599,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/lenovo-legion-slim-5-ryzen-7-7700h-32gb-ram-1tb-ssd-rtx-4070-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/71lbhqSIetL._AC_SX679.jpg?v=1735240645",
+        "codigo":  "PD-10153981411492",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "LENOVO LEGION SLIM 5 RYZEN 7-7700H 32GB RAM 1TB SSD RTX 4070 - 15.6\""
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/71lbhqSIetL._AC_SX679.jpg?v=1735240645",
+        "precio_final":  1670
+    },
+    {
+        "nombre":  "LENOVO LEGION 5  RYZEN 7- 260W 16GB RAM 512Gb SSD RTX 5060 15,6 \"",
+        "precio_original":  1600,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/lenovo-legion-5-ryzen-7-260w-32gb-ram-1tb-ssd-rtx-5060-15-6",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/81iyX5WMqCL._AC_SX466.jpg?v=1771517899",
+        "codigo":  "PD-10328603361444",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "LENOVO LEGION 5  RYZEN 7- 260W 16GB RAM 512Gb SSD RTX 5060 15",
+                                "6 \""
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/81iyX5WMqCL._AC_SX466.jpg?v=1771517899",
+        "precio_final":  1670
+    },
+    {
+        "nombre":  "LENOVO LEGION 5 I7 14VA 32GB RAM 512GB SSD RTX 4070 16\"",
+        "precio_original":  1600,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/lenovo-legion-5-i7-14va-32gb-ram-512gb-ssd-rtx-4070-16",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/81DkuwU9VzL._AC_SX466.jpg?v=1783116929",
+        "codigo":  "PD-10360915493028",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "Base: 2.2 GHz",
+                                "Turbo Máximo: Hasta 5.2 GHz",
+                                "Tamaño: 16 pulgadas",
+                                "Resolución: WQXGA (2560 × 1600) (en la mayoría de configuraciones del Legion 5 16IRX9 con RTX 4070)",
+                                "Relación de aspecto: 16:10",
+                                "Tasa de refresco: 165 Hz"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/81DkuwU9VzL._AC_SX466.jpg?v=1783116929",
+        "precio_final":  1670
+    },
+    {
+        "nombre":  "ALIENWARE 16 AURORA CORE 7 32GB RAM 1TB SSD RTX 5050 WINDOWS 11 16\"",
+        "precio_original":  1620,
+        "categoria":  "Laptop Gaming",
+        "url_origen":  "https://planetadigitalec.com/products/alienware-16-aurora-core-7-32gb-ram-1tb-ssd-rtx-5050-windows-11-16",
+        "imagen_candidata":  "https://cdn.shopify.com/s/files/1/2308/0861/files/71oM7NX7_yL._AC_SX466.jpg?v=1768940959",
+        "codigo":  "PD-10385133469860",
+        "fuente":  "Planeta Digital",
+        "caracteristicas":  [
+                                "Procesador: Intel Core 7 240H, 10 núcleos, 16 hilos, hasta 5.2 GHz",
+                                "Memoria RAM: 32GB DDR5 5600 MT/s",
+                                "Disco: 1TB SSD PCIe NVMe M.2",
+                                "Tarjeta de video: NVIDIA GeForce RTX 5050 8GB GDDR7",
+                                "Sistema operativo: Windows 11 Home",
+                                "Pantalla: 16\" WQXGA (2560 x 1600), 120Hz, 300 nits, 100% sRGB, ComfortView Plus"
+                            ],
+        "imagen":  "https://cdn.shopify.com/s/files/1/2308/0861/files/71oM7NX7_yL._AC_SX466.jpg?v=1768940959",
+        "precio_final":  1690
+    }
+]
